@@ -6,7 +6,7 @@
   "GLOIRE A DIEU",
   "HYMNES ET GOSPEL",
   "CHANTS MIXTES",
-  "FƆGBE HAN"
+  "FƆNGBE HAN"
  ],
  "series_chants_mixtes": {
   "H": "Hymnes",
@@ -87,7 +87,7 @@
      "reference": "CF. 1"
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 2,
      "reference": "Han 2"
     }
@@ -281,7 +281,7 @@
      "reference": "AS. 1"
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 4,
      "reference": "Han 4"
     }
@@ -394,7 +394,7 @@
      "reference": "CF. 2"
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 6,
      "reference": "Han 6"
     }
@@ -1011,7 +1011,7 @@
      "numero": 18
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 18,
      "reference": "Han 18"
     }
@@ -1164,7 +1164,7 @@
      "numero": 19
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 19,
      "reference": "Han 19"
     }
@@ -2638,7 +2638,7 @@
      "numero": 40
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 40,
      "reference": "Han 40"
     }
@@ -4948,7 +4948,7 @@
      "numero": 70
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 70,
      "reference": "Han 70"
     }
@@ -5609,7 +5609,7 @@
      "reference": "AS. 17"
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 79,
      "reference": "Han 79"
     }
@@ -7399,7 +7399,7 @@
      "reference": "AS. 23"
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 106,
      "reference": "Han 106"
     }
@@ -11100,7 +11100,7 @@
      "numero": 157
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 157,
      "reference": "Han 157"
     }
@@ -17901,7 +17901,7 @@
      "numero": 573
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 573,
      "reference": "Han 573"
     }
@@ -20091,7 +20091,7 @@
      "numero": 606
     },
     {
-     "livre": "FƆGBE HAN",
+     "livre": "FƆNGBE HAN",
      "numero": 606,
      "reference": "Han 606"
     }
@@ -71896,6 +71896,6 @@
   }
  ],
  "livres_notes": {
-  "FƆGBE HAN": "Han N = traduction fongbe du Cantique N de LES CANTIQUES ANCIENS ; le texte fongbe se trouve dans le champ \"fongbe\" du chant"
+  "FƆNGBE HAN": "Han N = traduction fongbe du Cantique N de LES CANTIQUES ANCIENS ; le texte fongbe se trouve dans le champ \"fongbe\" du chant"
  }
 }
