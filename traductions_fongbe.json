@@ -1,5 +1,6 @@
 {
- "description": "Traductions fongbe extraites de Han_Fongbe-Fr.pdf (Han N = Cantique N de LES CANTIQUES ANCIENS). Les refrains sont les lignes en italique du PDF.",
+ "description": "Traductions fongbe extraites de Han_Fongbe-Fr.pdf et Anciennes_traduc.pdf (Han N = Cantique N de LES CANTIQUES ANCIENS, sauf indication). Les refrains sont les lignes en gras-italique du PDF.",
+"Version": "1.1",
  "livre": "FƆNGBE HAN",
  "traductions": [
   {
@@ -92,6 +93,39 @@
   },
   {
    "livre": "FƆNGBE HAN",
+   "han": 5,
+   "reference": "Han 5",
+   "chant_id": "anc-005",
+   "titre_francais": "Nous le louerons, nous le louerons !",
+   "titre_fongbe": "Mi na kpa we",
+   "refrain": [
+    "Mǐ na kpa wé, Mǐ na kpa wé!",
+    "Mǐ na kpa Aklúnɔ hwebinú!",
+    "Mǐ na kpa wé, Mǐ na kpa wé!",
+    "Mǐ na kpa Aklúnɔ hwebinú!"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Jǎan mɔ nɔvi ɖé e",
+      "lɛ́ngbɔ vi ɔ cyán lɛ́ɛ",
+      "bɔ yɛ̌ ɖo Aklúnɔ kpa wɛ lɛ́ɛ",
+      "(Sǔnnǔ) ɖɛ̌ ɖo han ji wɛ",
+      "(Nyɔnu) ɖɛ̌ ɖo ɖɛ́ xo wɛ",
+      "(Mɛ bi) bɔ yɛ̌ bi ɖo axɔsú ɔ mlà wɛ"
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": [
+    "Refrain déduit : le bloc de 4 lignes qui se répète avant et après le couplet (pas de gras-italique dans le PDF).",
+    "Caractères du PDF convertis par déduction (à relire) : ă → ǎ ; ӗ → ɛ̌ ; ủ → ǔ ; ủ → ǔ ; ӗ → ɛ̌ ; ↄ → ɔ ; ӗ → ɛ̌ ; ӗ → ɛ̌"
+   ]
+  },
+  {
+   "livre": "FƆNGBE HAN",
    "han": 6,
    "reference": "Han 6",
    "chant_id": "anc-006",
@@ -119,6 +153,57 @@
     }
    ],
    "audioUrl": null
+  },
+  {
+   "livre": "FƆNGBE HAN",
+   "han": 11,
+   "reference": "Han 11",
+   "chant_id": "anc-011",
+   "titre_francais": "Nous Te louons ô Père,",
+   "titre_fongbe": "Mi ɖo kpikpa we wɛ tɔ",
+   "refrain": [
+    "Aleluya nu otɔ",
+    "Aleluya ami",
+    "Aleluya nu otɔ",
+    "Yi mavɔmavɔ"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Mi ɖo kpikpa we wɛ tɔ",
+      "Nu vi wanyinanɔ towe",
+      "Nu hwlɛngantɔ e ku bɔ a sɔ nyi tɔn su e"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Mi ɖo kpikpa we wɛ tɔ",
+      "Nu Yɛ weziza nɔ",
+      "E ɖe hwlɛngantɔ xlɛ mi bo nya ablu do zɔ e"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Mi sɔ yɛyi lɛɛ nu we",
+      "Mi sɔ susu lɛɛ nu we",
+      "Ɖo hwlɛngan e ɖo Jesu mɛ e ɖe ayi towe xlɛ mi"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "Mi ɖo kpikpa we wɛ tɔ",
+      "Gbɛ towe gɔ mimɛ",
+      "Myɔ towe ji ɖo mimɛ wanyiyi towe gɔ mi fla"
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": []
   },
   {
    "livre": "FƆNGBE HAN",
@@ -245,6 +330,37 @@
   },
   {
    "livre": "FƆNGBE HAN",
+   "han": 20,
+   "reference": "Han 20",
+   "chant_id": "anc-020",
+   "titre_francais": "En invoquant : seigneur !",
+   "titre_fongbe": "Enyi mi ylɔ Aklunɔ ɔ",
+   "refrain": null,
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Enyi mi ylɔ Aklunɔ ɔ",
+      "Gbigbɔ mitɔn nɔ mɔ gan",
+      "Mi hɛn ɔ mi na sɔ alɔ ɛ",
+      "Bo na mɔ gbɛ jɔ gbɛ ɔ yi",
+      "Ma ɖoto kɛntɔ o",
+      "Hwɛjijɔ tɔn lɛɛ o",
+      "Lo ɔ lɛkɔ kpɔn yɛ ɔ",
+      "Ɖ’Aklunɔ Jezu Klis’.",
+      "Wɔn hwiɖe bi kpete",
+      "(A)klunɔ Jezu ɛɛn ami."
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": [
+    "Aucun refrain repéré. Les 2 dernières lignes (en caractères normaux, alors que le reste est en italique) sont peut-être un refrain."
+   ]
+  },
+  {
+   "livre": "FƆNGBE HAN",
    "han": 40,
    "reference": "Han 40",
    "chant_id": "anc-040",
@@ -366,6 +482,85 @@
   },
   {
    "livre": "FƆNGBE HAN",
+   "han": 73,
+   "reference": "Han 73",
+   "chant_id": "anc-073",
+   "titre_francais": "Oh, quelle joie nous sommes dans l’Eglise !",
+   "titre_fongbe": "Awajijɛ wɛ nyi bɔ mi ɖ’Agun mɛ",
+   "refrain": null,
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Awajijɛ wɛ nyi bɔ mi ɖ’Agun mɛ",
+      "Nu ɖé ba wɛ mi ɖé mi mɔ loo",
+      "Gigo nu Mawu gbɛ tɔn kplé mi",
+      "Jésu-Klisu wɛ nyi gbɛ mi tɔn (vɔɖɔ)"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Ɖ’ayi ɔ mi ɖo fluflu wɛ",
+      "Bɔ mi ɖo nɔtɛn ɖé ba wɛ",
+      "Mi kó mɔ nɔtɛn enɛ ɔ din",
+      "Ɖo Agun ɖe mi jó lo ɔ mɛ (vɔɖɔ)"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "E kpla mi w’ayi enɛ ji",
+      "Bɔ mi bi mi ɖu Klisu gbɛ",
+      "Fi wɛ Mawu jólo na nɔ",
+      "Fi wɛ mi bi mɔ ɖyɔ ɖé (vɔɖɔ)"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "Aléluya è ko sá mi",
+      "Bɔ mi sé Aklunɔ sín gbé",
+      "Gbigbɔ mitɔn mɛ ɔ Mawu ɖɔ",
+      "Agun cé wɛ nyɛ wɛ cyan ye (vɔɖɔ)"
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": [
+    "« (vɔɖɔ) » est conservé tel quel dans le texte (indication du PDF).",
+    "Caractères du PDF convertis par déduction (à relire) : ἐ → ɛ ; ¨ → (supprimé)"
+   ]
+  },
+  {
+   "livre": "FƆNGBE HAN",
+   "han": 77,
+   "reference": "Han 77",
+   "chant_id": "anc-077",
+   "titre_francais": "Seigneur, Tu es devenu l’Esprit,",
+   "titre_fongbe": "Aklunɔ a huzu yɛ mimɛ",
+   "refrain": [
+    "Aklunɔ, ami, Aklunɔ ami aleluya",
+    "Aklunɔ, ami, Aklunɔ ami aleluya"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Aklunɔ a huzu yɛ mimɛ",
+      "Yɛ mimɛ e nɔ na gbɛ mi e",
+      "A ɖo gbɛ ɖo yɛ mitɔn mɛ",
+      "Mi ɖo vivi towe ɖu wɛ ma gbo kɔ"
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": []
+  },
+  {
+   "livre": "FƆNGBE HAN",
    "han": 79,
    "reference": "Han 79",
    "chant_id": "anc-079",
@@ -473,6 +668,146 @@
   },
   {
    "livre": "FƆNGBE HAN",
+   "han": 122,
+   "reference": "Han 122",
+   "chant_id": "anc-122",
+   "titre_francais": "Dans Son Eglise, nous vivons",
+   "titre_fongbe": "Ɖo Agun tɔn mɛ ɔ, mi nɔ zan gbɛ ɖokpo nyinyi nugbo ɔ",
+   "refrain": [
+    "Wanyiyi nɔvi tɔn (vɔɖɔ)",
+    "Ɖo sisa wɛ ɖo Agun lɛɛ mɛ (vɔɖɔ)",
+    "Wanyiyi nɔvi tɔn"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Ɖo Agun tɔn mɛ ɔ, mi nɔ zan gbɛ ɖokpo nyinyi nugbo ɔ",
+      "Mi nɔ ji han lɛɛ, bo nɔ ɖe kunnu, enɛ ɔ wɛ nyi nujɔnu",
+      "Ɖo agbaza mɛ ɔ mi nɔ mɔ vivi susu ɖaxo ɖe tɔn",
+      "Gbɛ e ɖo mi mɛ ɔ ɛɛn hwebinu ɔ nɔ jlo kɔnɖokpɔ"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Enyi mi ɖo kɔnɖokpɔ ganji ɔ, xomɛ nɔ hun mɛ bi",
+      "Mi mɛ bi nɔ jɛ awa ɖo yɛ ɔ gɔ mi tunfla",
+      "Nɔvi sunu kpo nyɔnu kpo bi ɖo nukɔn yi wɛ",
+      "Mi nɔ sɔ gbɛtɔ yɔyɔ ɔ do, Klisu nyi nubi nu mi"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Sisa wanyiyi tɔn nɔ sa sin aga, bo nɔ sa ɖo mɛ bi mɛ",
+      "Sisa e nɛ ɔ e ɖo mi mɛ ɔ nɔ ɖe gbɛ Mawu tɔn xlɛ",
+      "kɔnɖokpɔ ɖo weziza nu ɔ zɔn bɔ mi nyi ɖokpo",
+      "Mi nɔ su kpo nɔvi lɛɛ kpo ɖo Klisu mɛ hwebinu"
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": [
+    "Couplet 3 : la ligne « kɔnɖokpɔ ɖo weziza… » commence par une minuscule ; je l'ai gardée telle quelle.",
+    "Caractères du PDF convertis par déduction (à relire) : ↄ → ɔ"
+   ]
+  },
+  {
+   "livre": "FƆNGBE HAN",
+   "han": 132,
+   "reference": "Han 132",
+   "chant_id": "anc-132",
+   "titre_francais": "Nous sommes rassemblés en tant que Ton corps,",
+   "titre_fongbe": "Mi sɛ ta kple gɛgɛ ɖi agbaza towe",
+   "refrain": [
+    "(A)gbaza ɖokpo ɔ wɛ tǐn ɖo wɛkɛ ɔ mɛ",
+    "Mi nyi xlɛ tɔn ɖ’ayikungban ji",
+    "Toxo ɖokpo mɛ zogbɛn hɛntin ɔ nɔ ɖɔ",
+    "Nu mɛ bi sésé ɖɔ mi nyi ɖokpo"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Mi sɛ ta kple gɛgɛ ɖi agbaza towe",
+      "Mi sukpɔ co mi bi wɛ nyi ɖokpo",
+      "Mi nyi wujɔnu towe bo ma gbɛ towe",
+      "Gbɔn hwi ɖesu ji ɔ mi bi (wɛ) nyi ɖokpo"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Wɔxuxu ɖokpo wɛ nyi xlɛ agbaza towe tɔn",
+      "Enyi finfɛn bɔ mɛ mimɛ lɛ ɖu",
+      "Mi ɖo ɖiɖɔ wɛ gbɔn wɔxuxu ɔ gbla mɛ",
+      "Ɖɔ mi nyi ɖokpo kpo mɛ mimɛ lɛ kpo"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Klisu s’axɔ bo do xɔ mɛ mimɛ lɛ",
+      "Bo nu mi mɛ bi na blo agbaza tɔn",
+      "Wɔxu(xu) kpo vɛɛn kpo ɖe wuntun ɖokpo xlɛ mi",
+      "Bo xlɛ mi ɖɔ mi ɖo na nyi ɖokpo"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "Ɖokponyinyi ɔ wɛ zɔn bɔ kɛntɔ j’ayi",
+      "Ɖokponyi(nyi) énɛ ɔ Klisu ɖokpo gée wɛ",
+      "Xlɛ susu nɔ kɔfu wɔxuxu ɖokpo",
+      "Ɖe ɖokponyinyi enɛ ɔ xlɛ gbɛ ɔ bi"
+     ]
+    },
+    {
+     "ordre": 5,
+     "lignes": [
+      "Susu tɛ ɖié yɛ ɔ nɔ ɖe kunnu nu mi",
+      "Ɖɔ hwi wɛ nyi Aklunɔ mitɔn",
+      "Ɖɔkpɔn tɛ ɖié ɖokponyinyi ɔ xɔ akwɛ",
+      "(A)su gigo nɔ (A)gun towe ɖo te kpɔn we"
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": []
+  },
+  {
+   "livre": "FƆNGBE HAN",
+   "han": 143,
+   "reference": "Han 143",
+   "chant_id": "anc-143",
+   "titre_francais": "Et la Parole a été faite chair,",
+   "titre_fongbe": "E sɔ Mawuxo ɔ do huzu gbɛtɔ",
+   "refrain": [
+    "Aklunɔ ɖo gbɛ ɖo mimɛ",
+    "A ɖo susu wɛ ɖo mimɛ",
+    "A nɔ huzu mi do alɔ towe ji",
+    "Gba Agun ɔ ɖo ayikungban ji"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "E sɔ Mawuxo ɔ do huzu gbɛtɔ",
+      "Bɔ e wa bo wa nɔ mi mɛ",
+      "E gɔ kpo fɛnu kpodo nugbo kpo",
+      "Nɔvi lɛɛ bi mɔ susu tɔn"
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": []
+  },
+  {
+   "livre": "FƆNGBE HAN",
    "han": 157,
    "reference": "Han 157",
    "chant_id": "anc-157",
@@ -553,6 +888,138 @@
     }
    ],
    "audioUrl": null
+  },
+  {
+   "livre": "FƆNGBE HAN",
+   "han": 504,
+   "reference": "Han 504",
+   "chant_id": "anc-504",
+   "titre_francais": "J’ai erré loin, oui, loin de Dieu,",
+   "titre_fongbe": "Un flu, bo sɛ yi zɔ nu we",
+   "refrain": [
+    "Un lɛkɔ wa, un lɛkɔ wa",
+    "Un lɛkɔ wa bi xwǐ",
+    "Hun wanyiyi wa towe lɛɛ nu mi",
+    "(A)klunɔ un lɛkɔ wa"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Un flu, bo sɛ yi zɔ nu we",
+      "Din ɔ un lɛkɔ wa",
+      "Hwɛ mɛ jijɛ ɖo fi bi",
+      "(A)klunɔ, un lɛkɔ wa"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Un gu hwenu, gege ɖo gbe",
+      "Din ɔ un lɛkɔ wa",
+      "Un jɛ aluwɛ mɛ, bo gbɔ bo ɖyɔ",
+      "(A)klunɔ un lɛkɔ wa"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Hwɛhuhu kpo zɔ sɛyi nu we kpo cikɔ",
+      "Din ɔ un lɛkɔ wa",
+      "Hwi kpo xó towé kpo, wɛ un ɖì nu na",
+      "(A)klunɔ un lɛkɔ wa"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "Un ba gan kpo, bɔ ayi ce gbado",
+      "Din ɔ un lɛkɔ wa",
+      "Na mi nukunɖiɖo, kpo hlɔnhlɔn kpo",
+      "(A)klunɔ un lɛkɔ wa"
+     ]
+    },
+    {
+     "ordre": 5,
+     "lignes": [
+      "Nukunɖiɖo ce, ’wajijɛ ce",
+      "Din ɔ un lɛkɔ wa",
+      "Jezu hwi wɛ kú, do ta ce mɛ",
+      "(A)klunɔ un lɛkɔ wa"
+     ]
+    },
+    {
+     "ordre": 6,
+     "lignes": [
+      "Un tunwun ɖɔ un ɖó, hudó hun ɔ tɔn",
+      "Din ɔ un lɛkɔ wa",
+      "Ɖi lawe ɖɔhun ɔ, é nɔ lɛ mi we",
+      "(A)klunɔ un lɛkɔ wa"
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": [
+    "Caractères du PDF convertis par déduction (à relire) : ὶ → ì"
+   ]
+  },
+  {
+   "livre": "FƆNGBE HAN",
+   "han": 566,
+   "reference": "Han 566",
+   "chant_id": "anc-566",
+   "titre_francais": "Le Seigneur de gloire paraîtra,",
+   "titre_fongbe": "Aklunɔ susunɔ ɔ na wa bo na jɛte sín jixwe",
+   "refrain": [
+    "Aklunɔ na wá ɖo susu mɛ",
+    "Mi (ni) ɖó mima ɖo ɖuɖeji ɔ mɛ",
+    "Aklunɔ na wá ɖo susu mɛ",
+    "Aleluya é na ɖyɔ mi bi xwǐ"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Aklunɔ susunɔ ɔ na wa bo na jɛte sín jixwe",
+      "mɛ e d’amlɔ ɖo nuɖiɖi mɛ lɛ na fɔn",
+      "Aklunɔ susunɔ ɔ na wa bo na sɔ mɛ e ɖo gbɛ lɛɛ",
+      "bɔ ɖo kɔndokpɔ mɛ ɔ mi bi xwǐ na ɖyɔ"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Aklunɔ susunɔ ɔ na wá, mi ɖo te kpɔn azan enɛ ɔ",
+      "E na sunsun ɖasin lɛɛ kpo avi lɛɛ kpo",
+      "Aklunɔ susunɔ ɔ na wa bo na ɖu axɔsu",
+      "E na su kun do nu kú kpo wuvɛ lɛɛ kpo"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Aklunɔ, sunvi zanzan tɔn na slɔ zaanɖe din",
+      "Mi (ni) nɔ wunzɛn bo na mɔ ajɔ ɔ yi",
+      "Weziza hwɛjijɔnɔ na zawe gbɔn gbɛ ɔ bi mɛ",
+      "(Bɔ) gbɔn eyɛ mɛ (ɔ) Ayikungban na nyi vivɔjɔ"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "Aklunɔ susunɔ ɔ na wa, mi bi ni nɔ acéji",
+      "Mi (ni) nɔ wunzɛn bo hɛn zogbɛn (lɛɛ) ɖo tita",
+      "Mi (ni) nɔ gbeji bo ma ɖi gankwɛ e ɖo asi nu mi lɛɛ o",
+      "Mi ni wa azɔ ɖee e zɔn mi lɛɛ"
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": [
+    "Plusieurs lignes commencent par une minuscule dans le PDF ; je les ai gardées telles quelles (strophes de 4 lignes)."
+   ]
   },
   {
    "livre": "FƆNGBE HAN",
@@ -652,6 +1119,128 @@
     }
    ],
    "audioUrl": null
+  },
+  {
+   "livre": "FƆNGBE HAN",
+   "han": 615,
+   "reference": "Han 615",
+   "chant_id": "anc-615",
+   "titre_francais": "Comme une terre altérée",
+   "titre_fongbe": "Ɖi lee ayikungban e xu ɔ",
+   "refrain": [
+    "Sin fifa ééé,",
+    "Ja kɔn nyi mi bi ji",
+    "Oo sin lɔn mɛ tɔn lɛɛ e mi,",
+    "Mi wa fa kɔ nu mi"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Ɖi lee ayikungban e xu ɔ",
+      "Nɔ ɖo sin ji tɔ ba wɛ ɔ,",
+      "Mi ɖo sin fɛnu ɔ tɔn ylɔ wɛ",
+      "Fɛnu tɔn Emanuwɛ(lu)"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Jɛte, o ji ɖàxo",
+      "Ja hoho do ayi mitɔn mɛ",
+      "Na mɛ e ɖo sin ba wɛ lɛ é",
+      "Fifa yɔyɔ ɖevo"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Ma jo nu xuxu ɖe do",
+      "Ni ma gɔn sinsɛn na o",
+      "Ayixa e xú ganji ɔ",
+      "ɖo na mɔ sin fifa yi"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "Ɛn gbetotlo lɛ ni zɔn ama",
+      "Ɖo sin towe ɖagbe lɛ nu",
+      "Bonu fie xu lɛ ni zɔn kpɛɛn",
+      "Bo na sinsɛn yɔyɔ"
+     ]
+    },
+    {
+     "ordre": 5,
+     "lignes": [
+      "Wá; ô ji ɖagbewatɔ",
+      "Yɛ fɛnu kpo fifa kpo (tɔn)",
+      "Kɔn gbɛ e mɔ nɔ xu gbeɖee",
+      "Do mi bi xwǐ mɛɛɛ"
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": [
+    "Caractères du PDF convertis par déduction (à relire) : ԑ → ɛ"
+   ]
+  },
+  {
+   "livre": "FƆNGBE HAN",
+   "han": 789,
+   "reference": "Han 789",
+   "chant_id": "anc-585",
+   "titre_francais": "Quel ami fidèle et tendre",
+   "titre_fongbe": "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
+   "refrain": null,
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
+      "Bɔ mi ɖo ɖo Jezu mɛ",
+      "Hwebinu ɔ é ɖo gbesìsɔ mɛ",
+      "Bo na se ɖɛ gbe mitɔn",
+      "E ka tunwun ayijijɛ mitɔn",
+      "Ahwan funfun hwebinu",
+      "Eɖo gbeji ɖo xo tɔn lɛ́ mɛ",
+      "Bo gɔ kpo wanyiyi kpo"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
+      "Bɔ mi ɖo ɖo Jezu mɛ",
+      "E sɔ gbe na hwlɛn mi gan",
+      "Ɖo linkpɔn mitɔn lɛ mɛ",
+      "Mi ɖɔ linkpɔn mitɔn lɛ n’i",
+      "Bó hun ayixa mitɔn n’i",
+      "Xo tɔn mimɛ lɛ na na mi",
+      "Nyɔna nujɔnu lɛ mi"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
+      "Bɔ mi ɖo ɖo Jezu mɛ",
+      "E ɖo kplɔn kplɔn mi wɛ ɖɔ ji",
+      "Mi ni gan jɛ émi wu",
+      "E mɔ mi ɖo gbeji bɔ mi ɖo",
+      "Gbɛ tɔn mimɛ ba wɛ ɔ",
+      "E nɔ ɖotó ɖɛ mi tɔn lɛ",
+      "Bo nɔ tun kan nu mi bi"
+     ]
+    }
+   ],
+   "audioUrl": null,
+   "source": "Anciennes_traduc.pdf",
+   "a_verifier": [
+    "Numéro « 789 » tel qu'écrit dans le PDF. Le chant français correspondant (Quel ami fidèle et tendre) est le n°585 des CANTIQUES ANCIENS, d'après le texte : à confirmer.",
+    "Caractères du PDF convertis par déduction (à relire) : ὶ → ì"
+   ]
   }
  ]
 }
