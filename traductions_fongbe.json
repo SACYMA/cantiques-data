@@ -1,37 +1,41 @@
 {
- "description": "Traductions fongbe extraites de Han_Fongbe-Fr.pdf (Han N = Cantique N de LES CANTIQUES ANCIENS)",
+ "description": "Traductions fongbe extraites de Han_Fongbe-Fr.pdf (Han N = Cantique N de LES CANTIQUES ANCIENS). Les refrains sont les lignes en italique du PDF.",
+ "livre": "FƆNGBE HAN",
  "traductions": [
   {
+   "livre": "FƆNGBE HAN",
    "han": 2,
+   "reference": "Han 2",
    "chant_id": "anc-002",
    "titre_francais": "Serviteurs de l’Eternel, louez-le !",
-   "titre_fongbe": "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ !",
+   "titre_fongbe": "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
+   "refrain": null,
    "couplets": [
     {
      "ordre": 1,
      "lignes": [
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ !",
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ !",
+      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
+      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
       "Mi nɔ kpa Jezu tɛgbɛ,",
       "Nyǐkɔ (mímɛ́) tɔn ní nyí nu sisi.",
-      "Bɛ́ sín din káká sɔ́ yi, mi kpa Aklunɔ !"
+      "Bɛ́ sín din káká sɔ́ yi, mi kpa Aklunɔ!"
      ]
     },
     {
      "ordre": 2,
      "lignes": [
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ !",
+      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
       "Cobɔ hwe na wa ji hun mi kpa Aklunɔ",
       "Sin zanzan (káká) sɔyi gbada",
       "Mi nɔ sɔ nyǐkɔ tɔn su",
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ !"
+      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!"
      ]
     },
     {
      "ordre": 3,
      "lignes": [
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ !",
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ !",
+      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
+      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
       "Mi sɔ Mavɔ mavɔ ɔ su",
       "É hú gǎn akɔta lɛ́ɛ bǐ",
       "Susu tɔn yi jǐ hú jǐnukúnsin."
@@ -40,21 +44,24 @@
     {
      "ordre": 4,
      "lignes": [
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ !",
+      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
       "Mɛ̌ wɛ cí mavɔ mavɔ Mawu mǐtɔn ɖɔhun?",
       "É wɛ nɔ cɔ ayǐkúngban ɔ",
       "Kpódó jinukunsin kpó",
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ !"
+      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!"
      ]
     }
    ],
    "audioUrl": null
   },
   {
+   "livre": "FƆNGBE HAN",
    "han": 4,
+   "reference": "Han 4",
    "chant_id": "anc-004",
    "titre_francais": "Père, je t’adore Je te donne ma vie",
    "titre_fongbe": "Otɔ́, un yi wan nu we.",
+   "refrain": null,
    "couplets": [
     {
      "ordre": 1,
@@ -84,43 +91,49 @@
    "audioUrl": null
   },
   {
+   "livre": "FƆNGBE HAN",
    "han": 6,
+   "reference": "Han 6",
    "chant_id": "anc-006",
    "titre_francais": "A Dieu soit la gloire !",
-   "titre_fongbe": "Susu nú Mawu !",
+   "titre_fongbe": "Susu nú Mawu!",
+   "refrain": null,
    "couplets": [
     {
      "ordre": 1,
      "lignes": [
-      "Susu nú Mawu !",
-      "Susu nú Mawu !",
-      "Susu nú Mawu !"
+      "Susu nú Mawu!",
+      "Susu nú Mawu!",
+      "Susu nú Mawu!"
      ]
     },
     {
      "ordre": 2,
      "lignes": [
-      "Nu nu ɖaxo ɖaxo é bló lɛɛ !",
+      "Nu nu ɖaxo ɖaxo é bló lɛɛ!",
       "É hwlɛn mì kpó hun tɔn kpó",
       "Hlɔ̌ nhlɔ́ n tɔn sɔ mi sí te",
       "Susu nú Mawu",
-      "Nu nu ɖaxo ɖaxo é bló lɛ é !"
+      "Nu nu ɖaxo ɖaxo é bló lɛ é!"
      ]
     }
    ],
    "audioUrl": null
   },
   {
+   "livre": "FƆNGBE HAN",
    "han": 18,
+   "reference": "Han 18",
    "chant_id": "anc-018",
    "titre_francais": "Ton nom, Jésus, est un parfum,",
    "titre_fongbe": "Jezu nyikɔ wǎn ɖagbe nɔ",
+   "refrain": null,
    "couplets": [
     {
      "ordre": 1,
      "lignes": [
       "Jezu nyikɔ wǎn ɖagbe nɔ",
-      "Jezu,Jezu, Jezu, Jezu !",
+      "Jezu,Jezu, Jezu, Jezu!",
       "Jezu nyikɔ wǎn ɖagbe nɔ",
       "Jezu nyikɔ wǎn ɖagbe nɔ"
      ]
@@ -174,7 +187,7 @@
      "ordre": 7,
      "lignes": [
       "Lɛkɔ wa, Wanyinanɔ lɛkɔ wa",
-      "Jezu, Jezu, Jezu, Jezu !",
+      "Jezu, Jezu, Jezu, Jezu!",
       "Lɛkɔ wa, Wanyinanɔ lɛkɔ wa",
       "Lɛkɔ wa, Wanyinanɔ lɛkɔ wa"
      ]
@@ -183,10 +196,13 @@
    "audioUrl": null
   },
   {
+   "livre": "FƆNGBE HAN",
    "han": 19,
+   "reference": "Han 19",
    "chant_id": "anc-019",
    "titre_francais": "Glorieux, puissant nom de Jésus !",
    "titre_fongbe": "Nyikɔ towe, klo bo ɖo hlɔnhlɔn",
+   "refrain": null,
    "couplets": [
     {
      "ordre": 1,
@@ -228,10 +244,13 @@
    "audioUrl": null
   },
   {
+   "livre": "FƆNGBE HAN",
    "han": 40,
+   "reference": "Han 40",
    "chant_id": "anc-040",
    "titre_francais": "Oh Toi le sujet de bonheur parfait,",
    "titre_fongbe": "O Hwi mɛ e nyi awǎjijɛ ce maɖóblɔ̌ e",
+   "refrain": null,
    "couplets": [
     {
      "ordre": 1,
@@ -247,14 +266,14 @@
      "lignes": [
       "O, xlɛ fí e a nɔ nyi gbɔ towe lɛ ɖè ɔ mi",
       "fí ɖe a nɔ na gbɔjɛ ye ɖè é",
-      "Étɛ́wútu un ka na ya avǐ hwebinu ?",
+      "Étɛ́wútu un ka na ya avǐ hwebinu?",
       "Bo na kú jɛ gbětótló mɛ?"
      ]
     },
     {
      "ordre": 3,
      "lignes": [
-      "Etɛwu un ka na flú bo na nɔ zɔ nú we ?",
+      "Etɛwu un ka na flú bo na nɔ zɔ nú we?",
       "Étɛ́wú un na fɔn gu do ji towe?",
       "Kɛntɔ́ towe lɛ́ɛ ɖo winnya e un ɖu ɔ ko wɛ",
       "Bó nɔ́ ca avi ce lɛ ko."
@@ -266,17 +285,26 @@
       "Jeluzalɛ́mu nyɔ̌ nu lɛ́ɛ e mi",
       "Sunví ɖe kɔ́ n ɖo Izlayɛ́li",
       "Mɛ ka tunwun fi e Wanyinanɔ gbɔ̌ e",
-      "Fi ɖe é kpla gbɔ tɔn lɛ́ɛ yi e ?"
+      "Fi ɖe é kpla gbɔ tɔn lɛ́ɛ yi e?"
      ]
     }
    ],
    "audioUrl": null
   },
   {
+   "livre": "FƆNGBE HAN",
    "han": 70,
+   "reference": "Han 70",
    "chant_id": "anc-070",
    "titre_francais": "L’Eglise est un jardin splendide",
    "titre_fongbe": "Agun ɔ́ nyi jikpá ɖagbe ɖé",
+   "refrain": [
+    "Xomɛ hunmi (ɖo) nɔtɛn ɖagbe élɔ́",
+    "Fɛnu Mawu tɔn sukpɔ ɖo fi",
+    "Nǔ ɖebǔ sɔ́ nyɔ hú ɖɔ",
+    "E ni ɖu atín sínsɛ́n gbɛ̀tɔn",
+    "Bo nu sin e nɔ na gbɛ̀ gbigbɔ mɛtɔn e (ǎ)."
+   ],
    "couplets": [
     {
      "ordre": 1,
@@ -286,12 +314,7 @@
       "Bónú mǐ ná do tunwun vitɔn Jezu Klís(u)",
       "Gbɛ Aklunɔ tɔn gɔ́ fi",
       "Ɖó nɔví lɛ́ɛ bǐ nyi ɖokpó",
-      "È ɖo gbesisɔ mɛ na fa kɔ nu mi !",
-      "Xomɛ hunmi (ɖo) nɔtɛn ɖagbe élɔ́",
-      "Fɛnu Mawu tɔn sukpɔ ɖo fi",
-      "Nǔ ɖebǔ sɔ́ nyɔ hú ɖɔ",
-      "E ni ɖu atín sínsɛ́n gbɛ̀tɔn",
-      "Bo nu sin e nɔ na gbɛ̀ gbigbɔ mɛtɔn e (ǎ)."
+      "È ɖo gbesisɔ mɛ na fa kɔ nu mi!"
      ]
     },
     {
@@ -313,7 +336,7 @@
       "Bo nɔ na sínsɛ́n nu mɛ bǐ ná mɔ ɖu",
       "Bo ma syɛn ayixa towe ó",
       "Loɔ, hun hwiɖée nu Aklunɔ",
-      "Nɔ ɖu Jezu hwebinu ɖo e vivi !"
+      "Nɔ ɖu Jezu hwebinu ɖo e vivi!"
      ]
     },
     {
@@ -342,10 +365,13 @@
    "audioUrl": null
   },
   {
+   "livre": "FƆNGBE HAN",
    "han": 79,
+   "reference": "Han 79",
    "chant_id": "anc-079",
    "titre_francais": "Tourne- toi vers l’Esprit",
    "titre_fongbe": "Lilɛ kpan nukɔn yɛ ɔ",
+   "refrain": null,
    "couplets": [
     {
      "ordre": 1,
@@ -390,10 +416,13 @@
    "audioUrl": null
   },
   {
+   "livre": "FƆNGBE HAN",
    "han": 106,
+   "reference": "Han 106",
    "chant_id": "anc-106",
    "titre_francais": "Dieu envoya Jésus-Christ, Alléluia",
    "titre_fongbe": "Mawu sɛ Jesu klisu do, Aleluya",
+   "refrain": null,
    "couplets": [
     {
      "ordre": 1,
@@ -443,36 +472,40 @@
    "audioUrl": null
   },
   {
+   "livre": "FƆNGBE HAN",
    "han": 157,
+   "reference": "Han 157",
    "chant_id": "anc-157",
    "titre_francais": "Oui, nous sommes tous sortis",
-   "titre_fongbe": "Ɛɛn, é ɖe mǐ mɛ bi sin",
+   "titre_fongbe": "Ɛɛn, é ɖe mǐ mɛ bi sín",
+   "refrain": [
+    "Aleluya, aleluya!",
+    "Mǐ mɛ bǐ sɔ́ gbetakɛn",
+    "Bo na gbá nɔtɛn tɔn",
+    "Aleluya, aleluya!",
+    "Ɛɛn, mǐ ɖo gbɛ égbé din ɖo Agun lɛ́ɛ mɛ."
+   ],
    "couplets": [
     {
      "ordre": 1,
      "lignes": [
-      "Ɛɛn, é ɖe mǐ mɛ bi sin",
-      "Sín Ayihihɔn élɔ ɔ mɛ",
+      "Ɛɛn, é ɖe mǐ mɛ bi sín",
+      "Ayihihɔn élɔ ɔ mɛ",
       "Bo kpla mǐ xwe nɔtɛn ɖe,",
-      "Ó Susu nú Mawu !",
+      "Ó Susu nú Mawu!",
       "Ðò fi ɔ, mǐ nyi ɖokpo,",
       "Bó ɖo gbɛ̀ ɖò Yɛ ɔ mɛ.",
       "Aklunɔ nyí gbɛ mǐtɔn",
-      "Égbé din, ɖò Agun lɛ mɛ.",
-      "Aleluya, aleluya!",
-      "Mǐ mɛ bǐ sɔ́ gbetakɛn",
-      "Bo na gbá nɔtɛn tɔn",
-      "Aleluya, aleluya!",
-      "Ɛɛn, mǐ ɖo gbɛ égbé din ɖo Agun lɛ́ɛ mɛ."
+      "Égbé din, ɖò Agun lɛ mɛ."
      ]
     },
     {
      "ordre": 2,
      "lignes": [
-      "Mɛ (mɛ) lɛɛ ba wɛ Aklunɔ de,",
+      "Mɛ (mɛ) lɛɛ ba wɛ Aklunɔ ɖe,",
       "Bo na dó wa jlo tɔn,",
       "Vɔsanúxwlémawutɔ́ lɛ!",
-      "O Susu nú Mawu !",
+      "O Susu nú Mawu!",
       "Mɛ e ɖo gbɛ ɖo Jezu mɛ;",
       "Bo gɔ́ kpo Yɛ tɔn kpo lɛ e,",
       "Mɛ énɛ́ lɛ́ɛ wɛ é nɔ zan",
@@ -485,7 +518,7 @@
       "Acɛkpikpa Mawu tɔn.",
       "Lɛkɔ wa Agun tɔn mɛ",
       "Mi mɔ axɔ́ súɖuɖu tɔn,",
-      "O Susu nú Mawu !",
+      "O Susu nú Mawu!",
       "Nu mǐ se tonu nu Yɛ ɔ",
       "Agun ɔ nɔ nyi gbigba",
       "Bɔ gbɛ tɔn nɔ ɖo susu wɛ",
@@ -498,7 +531,7 @@
       "Un ɖo na sɔ nyɛɖée jo",
       "Ɖi vɔ̌ sánú gbɛɖe ɖɔhun",
       "Bɔ Mawu na huzu mi",
-      "O Susu nú Mawu !",
+      "O Susu nú Mawu!",
       "Aklunɔ ko kpé xa mǐ",
       "Bo sɔ mǐ jo nu Agun tɔn",
       "Susu tɛ ɖye, yɛyi tɛ dye",
@@ -511,10 +544,10 @@
       "Mawu vɔ nu lɛ jlaɖo",
       "Bo jɛ kpɔ xa gbɛtɔ́",
       "Bo ɖo nɔtɛn tɔn gba wɛ",
-      "O Susu nú Mawu !",
+      "O Susu nú Mawu!",
       "Mi ji han bo kpa Aklunɔ",
-      "Agun tɔn na nyi gbigba !",
-      "Mi ko ɖuɖo Kɛntɔ́ ji",
+      "Agun tɔn na nyi gbigba!",
+      "Mi ko ɖu ɖo Kɛntɔ́ ji",
       "Égbé din, ɖò Agun lɛ mɛ"
      ]
     }
@@ -522,10 +555,13 @@
    "audioUrl": null
   },
   {
+   "livre": "FƆNGBE HAN",
    "han": 573,
+   "reference": "Han 573",
    "chant_id": "anc-573",
    "titre_francais": "La joie me remplit,",
    "titre_fongbe": "Vǐvǐ gɔ́ ayi ce mɛ",
+   "refrain": null,
    "couplets": [
     {
      "ordre": 1,
@@ -556,10 +592,18 @@
    "audioUrl": null
   },
   {
+   "livre": "FƆNGBE HAN",
    "han": 606,
+   "reference": "Han 606",
    "chant_id": "anc-606",
    "titre_francais": "O Jésus, je m’abandonne,",
    "titre_fongbe": "O Jezu, un jo nyiɖée do,",
+   "refrain": [
+    "Un jo nu bi do",
+    "Un jo nu bi do",
+    "Nu hwlɛngantɔ́ ce Wanyinanɔ,",
+    "Un jo nu bi do"
+   ],
    "couplets": [
     {
      "ordre": 1,
@@ -567,11 +611,7 @@
       "O Jezu, un jo nyiɖée do,",
       "un ze gbɛ ce bi nú we.",
       "Un yí wǎn nú we,un ba na sɛn we,",
-      "Un jlo na gan jɛ wu we",
-      "Un jo nu bi do",
-      "Un jo nu bi do",
-      "Nu hwlɛngantɔ́ ce Wanyinanɔ,",
-      "Un jo nu bi do"
+      "Un jlo na gan jɛ wu we"
      ]
     },
     {
@@ -580,7 +620,7 @@
       "O Jezu, un jó nyiɖée dó",
       "un ɖe kɔ ɖo nukɔn towe",
       "Un jó ayihɔn ɔ kpó jlo tɔn (lɛ) kpo do",
-      "Bó ze nyiɖée bǐ nu we !"
+      "Bó ze nyiɖée bǐ nu we!"
      ]
     },
     {
@@ -598,7 +638,7 @@
       "O Jezu, un jó nyiɖée dó,",
       "Yì gbɛzan ce, jlo ce nɛ.",
       "Wǎn yíyí kpó hlɔ̌ nhlɔ́ n kpó ni gɔ mi",
-      "Do nu mi Aklunɔ ce !"
+      "Do nu mi Aklunɔ ce!"
      ]
     },
     {
@@ -607,7 +647,7 @@
       "O Jezu, un jó nyiɖée dó,",
       "Myɔ towe ni ji ɖo nyɛ mɛ",
       "Hwlɛngán (towe) kpikpe ɔ́ na nu bi mì,",
-      "Susu nú we Alleluya !"
+      "Susu nú we Alleluya!"
      ]
     }
    ],
