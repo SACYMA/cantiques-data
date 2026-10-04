@@ -1241,6 +1241,35 @@
     "Numéro « 789 » tel qu'écrit dans le PDF. Le chant français correspondant (Quel ami fidèle et tendre) est le n°585 des CANTIQUES ANCIENS, d'après le texte : à confirmer.",
     "Caractères du PDF convertis par déduction (à relire) : ὶ → ì"
    ]
+  },
+  {
+    "livre": "FƆNGBE HAN",
+    "han": 551,
+    "reference": "Han 551",
+    "chant_id": "anc-551",
+    "titre_francais": "Va prêche l’Evangile,",
+    "titre_fongbe": "Yi jla Wɛnɖagbe",
+    "refrain": [
+      "Yi jla Wɛnɖagbe,",
+      "Hwlɛn alindɔ̌n lɛ gán!",
+      "Étɛ wutu a na nɔ do vɛ na?"
+    ],
+    "couplets": [
+      {
+        "ordre": 1,
+        "lignes": [
+          "Yi jla Wɛnɖagbe,",
+          "Hwlɛn alindɔ̌n lɛ gán!",
+          "Kpɔ́n, gbeɖokó ɔ́,",
+          "Mɛ nabi é nɔ́ kú e",
+          "Ma syɛn ayixa towe ó;",
+          "wɔn dɔkun towe lɛ́ɛ;",
+          "Ɖo hwe bi nu ɖɔ Mawuxo ɔ ɖo fi bǐ."
+        ]
+      }
+    ],
+    "audioUrl": null,
+    "source": "saisie manuelle"
   }
- ]
+]
 }
