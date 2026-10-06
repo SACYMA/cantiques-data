@@ -358,7 +358,59 @@
    "a_verifier": [
     "Aucun refrain repéré. Les 2 dernières lignes (en caractères normaux, alors que le reste est en italique) sont peut-être un refrain."
    ]
-  },
+  },{
+      "livre": "FƆNGBE HAN",
+      "han": 21,
+      "reference": "Han 21",
+      "chant_id": "anc-021",
+      "titre_francais": "Il y a des gens qui disent",
+      "titre_fongbe": "Mɛɖe lɛɛ nɔ ji etunnyi hun é ko kpe",
+      "refrain": [
+        "Ɛɛn, ɖo Agun ɔ mɛ ɔ",
+        "Mǐ nyi wannu Aklúnɔ ɖuɖu",
+        "Ɛɛn, ɖo Agun ɔ mɛ ɔ",
+        "Xó tɔn ɖó hlɔnhlɔn",
+        "Ɛɛn, ɖo Agun ɔ mɛ ɔ",
+        "“(A)klunɔ, Amǐ, Alleluya”",
+        "Mǐ n’i ɖu bó nu; Mǐ bǐ ni jɛ awa"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Mɛɖe lɛɛ nɔ ji etunnyi hun é ko kpe",
+            "E ni sɛn Jesu ma mɔ vivi e ɖe mɛ e",
+            "Mi bǐ ɖotó xó ɖe e Mawuxó ɔ ɖɔ e",
+            "Jezu (wɛ) nyi blɛɖi gbɛ tɔn é nyɔn bɔ e ɖo na ɖu"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Enyi mǐ ɖɔ “Aklunɔ ɔ!” gbɛ tɔn nɔ gɔ mǐ biǐ",
+            "Enyi a tunwun ɖɔkun e nɔvi lɛɛ nɔ mɔ é ɔ",
+            "(A)klunɔ zangbe sin kple ɖokpó jɛ fiɖe a",
+            "Mǐ ɖo hudo kɔdokpɔ hwebǐ xwii nu."
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Enyi é ma jɛji nú we a hun, gbɔn ali élɔ bo kpɔn",
+            "Sinkɔn ɖe ɖo te nu wuvɛ mimɔ towe lɛɛ",
+            "Nugbo wɛ Mawu hun hwlɛngan li ɔ xlɛ mǐ",
+            "Klisu kpó Agun tɔn kpó ɔ, ali ɖaxó ɔ jɛn nɛ."
+          ]
+        }
+      ],
+      "audioUrl": null,
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Refrain déduit : le bloc de 7 lignes (« Ɛɛn, ɖo Agun ɔ mɛ ɔ… ») n'apparaît qu'après le couplet 1, et il correspond au refrain français du n°21.",
+        "Typos possibles, gardées telles que saisies : « biǐ » (couplet 2, ligne 1, peut-être « bǐ ») et « xwii » (couplet 2, ligne 4, peut-être « xwǐ »).",
+        "Les guillemets ‘’ ’’ sont convertis en “ ” ; les espaces avant ! ? ; sont supprimées."
+      ]
+    }
   {
    "livre": "FƆNGBE HAN",
    "han": 40,
