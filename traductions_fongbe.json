@@ -460,6 +460,57 @@
    "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han40.mp3"
   },
   {
+  "livre": "FƆNGBE HAN",
+  "han": 69,
+  "reference": "Han 69",
+  "chant_id": "anc-069",
+  "titre_francais": "Il nous a trouvés, à l’Eglise amenés",
+  "titre_fongbe": "Ewa mɔ mi ɖo Agun ɖe e cyan e mɛ",
+  "refrain": null,
+  "couplets": [
+    {
+      "ordre": 1,
+      "lignes": [
+        "Ewa mɔ mi ɖo Agun ɖe e cyan e mɛ",
+        "Fi e nɔvi lɛɛ ɖo xwegbe ɖe e",
+        "Fi ɔ klisu wɛ nyi gbɛ Wuvɛ lɛɛ bi ko vɔ",
+        "Aleluya nu Klis(u) kpo Agun ɔ kpo"
+      ],
+      "refrain": [
+        "Ɖo Agun tɔn mɛ fi ɔ",
+        "Nu e ba wɛ mi ɖe e mi mɔ lo",
+        "Bɔ ayihɔngbe ayihɔngbe ɔ",
+        "Mi nɔ kpa susu ni",
+        "Aleluya Klis(u) kpo Agun ɔ kpo"
+      ]
+    },
+    {
+      "ordre": 2,
+      "lignes": [
+        "Ɛɛn Mawu gbɔjɛ, tito tɔn lɛ nyi ci cɛ",
+        "E wa mɔ xwetɔn gbe lo",
+        "Ayitɔn jɛ ayi do mi u",
+        "Mi huzu nɔtɛn ton",
+        "Bɔ gigo tɔn hon do mi ji"
+      ],
+      "refrain": [
+        "Ɖo Agun tɔn mɛ fi ɔ",
+        "Nu e ba wɛ e ɖe e é mɔ lo",
+        "Bɔ ɖo wanyiyi tɔn mɛ ɔ",
+        "Mi nɔ sɔ susu ni",
+        "Aleluya nu Klis(u) kpo Agun ɔ kpo"
+      ]
+    }
+  ],
+  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han69.mp3",
+  "source": "saisie manuelle",
+  "a_verifier": [
+    "Refrains propres à chaque couplet (les deux blocs de 5 lignes sont légèrement différents, comme en français) : ils sont rangés dans le champ « refrain » de chaque couplet, et le refrain commun est null.",
+    "Faute de frappe possible, gardée telle que saisie : « ton » (couplet 2, ligne 4, peut-être « tɔn »).",
+    "Le chant français n°69 de cantiques.json est structuré autrement (1 couplet de 12 lignes + 1 refrain de 10 lignes) : à reprendre quand les traductions seront intégrées."
+  ]
+},
+  {
    "livre": "FƆNGBE HAN",
    "han": 70,
    "reference": "Han 70",
@@ -663,6 +714,77 @@
    "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han79.mp3"
   },
   {
+  "livre": "FƆNGBE HAN",
+  "han": 81,
+  "reference": "Han 81",
+  "chant_id": "anc-081",
+  "titre_francais": "As-tu trouvé l’esprit humain ?",
+  "titre_fongbe": "A nɔ mɔ yɛ gbɛtɔ tɔn à?",
+  "refrain": [
+    "Nu e gosin Mawu gɔn ɔ nɔví,",
+    "Yɛ towe wɛ",
+    "Susu nú Mawu, é na gbɛ mi!",
+    "Nǔ e e ji gbɔn Yɛsinsɛn ji ɔ,",
+    "Yɛ towe wɛ!",
+    "Yɛ wè lɛ huzu ɖokpo!"
+  ],
+  "couplets": [
+    {
+      "ordre": 1,
+      "lignes": [
+        "A nɔ mɔ yɛ gbɛtɔ tɔn à?",
+        "É ca kan xa nu towe!",
+        "Aleluya, Aklúnɔ Jezu!",
+        "Mɔ wɛ a na nɔ sɔ alɔ ɛ gbɔn!"
+      ]
+    },
+    {
+      "ordre": 2,
+      "lignes": [
+        "Ma nɔ nɔ te kpɔn jlo towe o!",
+        "Kɛntɔ́ sin nuwiwa wɛ",
+        "Hùn hwiɖée, bo na ali Yɛ towe,",
+        "Nɔ suxo ylɔ nyikɔ tɔn."
+      ]
+    }
+  ],
+  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han81.mp3",
+  "source": "saisie manuelle",
+  "a_verifier": [
+    "Refrain : le bloc de 6 lignes (« Nu e gosin Mawu gɔn ɔ nɔví… ») n'apparaît qu'après le couplet 1 ; il correspond au refrain français du n°81 (« Ce qui est né de Dieu, ô frère… »)."
+  ]
+},{
+  "livre": "FƆNGBE HAN",
+  "han": 102,
+  "reference": "Han 102",
+  "chant_id": "anc-102",
+  "titre_francais": "Cher Jésus, doux Jésus,",
+  "titre_fongbe": "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
+  "refrain": null,
+  "couplets": [
+    {
+      "ordre": 1,
+      "lignes": [
+        "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
+        "A nɔ zawe húgan hwesivɔ!",
+        "Wanyinanɔ, Hwi ɖokpó",
+        "Wɛ jɛxa wanyiyi ce;",
+        "A nyi dɔkun xɔkwɛ́ hú siká!",
+        "Nyǐ towe nɔ ɖe wǎn ɖagbe",
+        "Wǎn ɖagbe ɖagbe ɖé,",
+        "Hwi wɛ un nɔ sɛn ɖo ayi ce mɛ.",
+        "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
+        "A nyi dɔkun xɔkwɛ́ hú siká!"
+      ]
+    }
+  ],
+  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han102.mp3",
+  "source": "saisie manuelle",
+  "a_verifier": [
+    "Pas de refrain : le chant français n°102 est un seul bloc de 12 lignes sans refrain, et la 1re ligne ainsi que la 5e se répètent à la fin, comme en fongbe."
+  ]
+},
+  {
    "livre": "FƆNGBE HAN",
    "han": 106,
    "reference": "Han 106",
@@ -857,7 +979,68 @@
    "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han143.mp3",
    "source": "Anciennes_traduc.pdf",
    "a_verifier": []
-  },
+  },{
+  "livre": "FƆNGBE HAN",
+  "han": 154,
+  "reference": "Han 154",
+  "chant_id": "anc-154",
+  "titre_francais": "Je suis un homme, La raison, le sens de l’univers.",
+  "titre_fongbe": "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi",
+  "refrain": null,
+  "couplets": [
+    {
+      "ordre": 1,
+      "lignes": [
+        "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi",
+        "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi",
+        "Mawu blo mi, nu ma ɖe e xlɛ",
+        "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi"
+      ]
+    },
+    {
+      "ordre": 2,
+      "lignes": [
+        "Klísu ɖo gbɛ ɖo nyɛ mɛ, É wɛ nyí tɔn nu gbɛ ce",
+        "Klísu ɖo gbɛ ɖo nyɛ mɛ, É wɛ nyí tɔn nu gbɛ ce",
+        "Ɖò Yɛ ce mɛ ɔ, é nɔ gɔ́ mì;",
+        "É wɛ nyí tɔn, bo nyi nu e wutu un ɖo gbɛ e"
+      ]
+    },
+    {
+      "ordre": 3,
+      "lignes": [
+        "Agun ɔ Klisu wɛ, bo nɔ ɖe e xlɛ ɖo ayikungbanji",
+        "Agun ɔ Klisu wɛ, bo nɔ ɖe e xlɛ ɖo ayikungbanji",
+        "Bonu jlo tɔn, na nyi wiwa ɔ",
+        "Mawu ze acɛ jo nu gbɛtɔ́ ɖò ayikúngban jí"
+      ]
+    },
+    {
+      "ordre": 4,
+      "lignes": [
+        "Ɛɛn, ɖò Agun ɔ mɛ ɔ, nɔvi lɛ nɔ sɛkplé hwebinu",
+        "Ɛɛn, ɖò Agun ɔ mɛ ɔ, nɔvi lɛ nɔ sɛkplé hwebinu",
+        "Nǔɖuɖu kpó nunu kpó mɛ ɔ,",
+        "Mǐ nɔ ɖó susu wɛ gɛgɛ ɖi agun toxo lɛ́ɛ tɔn"
+      ]
+    },
+    {
+      "ordre": 5,
+      "lignes": [
+        "Nɛ mi na blo (gbɔn)? Mǐ na jla xo tɔn gbɔn gbɛ̀ ɔ bǐ mɛ",
+        "Nɛ mi na blo (gbɔn)? Mǐ na jla xo tɔn gbɔn gbɛ̀ ɔ bǐ mɛ",
+        "Mi (ni) suxo ylɔ ɛ, mi (ni) jla nyi tɔn",
+        "Wɛn ɖagbe élɔ́ ɖo na gba kpé gbɔn gbɛ ɔ́ bǐ mɛ."
+      ]
+    }
+  ],
+  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han154.mp3",
+  "source": "saisie manuelle",
+  "a_verifier": [
+    "Pas de refrain : le chant français n°154 n'en a pas non plus ; les deux premières lignes de chaque couplet se répètent, comme en français.",
+    "La lettre « Ð » (eth) de « Ðò Yɛ ce mɛ ɔ » (couplet 2) est convertie en « Ɖ »."
+  ]
+},
   {
    "livre": "FƆNGBE HAN",
    "han": 157,
@@ -1237,7 +1420,65 @@
    "a_verifier": [
     "Caractères du PDF convertis par déduction (à relire) : ԑ → ɛ"
    ]
-  },
+  },{
+  "livre": "FƆNGBE HAN",
+  "han": 625,
+  "reference": "Han 625",
+  "chant_id": "mix-cn-029",
+  "titre_francais": "Miséricorde insondable",
+  "titre_fongbe": "Xomɛ nyinyɔ ma ɖobdogo!",
+  "refrain": [
+    "Jezu, un wá, un wá gɔ̌n towe!",
+    "Lě e un ɖe wɛ un zɔn, un wá gɔ̌n towe!",
+    "Jezu, un wá, un wá gɔ̌n towe!",
+    "Lě e un ɖe wɛ un zɔn, yí mì."
+  ],
+  "couplets": [
+    {
+      "ordre": 1,
+      "lignes": [
+        "Xomɛ nyinyɔ ma ɖobdogo!",
+        "Mawu nɔ sɔ́ nǔ bǐ kɛ mɛ a?",
+        "Hwɛhutɔ́ ɖaxó nyɛ ɖɔhun",
+        "Mawu na wɔn hwɛ ce lɛ a?"
+      ]
+    },
+    {
+      "ordre": 2,
+      "lignes": [
+        "Hwenu gěgé nu ɔ, un nɔ nɔ zɔ nii,",
+        "Bɔ é ko sin xomɛ domi",
+        "Un syɛn sú ayixa ce dó fɛ́nú tɔn,",
+        "Bó do winya ɛ ɖo mɛ bǐ mɛ."
+      ]
+    },
+    {
+      "ordre": 3,
+      "lignes": [
+        "O Jezu, un jó nu bi nu we",
+        "Kɛnklɛn zlɔn agban ce lɛ mi",
+        "Ylando é nɔ ɖu ɖo ji ce lɛɛ e;",
+        "Jezu ɖeɖɛ gbɛzan ce."
+      ]
+    },
+    {
+      "ordre": 4,
+      "lignes": [
+        "Aleluya! xokpɔ́n ko vɔ",
+        "Jezu zlɔn agban ce lɛ mi",
+        "Un ɖo ali jí bo xwe sɛ́xwé,",
+        "Bo na (nɔ) jɛ awǎ hwebinu."
+      ]
+    }
+  ],
+  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han625.mp3",
+  "source": "saisie manuelle",
+  "a_verifier": [
+    "Lien à confirmer : le n°625 de LES CANTIQUES ANCIENS est « Trois fois Saint le Seigneur… » (autre chant). Le texte fongbe correspond à « Miséricorde insondable » (CHANTS MIXTES CN. 29, aussi GLOIRE A DIEU n°253).",
+    "Refrain : le bloc de 4 lignes « Jezu, un wá… » n'apparaît qu'après le couplet 1 ; il correspond au refrain français (« Jésus, je viens ! Je viens à toi ! »).",
+    "Faute de frappe possible, gardée telle que saisie : « nii » (couplet 2, ligne 1)."
+  ]
+},
   {
    "livre": "FƆNGBE HAN",
    "han": 789,
