@@ -53904,6 +53904,54 @@
    "theme_source": "L’ÉTUDE DE LA PAROLE",
    "sous_theme": "SE NOURRIR DE LA PAROLE"
   },
+      {
+  "id": "anc-069",
+  "titre": "Il nous a trouvés, à l’Eglise amenés",
+  "theme": "L'Église",
+  "apparitions": [
+    {
+      "livre": "LES CANTIQUES ANCIENS",
+      "numero": 69
+    }
+  ],
+  "refrain": null,
+  "couplets": [
+    {
+      "ordre": 1,
+      "lignes": [
+        "Il nous a trouvés, à l’Eglise amenés",
+        "Où les frères sont à la maison",
+        "Ici, Christ est la vie",
+        "Les tensions sont bannies",
+        "Alléluia pour Christ et l’Eglise !"
+      ],
+      "refrain": [
+        "Ici dans l’Église",
+        "Notre recherche s’est terminée",
+        "Et de jour en jour",
+        "Chantons dans son amour",
+        "Alléluia pour Christ et l’Eglise !"
+      ]
+    },
+    {
+      "ordre": 2,
+      "lignes": [
+        "Oui Dieu se repose son dessein est atteint",
+        "Il a enfin trouvé sa maison",
+        "Il se plait dans son cœur",
+        "Il en fait sa demeure",
+        "Et sa gloire sur nous resplendit"
+      ],
+      "refrain": [
+        "Ici dans l’Église",
+        "Oui, sa recherche s’est terminée",
+        "Et dans son amour",
+        "Proclamons chaque jour",
+        "Alléluia pour Christ et l’Eglise"
+      ]
+    }
+  ]
+},
   {
    "id": "mix-h-168",
    "titre": "Le corps de Christ, l’église,",
