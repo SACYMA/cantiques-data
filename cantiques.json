@@ -1,9 +1,8 @@
 {
- "version": 1.1,
+ "version": 1.6,
  "application": "CANTIQUES SPIRITUELS",
  "livres": [
   "LES CANTIQUES ANCIENS",
-  "HYMNES ET GOSPEL",
   "CHANTS MIXTES",
   "FƆNGBE HAN"
  ],
@@ -20878,8 +20877,8 @@
   },
   {
    "id": "anc-620",
-   "titre": "Comme une terre altérée,",
-   "theme": "Le Seigneur est l'Esprit",
+   "titre": "Seras-tu un vainqueur ?",
+   "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
@@ -20887,55 +20886,81 @@
     }
    ],
    "refrain": [
-    "Fraîches rosées,",
-    "Descendez sur nous tous !",
-    "O divines ondées",
-    "Venez, arrosez-nous !"
+    "Seras-tu un vainqueur ?",
+    "Feras-tu ce choix ?",
+    "Christ appelle, Christ appelle écoutons sa voix"
    ],
    "couplets": [
     {
      "ordre": 1,
      "lignes": [
-      "Comme une terre altérée,",
-      "Soupire après l’eau du ciel,",
-      "Nous appelons la rosée",
-      "De ta grâce Emmanuel !"
+      "Seras-tu un vainqueur ?",
+      "Christ appel maintenant ;",
+      "Sera-tu un tel disciple,",
+      "bien que tu t’sente faible."
      ]
     },
     {
      "ordre": 2,
      "lignes": [
-      "Descends, & pluie abondance,",
-      "Coule à flots dans notre cœur,",
-      "Donne à l’âme languissante",
-      "Une nouvelle fraîcheur"
+      "Seras-tu un vainqueur ?",
+      "Vers Christ attiré ;",
+      "gardant le premier amour,",
+      "pour l’éternité."
      ]
     },
     {
      "ordre": 3,
      "lignes": [
-      "Ne laisse en nous rien d’aride",
-      "Qui ne soit fertilisé ;",
-      "Que le cœur le plus avide,",
-      "Soit pleinement arrosé"
+      "Seras-tu un vainqueur ?",
+      "Remplis de sa vie ;",
+      "prêt pour souffrir tout le temps,",
+      "fidèle jusqu’au bout."
      ]
     },
     {
      "ordre": 4,
      "lignes": [
-      "Oui, que les déserts fleurissent",
-      "Sous tes bienfaisantes eaux,",
-      "Que les lieux secs reverdissent",
-      "Et portent des fruits nouveaux."
+      "Seras-tu un vainqueur ?",
+      "Un fidèle témoin ;",
+      "rejetant la fausse religion,",
+      "mangeant la vraie manne."
      ]
     },
     {
      "ordre": 5,
      "lignes": [
-      "Viens, ô salutaire pluie,",
-      "Esprit de grâce et de paix !",
-      "Répands en nous une vie",
-      "Qui ne tarisse jamais."
+      "Seras-tu un vainqueur ?",
+      "Simple, réel et pur ;",
+      "vaincre tout mauvais mélange,",
+      "hérité du trône."
+     ]
+    },
+    {
+     "ordre": 6,
+     "lignes": [
+      "Seras-tu un vainqueur ?",
+      "En gardant la foi,",
+      "gardant tes vêtements",
+      "de toutes choses mortes"
+     ]
+    },
+    {
+     "ordre": 7,
+     "lignes": [
+      "Seras-tu un vainqueur ?",
+      "Jamais tiède en Christ,",
+      "pas satisfait de c’que tu as,",
+      "cherchant toujours plus."
+     ]
+    },
+    {
+     "ordre": 8,
+     "lignes": [
+      "Seras-tu un vainqueur ?",
+      "Christ appelle encore,",
+      "seras-tu loyale envers lui,",
+      "faire sa volonté."
      ]
     }
    ]
@@ -22748,70 +22773,12 @@
   },
   {
    "id": "anc-652",
-   "titre": "Dors bien-aimé(e) ;",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "LES CANTIQUES ANCIENS",
-     "numero": 652
-    }
-   ],
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Dors bien-aimé(e) ;",
-      "Ton œuvre est terminée ;",
-      "Voici pour toi le soir de la journée ;",
-      "Du grand repos",
-      "l’heure a enfin sonnée ;",
-      "Adieu, mon frère (ma sœur) adieu."
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Si nous t’aimons ;",
-      "Christ t’aime davantage ;",
-      "Il t’a conduit(e) dans ton pèlerinage ;",
-      "Il te soutient",
-      "dans le sombre passage ;",
-      "Adieu, mon frère (ma sœur) adieu."
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Ame fidèle, entre dans la patrie ;",
-      "D’où la souffrance",
-      "est à jamais bannie ;",
-      "Bois à longs traits",
-      "au fleuve de la vie ;",
-      "Adieu, mon frère (ma sœur) adieu."
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Sublime espoir !",
-      "Jésus-Christ va paraître ;",
-      "Pour saluer le retour de ton maître ;",
-      "Ton corps bientôt",
-      "glorieux va reconnaître ;",
-      "Adieu, mon frère (ma sœur) adieu."
-     ]
-    }
-   ]
-  },
-  {
-   "id": "anc-653",
    "titre": "Dieu n’a pas promis :",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 653
+     "numero": 652
     }
    ],
    "refrain": [
@@ -22862,103 +22829,13 @@
    ]
   },
   {
-   "id": "anc-654",
-   "titre": "Seras-tu un vainqueur ?",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "LES CANTIQUES ANCIENS",
-     "numero": 654
-    }
-   ],
-   "refrain": [
-    "Seras-tu un vainqueur ?",
-    "Feras-tu ce choix ?",
-    "Christ appelle, Christ appelle écoutons sa voix"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Seras-tu un vainqueur ?",
-      "Christ appel maintenant ;",
-      "Sera-tu un tel disciple,",
-      "bien que tu t’sente faible."
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Seras-tu un vainqueur ?",
-      "Vers Christ attiré ;",
-      "gardant le premier amour,",
-      "pour l’éternité."
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Seras-tu un vainqueur ?",
-      "Remplis de sa vie ;",
-      "prêt pour souffrir tout le temps,",
-      "fidèle jusqu’au bout."
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Seras-tu un vainqueur ?",
-      "Un fidèle témoin ;",
-      "rejetant la fausse religion,",
-      "mangeant la vraie manne."
-     ]
-    },
-    {
-     "ordre": 5,
-     "lignes": [
-      "Seras-tu un vainqueur ?",
-      "Simple, réel et pur ;",
-      "vaincre tout mauvais mélange,",
-      "hérité du trône."
-     ]
-    },
-    {
-     "ordre": 6,
-     "lignes": [
-      "Seras-tu un vainqueur ?",
-      "En gardant la foi,",
-      "gardant tes vêtements",
-      "de toutes choses mortes"
-     ]
-    },
-    {
-     "ordre": 7,
-     "lignes": [
-      "Seras-tu un vainqueur ?",
-      "Jamais tiède en Christ,",
-      "pas satisfait de c’que tu as,",
-      "cherchant toujours plus."
-     ]
-    },
-    {
-     "ordre": 8,
-     "lignes": [
-      "Seras-tu un vainqueur ?",
-      "Christ appelle encore,",
-      "seras-tu loyale envers lui,",
-      "faire sa volonté."
-     ]
-    }
-   ]
-  },
-  {
-   "id": "anc-655",
+   "id": "anc-653",
    "titre": "Ne désespère pas quoiqu'il arrive",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 655
+     "numero": 653
     }
    ],
    "refrain": [
@@ -23007,13 +22884,13 @@
    ]
   },
   {
-   "id": "anc-656",
+   "id": "anc-654",
    "titre": "Quel ami pour nous est Jésus,",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 656
+     "numero": 654
     }
    ],
    "refrain": null,
@@ -23073,13 +22950,13 @@
    ]
   },
   {
-   "id": "anc-657",
+   "id": "anc-655",
    "titre": "O Dieu relève-nous ! Rends-nous la vie,",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 657
+     "numero": 655
     }
    ],
    "refrain": null,
@@ -23127,13 +23004,13 @@
    ]
   },
   {
-   "id": "anc-658",
+   "id": "anc-656",
    "titre": "L’amour de Dieu de loin surpasse,",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 658
+     "numero": 656
     }
    ],
    "refrain": null,
@@ -23187,13 +23064,13 @@
    ]
   },
   {
-   "id": "anc-659",
+   "id": "anc-657",
    "titre": "Trois fois Saint le Seigneur, Dieu de l’univers !",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 659
+     "numero": 657
     }
    ],
    "refrain": [
@@ -23228,71 +23105,13 @@
    ]
   },
   {
-   "id": "anc-660",
-   "titre": "Amen, Amen, Blessings and Glory",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "LES CANTIQUES ANCIENS",
-     "numero": 660
-    }
-   ],
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Amen, Amen, Blessings and Glory",
-      "Wisdom, thanksgiving and honour",
-      "Power and might be unto our God",
-      "Forever and ever, Amen!",
-      "Amen amen, we bind the devil",
-      "We loose God's power, in this place",
-      "We Say Lord Jésus, Satan id confused,",
-      "Deliverance will follow. Amen"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "anc-661",
-   "titre": "He is exalted",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "LES CANTIQUES ANCIENS",
-     "numero": 661
-    }
-   ],
-   "refrain": [
-    "He is the Lord",
-    "Forever His truth shall reign",
-    "Heaven and earth",
-    "Rejoice in His holy Name",
-    "He is exalted the King is exalted on high."
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "He is exalted",
-      "The King is exalted",
-      "And I will praise Him",
-      "He is exalted",
-      "Forever exalted",
-      "And I will praise His Name"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "anc-662",
+   "id": "anc-658",
    "titre": "Heureux celui qui n'aspire",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 662
+     "numero": 658
     }
    ],
    "refrain": null,
@@ -23333,13 +23152,13 @@
    ]
   },
   {
-   "id": "anc-663",
+   "id": "anc-659",
    "titre": "Dieu cherche encore des hommes forts,",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 663
+     "numero": 659
     }
    ],
    "refrain": null,
@@ -23386,13 +23205,13 @@
    ]
   },
   {
-   "id": "anc-664",
+   "id": "anc-660",
    "titre": "quand les frères sont en règle et tu sens que Christ est leur vie.",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 664
+     "numero": 660
     }
    ],
    "refrain": [
@@ -23446,13 +23265,13 @@
    ]
   },
   {
-   "id": "anc-665",
+   "id": "anc-661",
    "titre": "Je n’suis qu’un homme, rien qu’un pauvre homme",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 665
+     "numero": 661
     }
    ],
    "refrain": [
@@ -23493,13 +23312,13 @@
    ]
   },
   {
-   "id": "anc-666",
+   "id": "anc-662",
    "titre": "Un chrétien je croyais être,",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 666
+     "numero": 662
     }
    ],
    "refrain": [
@@ -23537,13 +23356,13 @@
    ]
   },
   {
-   "id": "anc-667",
+   "id": "anc-663",
    "titre": "Rendons grâces au Seigneur, rendons grâces",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 667
+     "numero": 663
     }
    ],
    "refrain": null,
@@ -23563,70 +23382,13 @@
    ]
   },
   {
-   "id": "anc-668",
-   "titre": "We are never weary singing our eternal song:",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "LES CANTIQUES ANCIENS",
-     "numero": 668
-    }
-   ],
-   "refrain": [
-    "O the children of the Lord have a wondrous song to sing,",
-    "For the Lord will by His grace many sons to glory bring.",
-    "We are going in that day to the presence of the King:",
-    "Glory to God, hallelujah!"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "We are never weary singing our eternal song:",
-      "Glory to God, hallelujah!",
-      "We would sing His praise forever with our spirit strong:",
-      "Glory to God, hallelujah!"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "We are lost amid the rapture of redeeming love:",
-      "Glory to God, hallelujah!",
-      "We are seeking every moment all its grace to prove:",
-      "Glory to God, hallelujah!"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "We are going on to glory as the",
-      "Lord has told:",
-      "Glory to God, hallelujah!",
-      "Where the King in all His beauty we shall soon behold:",
-      "Glory to God, hallelujah!"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "There we’ll sing His grace and mercy in a glad new song:",
-      "Glory to God, hallelujah!",
-      "There we’ll praise our glorious",
-      "Savior with the blessed throng:",
-      "Glory to God, hallelujah!"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "anc-669",
+   "id": "anc-664",
    "titre": "Assis tout seul, mendiant sur la grand-route,",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 669
+     "numero": 664
     }
    ],
    "refrain": [
@@ -23683,52 +23445,13 @@
    ]
   },
   {
-   "id": "anc-670",
-   "titre": "God sent His son they called Him",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "LES CANTIQUES ANCIENS",
-     "numero": 670
-    }
-   ],
-   "refrain": [
-    "Because He lives I can face tomorrow",
-    "Because He lives all fear is gone",
-    "Because I know He holds the future",
-    "And life is worth the living just because He lives"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "God sent His son they called Him",
-      "Jesus",
-      "He came to love heal and forgive",
-      "He lived and died to buy my pardon",
-      "An empty grave is there to prove my",
-      "Savior lives"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "And then one day I'll cross that river",
-      "I'll fight life's final war with pain",
-      "And then as death gives way to vict'ry",
-      "I'll see the lights of glory and I'll know He lives"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "anc-671",
+   "id": "anc-665",
    "titre": "Je n’ai jamais rien mérité,",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 671
+     "numero": 665
     }
    ],
    "refrain": [
@@ -23760,13 +23483,13 @@
    ]
   },
   {
-   "id": "anc-672",
+   "id": "anc-666",
    "titre": "Tu peux naître de nouveau,",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 672
+     "numero": 666
     }
    ],
    "refrain": null,
@@ -23802,13 +23525,13 @@
    ]
   },
   {
-   "id": "anc-673",
+   "id": "anc-667",
    "titre": "Jésus m’aime, je le sais",
    "theme": "Autres",
    "apparitions": [
     {
      "livre": "LES CANTIQUES ANCIENS",
-     "numero": 673
+     "numero": 667
     }
    ],
    "refrain": [
@@ -23838,13 +23561,13 @@
    ]
   },
   {
-   "id": "hg-009",
+   "id": "anc-668",
    "titre": "Grande est ta fidélité Oh Dieu mon père",
    "theme": "Autres",
    "apparitions": [
     {
-     "livre": "HYMNES ET GOSPEL",
-     "numero": 9
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 668
     }
    ],
    "refrain": null,
@@ -23880,310 +23603,13 @@
    ]
   },
   {
-   "id": "hg-078",
-   "titre": "Foi de notre père toujours vivante malgré l’épée et la prison oh grande est la joie de nos cœurs en attendant ces glorieux mots",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "HYMNES ET GOSPEL",
-     "numero": 78
-    }
-   ],
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Foi de notre père toujours vivante malgré l’épée et la prison oh grande est la joie de nos cœurs en attendant ces glorieux mots",
-      "Foi de nos père la sante te foi nous te serons toujours fidèles"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "foi de nos pères nous combattrons pour conquérir toutes les nations et par la vérité divine",
-      "tous les Hommes seront vraiment libres"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Foi de nos pères ! nous aimerons nos amis et nos ennemis nous prêcherons avec amour par des mots doux et une vie sainte"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hg-167",
-   "titre": "Je dois dire à christ toutes mes épreuves",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "HYMNES ET GOSPEL",
-     "numero": 167
-    }
-   ],
-   "refrain": [
-    "Je dirai a christ, oui je lui dirai je ne peux porter seul mes fardeaux je dirai a christ, oui je lui dirai c’est lui seul qui peut me secourir"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Je dois dire à christ toutes mes épreuves",
-      "je ne peux porter seul mes fardeaux dans ma détresse il viendra à mon aide",
-      "il aime et prends soins de ses enfants"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "je lui parlerai de tous mes ennuis il est un amis compatissant si je demande il me délivrera il mettre fin à tous mes problèmes"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "J’ai besoins de christ dans la tentation",
-      "car il peut porter tous mes fardeaux",
-      "je dirai a christ, oui je lui dirai c’est lui seul qui peut me secourir"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "oh comme le monde m’attire vers le péché",
-      "comme mon est tenté par le mal je le dirai a christ, il m’aidera il me donnera la victoire"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hg-108",
-   "titre": "Dois-je aller au ciel les mains vides rencontrer mon rédempteur sans un jour de service pour lui sans un trophée à ses pieds ?",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "HYMNES ET GOSPEL",
-     "numero": 108
-    }
-   ],
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Dois-je aller au ciel les mains vides rencontrer mon rédempteur sans un jour de service pour lui sans un trophée à ses pieds ?",
-      "Dois-je aller au ciel les mains vides voir ainsi mon cher sauveur ?",
-      "Aucune âme à lui offrir dois-je aller au ciel les mains vides ?"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Je n’ai aucune crainte de la mort car mon rédempteur me sauve mais le rencontrer les mais vide est la seul crainte de mon cœur"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Les années perdues comme pécheur",
-      "si je peux les réclamer je les donnerai à Jésus soumis à sa volonté"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "oh vous saints debout ! au service !",
-      "Travailler quand il fait jour",
-      "Avant que la mort ne survienne lutter pour les âmes ce jour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hg-196",
-   "titre": "Jésus se soucie-t-il quand mon cœur",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "HYMNES ET GOSPEL",
-     "numero": 196
-    }
-   ],
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Jésus se soucie-t-il quand mon cœur",
-      "est meurtri par la douleur quand les fardeaux pèsent, les soucis m’oppressent",
-      "et le chemin est rocailleux ?",
-      "Oh ! Oui il se soucie de moi",
-      "Jésus se soucie de moi quand les jours s’assombrisse, ma voie s’obscurcis",
-      "Jésus prend soins de moi"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Jésus se soucie-t-il quand ma voie est, jonchée d’incertitudes ?",
-      "le soleil se couche, les ténèbres surgissent Jésus se soucie-t-il de moi ?"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Jésus se souci-t-il quand j’échoue devant les rudes tentations et lorsque je suis dans le désespoir quand mes larmes coulent toute la nuit ?"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Jésus se soucie-t-il quand je dis",
-      "A dieu à ce qui me sont chers quand dans la douleur, mon cœur est brisé est-il touché par mon chagrin ?"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hg-179",
-   "titre": "J’avance sur le chemin plus haut je gagne des hauteurs chaque jour j’évolue en priant toujours plante mes pieds sur la terre plus haute",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "HYMNES ET GOSPEL",
-     "numero": 179
-    }
-   ],
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "J’avance sur le chemin plus haut je gagne des hauteurs chaque jour j’évolue en priant toujours plante mes pieds sur la terre plus haute",
-      "Elève moi Seigneur fixe mes pieds par la foi sur la terre céleste ou amour joie, lumière abondent plante mes pieds, sur la terre plus haute"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Je ne désire pas demeurer,",
-      "dans un lieu de doute et de crainte bien que certain y trouve leurs joie mon but suprême la terre"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Au-delà de ce ciel serein j’aspire à trouver la paix éternelle",
-      "Au-dessus du bruit de ce monde se trouve la paix pour tous les saints"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "La terre plus c’est mon désir bien que la voie sois difficile tout en montant, je chanterai conduis moi à la terre plus haute"
-     ]
-    },
-    {
-     "ordre": 5,
-     "lignes": [
-      "Conduis moi seigneur vers la haut je n’ose pas monter sans mon guide puis arrivé en ce lieux saint je chanterai ta gloire, seigneur"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hg-072",
-   "titre": "Mon espoir est en Jésus christ en son sang et en sa justice je ne me confie en rien d’autre que le précieux nom de Jésus",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "HYMNES ET GOSPEL",
-     "numero": 72
-    }
-   ],
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Mon espoir est en Jésus christ en son sang et en sa justice je ne me confie en rien d’autre que le précieux nom de Jésus",
-      "Ma confiance est en christ le roc rien au monde n’est pour moi support rien ne me sert comme soutient"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Quand les ténèbres me cachent sa face",
-      "je m’appuie sur sa grâce constante et lorsque les tempêtes se lèvent je trouve en Jésus mon support"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Son vœux son alliance et son sang me soutiennent dans la grande marée et quand mon support déçoit",
-      "Jésus est toujours mon espoir"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "lorsque la trompette sonnera oh ! Que je sois trouvé en lui de sa justice seule revêtue debout sans tâche devant son trône"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hg-049",
-   "titre": "En passant par ce monde pécheur ou les autres observent ta vie sois pur et propre dedans dehors que les autres voient Jésus en toi",
-   "theme": "Autres",
-   "apparitions": [
-    {
-     "livre": "HYMNES ET GOSPEL",
-     "numero": 49
-    }
-   ],
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "En passant par ce monde pécheur ou les autres observent ta vie sois pur et propre dedans dehors que les autres voient Jésus en toi",
-      "Que les autres voient Jésus en toi",
-      "(bis)",
-      "Continue l’histoire sois fidèle et vrai",
-      "Que les autres voient Jésus en toi"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Que ta vie soit un livre pour eux qu’ils le lisent à chaque instant et qu’il les dirige vers le ciel les autres voient-ils Jésus en toi ?"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Quelle joie au déclin du soleil dans les belles demeures célestes de voir les âmes gagnées par toi que les autres voient Jésus en toi"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Vis pour christ le jour la nuit sois fidèle brave et sincère conduis les perdus à la vie que les autres voient Jésus en toi"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hg-024",
+   "id": "anc-669",
    "titre": "Quand la paix comme un fleuve inonde mon chemin",
    "theme": "Autres",
    "apparitions": [
     {
-     "livre": "HYMNES ET GOSPEL",
-     "numero": 24
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 669
     }
    ],
    "refrain": null,
@@ -24235,13 +23661,265 @@
    ]
   },
   {
-   "id": "hg-195",
+   "id": "anc-670",
+   "titre": "En passant par ce monde pécheur ou les autres observent ta vie sois pur et propre dedans dehors que les autres voient Jésus en toi",
+   "theme": "Autres",
+   "apparitions": [
+    {
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 670
+    }
+   ],
+   "refrain": null,
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "En passant par ce monde pécheur ou les autres observent ta vie sois pur et propre dedans dehors que les autres voient Jésus en toi",
+      "Que les autres voient Jésus en toi",
+      "(bis)",
+      "Continue l’histoire sois fidèle et vrai",
+      "Que les autres voient Jésus en toi"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Que ta vie soit un livre pour eux qu’ils le lisent à chaque instant et qu’il les dirige vers le ciel les autres voient-ils Jésus en toi ?"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Quelle joie au déclin du soleil dans les belles demeures célestes de voir les âmes gagnées par toi que les autres voient Jésus en toi"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "Vis pour christ le jour la nuit sois fidèle brave et sincère conduis les perdus à la vie que les autres voient Jésus en toi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anc-671",
+   "titre": "Mon espoir est en Jésus christ en son sang et en sa justice je ne me confie en rien d’autre que le précieux nom de Jésus",
+   "theme": "Autres",
+   "apparitions": [
+    {
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 671
+    }
+   ],
+   "refrain": null,
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Mon espoir est en Jésus christ en son sang et en sa justice je ne me confie en rien d’autre que le précieux nom de Jésus",
+      "Ma confiance est en christ le roc rien au monde n’est pour moi support rien ne me sert comme soutient"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Quand les ténèbres me cachent sa face",
+      "je m’appuie sur sa grâce constante et lorsque les tempêtes se lèvent je trouve en Jésus mon support"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Son vœux son alliance et son sang me soutiennent dans la grande marée et quand mon support déçoit",
+      "Jésus est toujours mon espoir"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "lorsque la trompette sonnera oh ! Que je sois trouvé en lui de sa justice seule revêtue debout sans tâche devant son trône"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anc-672",
+   "titre": "Foi de notre père toujours vivante malgré l’épée et la prison oh grande est la joie de nos cœurs en attendant ces glorieux mots",
+   "theme": "Autres",
+   "apparitions": [
+    {
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 672
+    }
+   ],
+   "refrain": null,
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Foi de notre père toujours vivante malgré l’épée et la prison oh grande est la joie de nos cœurs en attendant ces glorieux mots",
+      "Foi de nos père la sante te foi nous te serons toujours fidèles"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "foi de nos pères nous combattrons pour conquérir toutes les nations et par la vérité divine",
+      "tous les Hommes seront vraiment libres"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Foi de nos pères ! nous aimerons nos amis et nos ennemis nous prêcherons avec amour par des mots doux et une vie sainte"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anc-673",
+   "titre": "Dois-je aller au ciel les mains vides rencontrer mon rédempteur sans un jour de service pour lui sans un trophée à ses pieds ?",
+   "theme": "Autres",
+   "apparitions": [
+    {
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 673
+    }
+   ],
+   "refrain": null,
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Dois-je aller au ciel les mains vides rencontrer mon rédempteur sans un jour de service pour lui sans un trophée à ses pieds ?",
+      "Dois-je aller au ciel les mains vides voir ainsi mon cher sauveur ?",
+      "Aucune âme à lui offrir dois-je aller au ciel les mains vides ?"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Je n’ai aucune crainte de la mort car mon rédempteur me sauve mais le rencontrer les mais vide est la seul crainte de mon cœur"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Les années perdues comme pécheur",
+      "si je peux les réclamer je les donnerai à Jésus soumis à sa volonté"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "oh vous saints debout ! au service !",
+      "Travailler quand il fait jour",
+      "Avant que la mort ne survienne lutter pour les âmes ce jour"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anc-674",
+   "titre": "Je dois dire à christ toutes mes épreuves",
+   "theme": "Autres",
+   "apparitions": [
+    {
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 674
+    }
+   ],
+   "refrain": [
+    "Je dirai a christ, oui je lui dirai je ne peux porter seul mes fardeaux je dirai a christ, oui je lui dirai c’est lui seul qui peut me secourir"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Je dois dire à christ toutes mes épreuves",
+      "je ne peux porter seul mes fardeaux dans ma détresse il viendra à mon aide",
+      "il aime et prends soins de ses enfants"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "je lui parlerai de tous mes ennuis il est un amis compatissant si je demande il me délivrera il mettre fin à tous mes problèmes"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "J’ai besoins de christ dans la tentation",
+      "car il peut porter tous mes fardeaux",
+      "je dirai a christ, oui je lui dirai c’est lui seul qui peut me secourir"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "oh comme le monde m’attire vers le péché",
+      "comme mon est tenté par le mal je le dirai a christ, il m’aidera il me donnera la victoire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anc-675",
+   "titre": "J’avance sur le chemin plus haut je gagne des hauteurs chaque jour j’évolue en priant toujours plante mes pieds sur la terre plus haute",
+   "theme": "Autres",
+   "apparitions": [
+    {
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 675
+    }
+   ],
+   "refrain": null,
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "J’avance sur le chemin plus haut je gagne des hauteurs chaque jour j’évolue en priant toujours plante mes pieds sur la terre plus haute",
+      "Elève moi Seigneur fixe mes pieds par la foi sur la terre céleste ou amour joie, lumière abondent plante mes pieds, sur la terre plus haute"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Je ne désire pas demeurer,",
+      "dans un lieu de doute et de crainte bien que certain y trouve leurs joie mon but suprême la terre"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Au-delà de ce ciel serein j’aspire à trouver la paix éternelle",
+      "Au-dessus du bruit de ce monde se trouve la paix pour tous les saints"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "La terre plus c’est mon désir bien que la voie sois difficile tout en montant, je chanterai conduis moi à la terre plus haute"
+     ]
+    },
+    {
+     "ordre": 5,
+     "lignes": [
+      "Conduis moi seigneur vers la haut je n’ose pas monter sans mon guide puis arrivé en ce lieux saint je chanterai ta gloire, seigneur"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anc-676",
    "titre": "Une nouvelle s’annonce !",
    "theme": "Autres",
    "apparitions": [
     {
-     "livre": "HYMNES ET GOSPEL",
-     "numero": 195
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 676
     }
    ],
    "refrain": null,
@@ -24268,6 +23946,205 @@
       "Une autre année de service parlant de ton amour",
       "une année de formation pour ton service au ciel une nouvelle année s’annonce !",
       "O père, fasse je prie qu’elle soit sur la terre ou dans le ciel une autre année pour toi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anc-677",
+   "titre": "Jésus se soucie-t-il quand mon cœur",
+   "theme": "Autres",
+   "apparitions": [
+    {
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 677
+    }
+   ],
+   "refrain": null,
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Jésus se soucie-t-il quand mon cœur",
+      "est meurtri par la douleur quand les fardeaux pèsent, les soucis m’oppressent",
+      "et le chemin est rocailleux ?",
+      "Oh ! Oui il se soucie de moi",
+      "Jésus se soucie de moi quand les jours s’assombrisse, ma voie s’obscurcis",
+      "Jésus prend soins de moi"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "Jésus se soucie-t-il quand ma voie est, jonchée d’incertitudes ?",
+      "le soleil se couche, les ténèbres surgissent Jésus se soucie-t-il de moi ?"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "Jésus se souci-t-il quand j’échoue devant les rudes tentations et lorsque je suis dans le désespoir quand mes larmes coulent toute la nuit ?"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "Jésus se soucie-t-il quand je dis",
+      "A dieu à ce qui me sont chers quand dans la douleur, mon cœur est brisé est-il touché par mon chagrin ?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anc-678",
+   "titre": "Amen, Amen, Blessings and Glory",
+   "theme": "Autres",
+   "apparitions": [
+    {
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 678
+    }
+   ],
+   "refrain": null,
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "Amen, Amen, Blessings and Glory",
+      "Wisdom, thanksgiving and honour",
+      "Power and might be unto our God",
+      "Forever and ever, Amen!",
+      "Amen amen, we bind the devil",
+      "We loose God's power, in this place",
+      "We Say Lord Jésus, Satan id confused,",
+      "Deliverance will follow. Amen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anc-679",
+   "titre": "He is exalted",
+   "theme": "Autres",
+   "apparitions": [
+    {
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 679
+    }
+   ],
+   "refrain": [
+    "He is the Lord",
+    "Forever His truth shall reign",
+    "Heaven and earth",
+    "Rejoice in His holy Name",
+    "He is exalted the King is exalted on high."
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "He is exalted",
+      "The King is exalted",
+      "And I will praise Him",
+      "He is exalted",
+      "Forever exalted",
+      "And I will praise His Name"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anc-680",
+   "titre": "We are never weary singing our eternal song:",
+   "theme": "Autres",
+   "apparitions": [
+    {
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 680
+    }
+   ],
+   "refrain": [
+    "O the children of the Lord have a wondrous song to sing,",
+    "For the Lord will by His grace many sons to glory bring.",
+    "We are going in that day to the presence of the King:",
+    "Glory to God, hallelujah!"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "We are never weary singing our eternal song:",
+      "Glory to God, hallelujah!",
+      "We would sing His praise forever with our spirit strong:",
+      "Glory to God, hallelujah!"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "We are lost amid the rapture of redeeming love:",
+      "Glory to God, hallelujah!",
+      "We are seeking every moment all its grace to prove:",
+      "Glory to God, hallelujah!"
+     ]
+    },
+    {
+     "ordre": 3,
+     "lignes": [
+      "We are going on to glory as the",
+      "Lord has told:",
+      "Glory to God, hallelujah!",
+      "Where the King in all His beauty we shall soon behold:",
+      "Glory to God, hallelujah!"
+     ]
+    },
+    {
+     "ordre": 4,
+     "lignes": [
+      "There we’ll sing His grace and mercy in a glad new song:",
+      "Glory to God, hallelujah!",
+      "There we’ll praise our glorious",
+      "Savior with the blessed throng:",
+      "Glory to God, hallelujah!"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anc-681",
+   "titre": "God sent His son they called Him",
+   "theme": "Autres",
+   "apparitions": [
+    {
+     "livre": "LES CANTIQUES ANCIENS",
+     "numero": 681
+    }
+   ],
+   "refrain": [
+    "Because He lives I can face tomorrow",
+    "Because He lives all fear is gone",
+    "Because I know He holds the future",
+    "And life is worth the living just because He lives"
+   ],
+   "couplets": [
+    {
+     "ordre": 1,
+     "lignes": [
+      "God sent His son they called Him",
+      "Jesus",
+      "He came to love heal and forgive",
+      "He lived and died to buy my pardon",
+      "An empty grave is there to prove my",
+      "Savior lives"
+     ]
+    },
+    {
+     "ordre": 2,
+     "lignes": [
+      "And then one day I'll cross that river",
+      "I'll fight life's final war with pain",
+      "And then as death gives way to vict'ry",
+      "I'll see the lights of glory and I'll know He lives"
      ]
     }
    ]
