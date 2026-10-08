@@ -762,7 +762,10 @@
       "chant_id": "anc-102",
       "titre_francais": "Cher Jésus, doux Jésus,",
       "titre_fongbe": "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
-      "refrain": null,
+      "refrain": [
+        "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
+        "A nyi dɔkun xɔkwɛ́ hú siká!"
+      ],
       "couplets": [
         {
           "ordre": 1,
@@ -774,16 +777,15 @@
             "A nyi dɔkun xɔkwɛ́ hú siká!",
             "Nyǐ towe nɔ ɖe wǎn ɖagbe",
             "Wǎn ɖagbe ɖagbe ɖé,",
-            "Hwi wɛ un nɔ sɛn ɖo ayi ce mɛ.",
-            "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
-            "A nyi dɔkun xɔkwɛ́ hú siká!"
+            "Hwi wɛ un nɔ sɛn ɖo ayi ce mɛ."
           ]
         }
       ],
       "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han102.mp3",
       "source": "saisie manuelle",
       "a_verifier": [
-        "Pas de refrain : le chant français n°102 est un seul bloc de 12 lignes sans refrain, et la 1re ligne ainsi que la 5e se répètent à la fin, comme en fongbe."
+        "Refrain déduit : la 1re ligne (« O Jezu, Aklunɔ… ») et la 5e (« A nyi dɔkun… ») reviennent à la fin du chant ; elles sont rangées dans « refrain » et le couplet 1 garde les 8 lignes d'origine.",
+        "Le chant français n°102 est un seul bloc de 12 lignes sans refrain déclaré : à harmoniser si besoin."
       ]
     },
     {
@@ -841,6 +843,56 @@
         }
       ],
       "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han106.mp3"
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 112,
+      "reference": "Han 112",
+      "chant_id": "anc-112",
+      "titre_francais": "A Toi la gloire, ô Ressuscité !",
+      "titre_fongbe": "Susu nu Aklunɔ, hwi mɛ e fɔ́n sín kú é!",
+      "refrain": [
+        "Susu nu Aklunɔ, hwi mɛ e fɔ́n sín kú é!",
+        "Susu nu ɖuɖeji tɔ ɔ́ yi mavɔ mavɔ !"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Susu nu Aklunɔ, hwi mɛ e fɔ́n sín kú é!",
+            "Susu nu ɖuɖeji tɔ ɔ́ yi mavɔ mavɔ !",
+            "Wɛnsagun ɔ́ jɛ te, bó ɖo wěziza kɔ́n wɛ;",
+            "É mlɔ́ awinnya e ɖò yɔdo e è ɖu ɖò jí é jí é síìn.",
+            "Hwi wɛ nyí susu, mɛ e fɔ́n sín kú é!",
+            "Ɖuɖu ɔ́ ní nyí Hwi tɔn káká sɔ́yi!"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Kpɔ́n É tɔ́n: É wɛ, Jezu wɛ,",
+            "Mɛhwlɛ́ngántɔ́ towe, Gǎn towe! O, ma sɔ́ ɖó linkpɔ́n ɖě ó!",
+            "Togun Aklúnɔ tɔn mi, mi j’awǎ;",
+            "Bo nɔ jla magbokɔ ɖɔ: Klisu ɖuɖeji!"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Un ɖo na kpo ɖo xɛsi ɖi wɛ a ? É ɖo gbɛ káká sɔ́yi;",
+            "Mɛ e un nɔ sɛn ɔ́, Fífá sín gǎn wɛ.",
+            "É wɛ nyí ɖuɖeji ce, é wɛ nyí alɔdó ce ɖaxó ɔ́;",
+            "Gbɛ ce kpódó susu ce kpó: éo, un nɔ ɖi xɛsi nú nǔɖé ǎ."
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han112.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Refrain déduit : les 2 premières lignes du couplet 1 correspondent au refrain français (« A Toi la gloire, ô Ressuscité ! »). Elles restent aussi dans le couplet 1, comme en français.",
+        "Les 2 dernières lignes du couplet 1 (« Hwi wɛ nyí susu… ») sont une variante du refrain, gardées dans le couplet.",
+        "La 1re lettre de « Ɖuɖu » (couplet 1, avant-dernière ligne) était saisie « Ƈ » : corrigée en « Ɖ »."
+      ]
     },
     {
       "livre": "FƆNGBE HAN",
@@ -955,47 +1007,63 @@
       "a_verifier": []
     },
     {
-      "numero": 133,
-      "langue": "fongbe",
+      "livre": "FƆNGBE HAN",
+      "han": 133,
+      "reference": "Han 133",
+      "chant_id": "anc-133",
+      "titre_francais": "Venez au festin car tout est prêt !",
+      "titre_fongbe": "Mi wa mi ni ɖu nu, nu bi sɔgbe !",
+      "refrain": [
+        "Mawu, wɛ ɖo mi ylɔ́ wɛ;",
+        "Mɛ e jló ɔ́ bo wa !",
+        "Hwlɛngán zɔ́ ɔ́ ko nyi wiwa;",
+        "Mɛ e jló ɔ́ ní wa bo yí!"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Mi wa mi ni ɖu nu, nu bi sɔgbe !",
+            "Mi wá, è ko tɛ távo ɔ́ ;",
+            "Mɛ s xovɛ́ sin, bɔ kɔ xú lɛ e;",
+            "Ɛɛn, mi wá mi ni ɖu nu."
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Mi wa mi ni ɖu nu, nu bi sɔgbe !",
+            "Wǎ, hɔn ɖo hunhun nú we;",
+            "È sɔ́ tɛnmɛ ɖaxó ɖé ɖ’ayǐ nú we.",
+            "Ɖò Gǎn mǐtɔn kpá."
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Mi wa mi ni ɖu nu, nu bi sɔgbe !",
+            "Wǎ din e hwenu kpo ɖo te é.",
+            "Axɔsu ɔ́ ɖo te kpɔ́n we.",
+            "Ɖó sɔ na ko lín!"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Mi wa mi ni ɖu nu, nu bi sɔgbe !",
+            "Jó linkpɔn gbɛ élɔ tɔn lɛ́ɛ dó.",
+            "Mi wá, mi j’awǎ, bó ɖu nǔ xá axɔ́sú ɔ́;",
+            "Nu gbɛ mavɔmavɔ!"
+          ]
+        }
+      ],
       "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han133.mp3",
-      "refrain": "Mi wa mi ni ɖu nu, nu bi sɔgbe !",
-      "couplets": [
-        {
-          "numero": 1,
-          "texte": "Mi wá, è ko tɛ távo ɔ́ ;\nMɛ s xovɛ́ sin, bɔ kɔ xú lɛ e;\nƐɛn, mi wá mi ni ɖu nu.\n\nMawu, wɛ ɖo mi ylɔ́ wɛ;\nMɛ e jló ɔ́ bo wa !\nHwlɛngán zɔ́ ɔ́ ko nyi wiwa;\nMɛ e jló ɔ́ ní wa bo yí!"
-        },
-        {
-          "numero": 2,
-          "texte": "Wǎ, hɔn ɖo hunhun nú we;\nÈ sɔ́ tɛnmɛ ɖaxó ɖé ɖ'ayǐ nú we.\nÐò Gǎn mǐtɔn kpá."
-        },
-        {
-          "numero": 3,
-          "texte": "Wǎ din e hwenu kpo ɖo te é.\nAxɔsu ɔ́ ɖo te kpɔ́n we.\nÐó sɔ na ko lín!"
-        },
-        {
-          "numero": 4,
-          "texte": "Jó linkpɔn gbɛ élɔ tɔn lɛ́ɛ dó.\nMi wá, mi j'awǎ, bó ɖu nǔ xá axɔ́sú ɔ́;\nNu gbɛ mavɔmavɔ!"
-        }
-      ]
-    },
-    {
-      "numero": 112,
-      "langue": "fongbe",
-      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han112.mp3",
-      "refrain": null,
-      "couplets": [
-        {
-          "numero": 1,
-          "texte": "Susu nu Aklunɔ, hwi mɛ e fɔ́n sín kú é!\nSusu nu ɖuɖeji tɔ ɔ́ yi mavɔ mavɔ !\nWɛnsagun ɔ́ jɛ te, bó ɖo wěziza kɔ́n wɛ;\nÉ mlɔ́ awinnya e ɖò yɔdo e è ɖu ɖò jí é jí é síìn.\nHwi wɛ nyí susu, mɛ e fɔ́n sín kú é!\nƉuɖu ɔ́ ní nyí Hwi tɔn káká sɔ́yi!"
-        },
-        {
-          "numero": 2,
-          "texte": "Kpɔ́n É tɔ́n: É wɛ, Jezu wɛ,\nMɛhwlɛ́ngántɔ́ towe, Gǎn towe! O, ma sɔ́ ɖó linkpɔ́n ɖě ó!\nTogun Aklúnɔ tɔn mi, mi j'awǎ;\nBo nɔ jla magbokɔ ɖɔ: Klisu ɖuɖeji!"
-        },
-        {
-          "numero": 3,
-          "texte": "Un ɖo na kpo ɖo xɛsi ɖi wɛ a ? É ɖo gbɛ káká sɔ́yi;\nMɛ e un nɔ sɛn ɔ́, Fífá sín gǎn wɛ.\nÉ wɛ nyí ɖuɖeji ce, é wɛ nyí alɔdó ce ɖaxó ɔ́;\nGbɛ ce kpódó susu ce kpó: éo, un nɔ ɖi xɛsi nú nǔɖé ǎ."
-        }
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Refrain : le bloc de 4 lignes (« Mawu, wɛ ɖo mi ylɔ́ wɛ… ») n'était écrit qu'une fois, après le couplet 1 ; il correspond au refrain français (« Dieu aujourd'hui appelle… »).",
+        "La ligne « Mi wa mi ni ɖu nu, nu bi sɔgbe ! » ouvre chaque couplet, comme « Venez au festin car tout est prêt ! » en français.",
+        "Faute de frappe possible, gardée telle que saisie : « Mɛ s xovɛ́ » (couplet 1, ligne 3, peut-être « Mɛ sɔ́ »).",
+        "La lettre « Ð » (eth) de « Ðò Gǎn » et « Ðó sɔ » est convertie en « Ɖ »."
       ]
     },
     {
