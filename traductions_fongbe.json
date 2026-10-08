@@ -1,364 +1,365 @@
 {
- "description": "Traductions fongbe extraites de Han_Fongbe-Fr.pdf et Anciennes_traduc.pdf (Han N = Cantique N de LES CANTIQUES ANCIENS, sauf indication). Les refrains sont les lignes en gras-italique du PDF.",
-"Version": "1.6",
- "livre": "FƆNGBE HAN",
- "traductions": [
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 2,
-   "reference": "Han 2",
-   "chant_id": "anc-002",
-   "titre_francais": "Serviteurs de l’Eternel, louez-le !",
-   "titre_fongbe": "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
-   "refrain": null,
-   "couplets": [
+  "description": "Traductions fongbe extraites de Han_Fongbe-Fr.pdf et Anciennes_traduc.pdf (Han N = Cantique N de LES CANTIQUES ANCIENS, sauf indication). Les refrains sont les lignes en gras-italique du PDF.",
+  "Version": "1.6",
+  "livre": "FƆNGBE HAN",
+  "traductions": [
     {
-     "ordre": 1,
-     "lignes": [
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
-      "Mi nɔ kpa Jezu tɛgbɛ,",
-      "Nyǐkɔ (mímɛ́) tɔn ní nyí nu sisi.",
-      "Bɛ́ sín din káká sɔ́ yi, mi kpa Aklunɔ!"
-     ]
+      "livre": "FƆNGBE HAN",
+      "han": 2,
+      "reference": "Han 2",
+      "chant_id": "anc-002",
+      "titre_francais": "Serviteurs de l’Eternel, louez-le !",
+      "titre_fongbe": "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
+            "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
+            "Mi nɔ kpa Jezu tɛgbɛ,",
+            "Nyǐkɔ (mímɛ́) tɔn ní nyí nu sisi.",
+            "Bɛ́ sín din káká sɔ́ yi, mi kpa Aklunɔ!"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
+            "Cobɔ hwe na wa ji hun mi kpa Aklunɔ",
+            "Sin zanzan (káká) sɔyi gbada",
+            "Mi nɔ sɔ nyǐkɔ tɔn su",
+            "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
+            "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
+            "Mi sɔ Mavɔ mavɔ ɔ su",
+            "É hú gǎn akɔta lɛ́ɛ bǐ",
+            "Susu tɔn yi jǐ hú jǐnukúnsin."
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
+            "Mɛ̌ wɛ cí mavɔ mavɔ Mawu mǐtɔn ɖɔhun?",
+            "É wɛ nɔ cɔ ayǐkúngban ɔ",
+            "Kpódó jinukunsin kpó",
+            "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han2.mp3"
     },
     {
-     "ordre": 2,
-     "lignes": [
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
-      "Cobɔ hwe na wa ji hun mi kpa Aklunɔ",
-      "Sin zanzan (káká) sɔyi gbada",
-      "Mi nɔ sɔ nyǐkɔ tɔn su",
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!"
-     ]
+      "livre": "FƆNGBE HAN",
+      "han": 4,
+      "reference": "Han 4",
+      "chant_id": "anc-004",
+      "titre_francais": "Père, je t’adore Je te donne ma vie",
+      "titre_fongbe": "Otɔ́, un yi wan nu we.",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Otɔ́, un yi wan nu we.",
+            "Un ze gbɛ ce bi jó nú we.",
+            "Un yí wǎn nú we dín."
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Jezu, un yi wan nu we.",
+            "Un ze gbɛ ce bi jó nú we.",
+            "Un yí wǎn nú we dín."
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Yɛsinsɛn, un yi wan nu we.",
+            "Un ze gbɛ ce bi jó nú we.",
+            "Un yí wǎn nú we dín."
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han4.mp3"
     },
     {
-     "ordre": 3,
-     "lignes": [
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
-      "Mi sɔ Mavɔ mavɔ ɔ su",
-      "É hú gǎn akɔta lɛ́ɛ bǐ",
-      "Susu tɔn yi jǐ hú jǐnukúnsin."
-     ]
+      "livre": "FƆNGBE HAN",
+      "han": 5,
+      "reference": "Han 5",
+      "chant_id": "anc-005",
+      "titre_francais": "Nous le louerons, nous le louerons !",
+      "titre_fongbe": "Mi na kpa we",
+      "refrain": [
+        "Mǐ na kpa wé, Mǐ na kpa wé!",
+        "Mǐ na kpa Aklúnɔ hwebinú!",
+        "Mǐ na kpa wé, Mǐ na kpa wé!",
+        "Mǐ na kpa Aklúnɔ hwebinú!"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Jǎan mɔ nɔvi ɖé e",
+            "lɛ́ngbɔ vi ɔ cyán lɛ́ɛ",
+            "bɔ yɛ̌ ɖo Aklúnɔ kpa wɛ lɛ́ɛ",
+            "(Sǔnnǔ) ɖɛ̌ ɖo han ji wɛ",
+            "(Nyɔnu) ɖɛ̌ ɖo ɖɛ́ xo wɛ",
+            "(Mɛ bi) bɔ yɛ̌ bi ɖo axɔsú ɔ mlà wɛ"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han5.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": [
+        "Refrain déduit : le bloc de 4 lignes qui se répète avant et après le couplet (pas de gras-italique dans le PDF).",
+        "Caractères du PDF convertis par déduction (à relire) : ă → ǎ ; ӗ → ɛ̌ ; ủ → ǔ ; ủ → ǔ ; ӗ → ɛ̌ ; ↄ → ɔ ; ӗ → ɛ̌ ; ӗ → ɛ̌"
+      ]
     },
     {
-     "ordre": 4,
-     "lignes": [
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!",
-      "Mɛ̌ wɛ cí mavɔ mavɔ Mawu mǐtɔn ɖɔhun?",
-      "É wɛ nɔ cɔ ayǐkúngban ɔ",
-      "Kpódó jinukunsin kpó",
-      "Mɛsɛntɔ́ Mawu tɔn lɛ, mi kpa Aklunɔ!"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han2.mp3"
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 4,
-   "reference": "Han 4",
-   "chant_id": "anc-004",
-   "titre_francais": "Père, je t’adore Je te donne ma vie",
-   "titre_fongbe": "Otɔ́, un yi wan nu we.",
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Otɔ́, un yi wan nu we.",
-      "Un ze gbɛ ce bi jó nú we.",
-      "Un yí wǎn nú we dín."
-     ]
+      "livre": "FƆNGBE HAN",
+      "han": 6,
+      "reference": "Han 6",
+      "chant_id": "anc-006",
+      "titre_francais": "A Dieu soit la gloire !",
+      "titre_fongbe": "Susu nú Mawu!",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Susu nú Mawu!",
+            "Susu nú Mawu!",
+            "Susu nú Mawu!"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Nu nu ɖaxo ɖaxo é bló lɛɛ!",
+            "É hwlɛn mì kpó hun tɔn kpó",
+            "Hlɔ̌ nhlɔ́ n tɔn sɔ mi sí te",
+            "Susu nú Mawu",
+            "Nu nu ɖaxo ɖaxo é bló lɛ é!"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han6.mp3"
     },
     {
-     "ordre": 2,
-     "lignes": [
-      "Jezu, un yi wan nu we.",
-      "Un ze gbɛ ce bi jó nú we.",
-      "Un yí wǎn nú we dín."
-     ]
+      "livre": "FƆNGBE HAN",
+      "han": 11,
+      "reference": "Han 11",
+      "chant_id": "anc-011",
+      "titre_francais": "Nous Te louons ô Père,",
+      "titre_fongbe": "Mi ɖo kpikpa we wɛ tɔ",
+      "refrain": [
+        "Aleluya nu otɔ",
+        "Aleluya ami",
+        "Aleluya nu otɔ",
+        "Yi mavɔmavɔ"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Mi ɖo kpikpa we wɛ tɔ",
+            "Nu vi wanyinanɔ towe",
+            "Nu hwlɛngantɔ e ku bɔ a sɔ nyi tɔn su e"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Mi ɖo kpikpa we wɛ tɔ",
+            "Nu Yɛ weziza nɔ",
+            "E ɖe hwlɛngantɔ xlɛ mi bo nya ablu do zɔ e"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Mi sɔ yɛyi lɛɛ nu we",
+            "Mi sɔ susu lɛɛ nu we",
+            "Ɖo hwlɛngan e ɖo Jesu mɛ e ɖe ayi towe xlɛ mi"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Mi ɖo kpikpa we wɛ tɔ",
+            "Gbɛ towe gɔ mimɛ",
+            "Myɔ towe ji ɖo mimɛ wanyiyi towe gɔ mi fla"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han11.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": []
     },
     {
-     "ordre": 3,
-     "lignes": [
-      "Yɛsinsɛn, un yi wan nu we.",
-      "Un ze gbɛ ce bi jó nú we.",
-      "Un yí wǎn nú we dín."
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han4.mp3"
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 5,
-   "reference": "Han 5",
-   "chant_id": "anc-005",
-   "titre_francais": "Nous le louerons, nous le louerons !",
-   "titre_fongbe": "Mi na kpa we",
-   "refrain": [
-    "Mǐ na kpa wé, Mǐ na kpa wé!",
-    "Mǐ na kpa Aklúnɔ hwebinú!",
-    "Mǐ na kpa wé, Mǐ na kpa wé!",
-    "Mǐ na kpa Aklúnɔ hwebinú!"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Jǎan mɔ nɔvi ɖé e",
-      "lɛ́ngbɔ vi ɔ cyán lɛ́ɛ",
-      "bɔ yɛ̌ ɖo Aklúnɔ kpa wɛ lɛ́ɛ",
-      "(Sǔnnǔ) ɖɛ̌ ɖo han ji wɛ",
-      "(Nyɔnu) ɖɛ̌ ɖo ɖɛ́ xo wɛ",
-      "(Mɛ bi) bɔ yɛ̌ bi ɖo axɔsú ɔ mlà wɛ"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han5.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": [
-    "Refrain déduit : le bloc de 4 lignes qui se répète avant et après le couplet (pas de gras-italique dans le PDF).",
-    "Caractères du PDF convertis par déduction (à relire) : ă → ǎ ; ӗ → ɛ̌ ; ủ → ǔ ; ủ → ǔ ; ӗ → ɛ̌ ; ↄ → ɔ ; ӗ → ɛ̌ ; ӗ → ɛ̌"
-   ]
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 6,
-   "reference": "Han 6",
-   "chant_id": "anc-006",
-   "titre_francais": "A Dieu soit la gloire !",
-   "titre_fongbe": "Susu nú Mawu!",
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Susu nú Mawu!",
-      "Susu nú Mawu!",
-      "Susu nú Mawu!"
-     ]
+      "livre": "FƆNGBE HAN",
+      "han": 18,
+      "reference": "Han 18",
+      "chant_id": "anc-018",
+      "titre_francais": "Ton nom, Jésus, est un parfum,",
+      "titre_fongbe": "Jezu nyikɔ wǎn ɖagbe nɔ",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Jezu nyikɔ wǎn ɖagbe nɔ",
+            "Jezu,Jezu, Jezu, Jezu!",
+            "Jezu nyikɔ wǎn ɖagbe nɔ",
+            "Jezu nyikɔ wǎn ɖagbe nɔ"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Énɛ́ wɛ zɔn mi yí wǎn nú we",
+            "Jezu, Jezu, Jezu, Jezu.",
+            "Énɛ́ wɛ zɔn mi yí wǎn nú we",
+            "Énɛ́ wɛ zɔn mi yí wǎn nú we"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Wanyiyi towe mu mɛ ɔ, é nyɔ hu vɛɛn",
+            "Jezu, Jezu, Jezu, Jezu",
+            "Wanyiyi towe mu mɛ ɔ, é nyɔ hu vɛɛn",
+            "Wanyiyi towe mu mɛ ɔ, é nyɔ hu vɛɛn"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Kpla mì nu ma xwedo we",
+            "Jezu, Jezu, Jezu, Jezu",
+            "Kpla mì nu ma xwedo we",
+            "Kpla mì nu ma xwedo we"
+          ]
+        },
+        {
+          "ordre": 5,
+          "lignes": [
+            "Wanyinanɔ, ɖɛkpɛ towe mu mi",
+            "Jezu, Jezu, Jezu, Jezu",
+            "Wanyinanɔ, ɖɛkpɛ towe mu mi",
+            "Wanyinanɔ, ɖɛkpɛ towe mu mi"
+          ]
+        },
+        {
+          "ordre": 6,
+          "lignes": [
+            "Un mɔ mɛ e un yi wan na e",
+            "Jezu, Jezu, Jezu, Jezu",
+            "Un mɔ mɛ e un yi wan na e,",
+            "Un mɔ mɛ e un yi wan ne e."
+          ]
+        },
+        {
+          "ordre": 7,
+          "lignes": [
+            "Lɛkɔ wa, Wanyinanɔ lɛkɔ wa",
+            "Jezu, Jezu, Jezu, Jezu!",
+            "Lɛkɔ wa, Wanyinanɔ lɛkɔ wa",
+            "Lɛkɔ wa, Wanyinanɔ lɛkɔ wa"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han18.mp3"
     },
     {
-     "ordre": 2,
-     "lignes": [
-      "Nu nu ɖaxo ɖaxo é bló lɛɛ!",
-      "É hwlɛn mì kpó hun tɔn kpó",
-      "Hlɔ̌ nhlɔ́ n tɔn sɔ mi sí te",
-      "Susu nú Mawu",
-      "Nu nu ɖaxo ɖaxo é bló lɛ é!"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han6.mp3"
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 11,
-   "reference": "Han 11",
-   "chant_id": "anc-011",
-   "titre_francais": "Nous Te louons ô Père,",
-   "titre_fongbe": "Mi ɖo kpikpa we wɛ tɔ",
-   "refrain": [
-    "Aleluya nu otɔ",
-    "Aleluya ami",
-    "Aleluya nu otɔ",
-    "Yi mavɔmavɔ"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Mi ɖo kpikpa we wɛ tɔ",
-      "Nu vi wanyinanɔ towe",
-      "Nu hwlɛngantɔ e ku bɔ a sɔ nyi tɔn su e"
-     ]
+      "livre": "FƆNGBE HAN",
+      "han": 19,
+      "reference": "Han 19",
+      "chant_id": "anc-019",
+      "titre_francais": "Glorieux, puissant nom de Jésus !",
+      "titre_fongbe": "Nyikɔ towe, klo bo ɖo hlɔnhlɔn",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Nyikɔ towe, klo bo ɖo hlɔnhlɔn",
+            "Un nɔ hwlá ɖo nyǐ towe mɛ",
+            "Un ze we su, un nɔ sɛn we",
+            "Ɖuɖeji ɔ nyi towe mɛ e ɖe."
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Aklunɔ, hwlɛngantɔ hlɔnhlɔnnɔ",
+            "Ɖo Nyi towe mɛ ɔ, mi ɖo nu bi.",
+            "Nyǐ towe nu(nu) ɔ́, gbɛ towe nunu wɛ",
+            "Nyǐkɔ towe, nɔ nyɔ ɖu nu mi."
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Nuɖiɖo lɛ bi ɖo susu kpa",
+            "Nu nyǐkɔ towe hlɔ̌ nhlɔ́ nnɔ ɔ́ wɛ",
+            "Nylandonɔ ɖe e a hwlɛ́n gán lɛ́ɛ",
+            "Jɛn ɖu sin nyǐkɔ énɛ́ ɔ́ mɛ."
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "(A)klunɔ Jezu!, nyikɔ xɔ akwɛ",
+            "A nyɔ ɖu ɖo wuvɛ lɛ mɛ",
+            "Ɖo nyi towe mɛ ɔ, mǐ bi nɔ mɔ gbɛ",
+            "Aklunɔ, mǐ ɖo te kpɔ́ n we."
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han19.mp3"
     },
     {
-     "ordre": 2,
-     "lignes": [
-      "Mi ɖo kpikpa we wɛ tɔ",
-      "Nu Yɛ weziza nɔ",
-      "E ɖe hwlɛngantɔ xlɛ mi bo nya ablu do zɔ e"
-     ]
+      "livre": "FƆNGBE HAN",
+      "han": 20,
+      "reference": "Han 20",
+      "chant_id": "anc-020",
+      "titre_francais": "En invoquant : seigneur !",
+      "titre_fongbe": "Enyi mi ylɔ Aklunɔ ɔ",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Enyi mi ylɔ Aklunɔ ɔ",
+            "Gbigbɔ mitɔn nɔ mɔ gan",
+            "Mi hɛn ɔ mi na sɔ alɔ ɛ",
+            "Bo na mɔ gbɛ jɔ gbɛ ɔ yi",
+            "Ma ɖoto kɛntɔ o",
+            "Hwɛjijɔ tɔn lɛɛ o",
+            "Lo ɔ lɛkɔ kpɔn yɛ ɔ",
+            "Ɖ’Aklunɔ Jezu Klis’.",
+            "Wɔn hwiɖe bi kpete",
+            "(A)klunɔ Jezu ɛɛn ami."
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han20.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": [
+        "Aucun refrain repéré. Les 2 dernières lignes (en caractères normaux, alors que le reste est en italique) sont peut-être un refrain."
+      ]
     },
     {
-     "ordre": 3,
-     "lignes": [
-      "Mi sɔ yɛyi lɛɛ nu we",
-      "Mi sɔ susu lɛɛ nu we",
-      "Ɖo hwlɛngan e ɖo Jesu mɛ e ɖe ayi towe xlɛ mi"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Mi ɖo kpikpa we wɛ tɔ",
-      "Gbɛ towe gɔ mimɛ",
-      "Myɔ towe ji ɖo mimɛ wanyiyi towe gɔ mi fla"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han11.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": []
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 18,
-   "reference": "Han 18",
-   "chant_id": "anc-018",
-   "titre_francais": "Ton nom, Jésus, est un parfum,",
-   "titre_fongbe": "Jezu nyikɔ wǎn ɖagbe nɔ",
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Jezu nyikɔ wǎn ɖagbe nɔ",
-      "Jezu,Jezu, Jezu, Jezu!",
-      "Jezu nyikɔ wǎn ɖagbe nɔ",
-      "Jezu nyikɔ wǎn ɖagbe nɔ"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Énɛ́ wɛ zɔn mi yí wǎn nú we",
-      "Jezu, Jezu, Jezu, Jezu.",
-      "Énɛ́ wɛ zɔn mi yí wǎn nú we",
-      "Énɛ́ wɛ zɔn mi yí wǎn nú we"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Wanyiyi towe mu mɛ ɔ, é nyɔ hu vɛɛn",
-      "Jezu, Jezu, Jezu, Jezu",
-      "Wanyiyi towe mu mɛ ɔ, é nyɔ hu vɛɛn",
-      "Wanyiyi towe mu mɛ ɔ, é nyɔ hu vɛɛn"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Kpla mì nu ma xwedo we",
-      "Jezu, Jezu, Jezu, Jezu",
-      "Kpla mì nu ma xwedo we",
-      "Kpla mì nu ma xwedo we"
-     ]
-    },
-    {
-     "ordre": 5,
-     "lignes": [
-      "Wanyinanɔ, ɖɛkpɛ towe mu mi",
-      "Jezu, Jezu, Jezu, Jezu",
-      "Wanyinanɔ, ɖɛkpɛ towe mu mi",
-      "Wanyinanɔ, ɖɛkpɛ towe mu mi"
-     ]
-    },
-    {
-     "ordre": 6,
-     "lignes": [
-      "Un mɔ mɛ e un yi wan na e",
-      "Jezu, Jezu, Jezu, Jezu",
-      "Un mɔ mɛ e un yi wan na e,",
-      "Un mɔ mɛ e un yi wan ne e."
-     ]
-    },
-    {
-     "ordre": 7,
-     "lignes": [
-      "Lɛkɔ wa, Wanyinanɔ lɛkɔ wa",
-      "Jezu, Jezu, Jezu, Jezu!",
-      "Lɛkɔ wa, Wanyinanɔ lɛkɔ wa",
-      "Lɛkɔ wa, Wanyinanɔ lɛkɔ wa"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han18.mp3"
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 19,
-   "reference": "Han 19",
-   "chant_id": "anc-019",
-   "titre_francais": "Glorieux, puissant nom de Jésus !",
-   "titre_fongbe": "Nyikɔ towe, klo bo ɖo hlɔnhlɔn",
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Nyikɔ towe, klo bo ɖo hlɔnhlɔn",
-      "Un nɔ hwlá ɖo nyǐ towe mɛ",
-      "Un ze we su, un nɔ sɛn we",
-      "Ɖuɖeji ɔ nyi towe mɛ e ɖe."
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Aklunɔ, hwlɛngantɔ hlɔnhlɔnnɔ",
-      "Ɖo Nyi towe mɛ ɔ, mi ɖo nu bi.",
-      "Nyǐ towe nu(nu) ɔ́, gbɛ towe nunu wɛ",
-      "Nyǐkɔ towe, nɔ nyɔ ɖu nu mi."
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Nuɖiɖo lɛ bi ɖo susu kpa",
-      "Nu nyǐkɔ towe hlɔ̌ nhlɔ́ nnɔ ɔ́ wɛ",
-      "Nylandonɔ ɖe e a hwlɛ́n gán lɛ́ɛ",
-      "Jɛn ɖu sin nyǐkɔ énɛ́ ɔ́ mɛ."
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "(A)klunɔ Jezu!, nyikɔ xɔ akwɛ",
-      "A nyɔ ɖu ɖo wuvɛ lɛ mɛ",
-      "Ɖo nyi towe mɛ ɔ, mǐ bi nɔ mɔ gbɛ",
-      "Aklunɔ, mǐ ɖo te kpɔ́ n we."
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han19.mp3"
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 20,
-   "reference": "Han 20",
-   "chant_id": "anc-020",
-   "titre_francais": "En invoquant : seigneur !",
-   "titre_fongbe": "Enyi mi ylɔ Aklunɔ ɔ",
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Enyi mi ylɔ Aklunɔ ɔ",
-      "Gbigbɔ mitɔn nɔ mɔ gan",
-      "Mi hɛn ɔ mi na sɔ alɔ ɛ",
-      "Bo na mɔ gbɛ jɔ gbɛ ɔ yi",
-      "Ma ɖoto kɛntɔ o",
-      "Hwɛjijɔ tɔn lɛɛ o",
-      "Lo ɔ lɛkɔ kpɔn yɛ ɔ",
-      "Ɖ’Aklunɔ Jezu Klis’.",
-      "Wɔn hwiɖe bi kpete",
-      "(A)klunɔ Jezu ɛɛn ami."
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han20.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": [
-    "Aucun refrain repéré. Les 2 dernières lignes (en caractères normaux, alors que le reste est en italique) sont peut-être un refrain."
-   ]
-  },{
       "livre": "FƆNGBE HAN",
       "han": 21,
       "reference": "Han 21",
@@ -410,1204 +411,1206 @@
         "Typos possibles, gardées telles que saisies : « biǐ » (couplet 2, ligne 1, peut-être « bǐ ») et « xwii » (couplet 2, ligne 4, peut-être « xwǐ »).",
         "Les guillemets ‘’ ’’ sont convertis en “ ” ; les espaces avant ! ? ; sont supprimées."
       ]
-    }
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 40,
-   "reference": "Han 40",
-   "chant_id": "anc-040",
-   "titre_francais": "Oh Toi le sujet de bonheur parfait,",
-   "titre_fongbe": "O Hwi mɛ e nyi awǎjijɛ ce maɖóblɔ̌ e",
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "O Hwi mɛ e nyi awǎjijɛ ce maɖóblɔ̌ e",
-      "Hwi wɛ un nɔ ylɔ ɖo aluwɛ ce mɛ",
-      "Bɛtɛn ce zǎnmɛ, alɔdó ce kéze",
-      "Nǔɖiɖi ce, hwlɛngán ce"
-     ]
     },
     {
-     "ordre": 2,
-     "lignes": [
-      "O, xlɛ fí e a nɔ nyi gbɔ towe lɛ ɖè ɔ mi",
-      "fí ɖe a nɔ na gbɔjɛ ye ɖè é",
-      "Étɛ́wútu un ka na ya avǐ hwebinu?",
-      "Bo na kú jɛ gbětótló mɛ?"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Etɛwu un ka na flú bo na nɔ zɔ nú we?",
-      "Étɛ́wú un na fɔn gu do ji towe?",
-      "Kɛntɔ́ towe lɛ́ɛ ɖo winnya e un ɖu ɔ ko wɛ",
-      "Bó nɔ́ ca avi ce lɛ ko."
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Jeluzalɛ́mu nyɔ̌ nu lɛ́ɛ e mi",
-      "Sunví ɖe kɔ́ n ɖo Izlayɛ́li",
-      "Mɛ ka tunwun fi e Wanyinanɔ gbɔ̌ e",
-      "Fi ɖe é kpla gbɔ tɔn lɛ́ɛ yi e?"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han40.mp3"
-  },
-  {
-  "livre": "FƆNGBE HAN",
-  "han": 69,
-  "reference": "Han 69",
-  "chant_id": "anc-069",
-  "titre_francais": "Il nous a trouvés, à l’Eglise amenés",
-  "titre_fongbe": "Ewa mɔ mi ɖo Agun ɖe e cyan e mɛ",
-  "refrain": null,
-  "couplets": [
-    {
-      "ordre": 1,
-      "lignes": [
-        "Ewa mɔ mi ɖo Agun ɖe e cyan e mɛ",
-        "Fi e nɔvi lɛɛ ɖo xwegbe ɖe e",
-        "Fi ɔ klisu wɛ nyi gbɛ Wuvɛ lɛɛ bi ko vɔ",
-        "Aleluya nu Klis(u) kpo Agun ɔ kpo"
+      "livre": "FƆNGBE HAN",
+      "han": 40,
+      "reference": "Han 40",
+      "chant_id": "anc-040",
+      "titre_francais": "Oh Toi le sujet de bonheur parfait,",
+      "titre_fongbe": "O Hwi mɛ e nyi awǎjijɛ ce maɖóblɔ̌ e",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "O Hwi mɛ e nyi awǎjijɛ ce maɖóblɔ̌ e",
+            "Hwi wɛ un nɔ ylɔ ɖo aluwɛ ce mɛ",
+            "Bɛtɛn ce zǎnmɛ, alɔdó ce kéze",
+            "Nǔɖiɖi ce, hwlɛngán ce"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "O, xlɛ fí e a nɔ nyi gbɔ towe lɛ ɖè ɔ mi",
+            "fí ɖe a nɔ na gbɔjɛ ye ɖè é",
+            "Étɛ́wútu un ka na ya avǐ hwebinu?",
+            "Bo na kú jɛ gbětótló mɛ?"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Etɛwu un ka na flú bo na nɔ zɔ nú we?",
+            "Étɛ́wú un na fɔn gu do ji towe?",
+            "Kɛntɔ́ towe lɛ́ɛ ɖo winnya e un ɖu ɔ ko wɛ",
+            "Bó nɔ́ ca avi ce lɛ ko."
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Jeluzalɛ́mu nyɔ̌ nu lɛ́ɛ e mi",
+            "Sunví ɖe kɔ́ n ɖo Izlayɛ́li",
+            "Mɛ ka tunwun fi e Wanyinanɔ gbɔ̌ e",
+            "Fi ɖe é kpla gbɔ tɔn lɛ́ɛ yi e?"
+          ]
+        }
       ],
-      "refrain": [
-        "Ɖo Agun tɔn mɛ fi ɔ",
-        "Nu e ba wɛ mi ɖe e mi mɔ lo",
-        "Bɔ ayihɔngbe ayihɔngbe ɔ",
-        "Mi nɔ kpa susu ni",
-        "Aleluya Klis(u) kpo Agun ɔ kpo"
-      ]
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han40.mp3"
     },
     {
-      "ordre": 2,
-      "lignes": [
-        "Ɛɛn Mawu gbɔjɛ, tito tɔn lɛ nyi ci cɛ",
-        "E wa mɔ xwetɔn gbe lo",
-        "Ayitɔn jɛ ayi do mi u",
-        "Mi huzu nɔtɛn ton",
-        "Bɔ gigo tɔn hon do mi ji"
+      "livre": "FƆNGBE HAN",
+      "han": 69,
+      "reference": "Han 69",
+      "chant_id": "anc-069",
+      "titre_francais": "Il nous a trouvés, à l’Eglise amenés",
+      "titre_fongbe": "Ewa mɔ mi ɖo Agun ɖe e cyan e mɛ",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Ewa mɔ mi ɖo Agun ɖe e cyan e mɛ",
+            "Fi e nɔvi lɛɛ ɖo xwegbe ɖe e",
+            "Fi ɔ klisu wɛ nyi gbɛ Wuvɛ lɛɛ bi ko vɔ",
+            "Aleluya nu Klis(u) kpo Agun ɔ kpo"
+          ],
+          "refrain": [
+            "Ɖo Agun tɔn mɛ fi ɔ",
+            "Nu e ba wɛ mi ɖe e mi mɔ lo",
+            "Bɔ ayihɔngbe ayihɔngbe ɔ",
+            "Mi nɔ kpa susu ni",
+            "Aleluya Klis(u) kpo Agun ɔ kpo"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Ɛɛn Mawu gbɔjɛ, tito tɔn lɛ nyi ci cɛ",
+            "E wa mɔ xwetɔn gbe lo",
+            "Ayitɔn jɛ ayi do mi u",
+            "Mi huzu nɔtɛn ton",
+            "Bɔ gigo tɔn hon do mi ji"
+          ],
+          "refrain": [
+            "Ɖo Agun tɔn mɛ fi ɔ",
+            "Nu e ba wɛ e ɖe e é mɔ lo",
+            "Bɔ ɖo wanyiyi tɔn mɛ ɔ",
+            "Mi nɔ sɔ susu ni",
+            "Aleluya nu Klis(u) kpo Agun ɔ kpo"
+          ]
+        }
       ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han69.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Refrains propres à chaque couplet (les deux blocs de 5 lignes sont légèrement différents, comme en français) : ils sont rangés dans le champ « refrain » de chaque couplet, et le refrain commun est null.",
+        "Faute de frappe possible, gardée telle que saisie : « ton » (couplet 2, ligne 4, peut-être « tɔn »).",
+        "Le chant français n°69 de cantiques.json est structuré autrement (1 couplet de 12 lignes + 1 refrain de 10 lignes) : à reprendre quand les traductions seront intégrées."
+      ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 70,
+      "reference": "Han 70",
+      "chant_id": "anc-070",
+      "titre_francais": "L’Eglise est un jardin splendide",
+      "titre_fongbe": "Agun ɔ́ nyi jikpá ɖagbe ɖé",
       "refrain": [
-        "Ɖo Agun tɔn mɛ fi ɔ",
-        "Nu e ba wɛ e ɖe e é mɔ lo",
-        "Bɔ ɖo wanyiyi tɔn mɛ ɔ",
-        "Mi nɔ sɔ susu ni",
-        "Aleluya nu Klis(u) kpo Agun ɔ kpo"
+        "Xomɛ hunmi (ɖo) nɔtɛn ɖagbe élɔ́",
+        "Fɛnu Mawu tɔn sukpɔ ɖo fi",
+        "Nǔ ɖebǔ sɔ́ nyɔ hú ɖɔ",
+        "E ni ɖu atín sínsɛ́n gbɛ̀tɔn",
+        "Bo nu sin e nɔ na gbɛ̀ gbigbɔ mɛtɔn e (ǎ)."
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Agun ɔ́ nyi jikpá ɖagbe ɖé",
+            "Bɔ Mawu kplá mǐ wá ɖemɛ",
+            "Bónú mǐ ná do tunwun vitɔn Jezu Klís(u)",
+            "Gbɛ Aklunɔ tɔn gɔ́ fi",
+            "Ɖó nɔví lɛ́ɛ bǐ nyi ɖokpó",
+            "È ɖo gbesisɔ mɛ na fa kɔ nu mi!"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Agun ma nyi azɔmɛxwe",
+            "Abi sinsɛnxɔ (ɖé) ɖò sɛ́xwé",
+            "Loɔ, jikpá ɖé (wɛ) bɔ Mawu nɔ na gbɛ",
+            "Éwɛ́ zɔn é sɛ mi kplé",
+            "Nu mǐ na huzu gle tɔn",
+            "Nu é na nɔ lɛ̀ hwebinu kpo jló tɔn kpo."
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Atín kpɛví é nɔ na gbɛ e",
+            "Ðe ɖo jikpá ɔ tɛntín",
+            "Bo nɔ na sínsɛ́n nu mɛ bǐ ná mɔ ɖu",
+            "Bo ma syɛn ayixa towe ó",
+            "Loɔ, hun hwiɖée nu Aklunɔ",
+            "Nɔ ɖu Jezu hwebinu ɖo e vivi!"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Tɔ ɔ nɔ sà ɖò Agun ɔ mɛ",
+            "Mawu ɖ’alɔ miwu gbɔn Klísu ji",
+            "É nɔ́ fa kɔ nu mǐ (bo) nɔ kɔn mǐ do kpɔ",
+            "Jezu nɔ ɖò sisa wɛ",
+            "Ɖo sinsɛn ɖagbe lɛ tɛntin",
+            "(É) nɔ gɔ́ mǐ, (bo nɔ) hu sìn nu mǐ bɔ mǐ nɔ sù."
+          ]
+        },
+        {
+          "ordre": 5,
+          "lignes": [
+            "Enyi a mɔ nǔ e wútu",
+            "Aklúnɔ kpla we wa fí e ɔ́,",
+            "A ná nɔ kpa susu n'i hwebinu",
+            "Sisa ɖagbe ɖagbe lɛ",
+            "(Nɔ) hun xomɛ nú mɛ wiwe lɛ",
+            "Ðu bó nu nú Mawu ná mɔ nǔ e ba é ɖe é."
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han70.mp3"
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 73,
+      "reference": "Han 73",
+      "chant_id": "anc-073",
+      "titre_francais": "Oh, quelle joie nous sommes dans l’Eglise !",
+      "titre_fongbe": "Awajijɛ wɛ nyi bɔ mi ɖ’Agun mɛ",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Awajijɛ wɛ nyi bɔ mi ɖ’Agun mɛ",
+            "Nu ɖé ba wɛ mi ɖé mi mɔ loo",
+            "Gigo nu Mawu gbɛ tɔn kplé mi",
+            "Jésu-Klisu wɛ nyi gbɛ mi tɔn (vɔɖɔ)"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Ɖ’ayi ɔ mi ɖo fluflu wɛ",
+            "Bɔ mi ɖo nɔtɛn ɖé ba wɛ",
+            "Mi kó mɔ nɔtɛn enɛ ɔ din",
+            "Ɖo Agun ɖe mi jó lo ɔ mɛ (vɔɖɔ)"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "E kpla mi w’ayi enɛ ji",
+            "Bɔ mi bi mi ɖu Klisu gbɛ",
+            "Fi wɛ Mawu jólo na nɔ",
+            "Fi wɛ mi bi mɔ ɖyɔ ɖé (vɔɖɔ)"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Aléluya è ko sá mi",
+            "Bɔ mi sé Aklunɔ sín gbé",
+            "Gbigbɔ mitɔn mɛ ɔ Mawu ɖɔ",
+            "Agun cé wɛ nyɛ wɛ cyan ye (vɔɖɔ)"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han73.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": [
+        "« (vɔɖɔ) » est conservé tel quel dans le texte (indication du PDF).",
+        "Caractères du PDF convertis par déduction (à relire) : ἐ → ɛ ; ¨ → (supprimé)"
       ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 77,
+      "reference": "Han 77",
+      "chant_id": "anc-077",
+      "titre_francais": "Seigneur, Tu es devenu l’Esprit,",
+      "titre_fongbe": "Aklunɔ a huzu yɛ mimɛ",
+      "refrain": [
+        "Aklunɔ, ami, Aklunɔ ami aleluya",
+        "Aklunɔ, ami, Aklunɔ ami aleluya"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Aklunɔ a huzu yɛ mimɛ",
+            "Yɛ mimɛ e nɔ na gbɛ mi e",
+            "A ɖo gbɛ ɖo yɛ mitɔn mɛ",
+            "Mi ɖo vivi towe ɖu wɛ ma gbo kɔ"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han77.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": []
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 79,
+      "reference": "Han 79",
+      "chant_id": "anc-079",
+      "titre_francais": "Tourne- toi vers l’Esprit",
+      "titre_fongbe": "Lilɛ kpan nukɔn yɛ ɔ",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Lilɛ kpan nukɔn yɛ ɔ",
+            "Fi e yɛ Jezu tɔn nɔ nɔ e",
+            "Lilɛ kpan nukɔn yɛ ɔ",
+            "A na ji ɖuɖe ji han",
+            "Lilɛ kpan nukɔn yɛ ɔ",
+            "Fi ɖebu ɖe a tiin ɖe ɔ",
+            "Lilɛ kpan nukɔn ɛ",
+            "Lilɛ kpan nukɔn Jezu Klis(u)"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Lilɛ kpan nukɔn yɛ ɔ",
+            "Fi e yɛ Jezu tɔn nɔ nɔ e",
+            "Lilɛ kpan nukɔn yɛ ɔ",
+            "Finɛ wɛ a na mɔ gbɛ ɖe",
+            "Lilɛ kpan nukɔn yɛ ɔ",
+            "Enyɔ nu we kpo e ma nyɔ nu we kpo",
+            "Lilɛ kpan nukɔn ɛ",
+            "Lilɛ kpan nukɔn Jezu Klis(u)"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Lilɛ kpan nukɔn yɛ ɔ",
+            "Fi e yɛ Jezu tɔn nɔ nɔ e",
+            "Lilɛ kpan nukɔn yɛ ɔ",
+            "Suxo ylɔ Aklunɔ nyikɔ",
+            "Klisu nɔ ɖyɔ ӑ",
+            "Bɛ sin ka kaka sɔ yi",
+            "Lilɛ kpan nukɔn ɛ",
+            "Lilɛ kpan nukɔn Jezu Klis(u)"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han79.mp3"
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 81,
+      "reference": "Han 81",
+      "chant_id": "anc-081",
+      "titre_francais": "As-tu trouvé l’esprit humain ?",
+      "titre_fongbe": "A nɔ mɔ yɛ gbɛtɔ tɔn à?",
+      "refrain": [
+        "Nu e gosin Mawu gɔn ɔ nɔví,",
+        "Yɛ towe wɛ",
+        "Susu nú Mawu, é na gbɛ mi!",
+        "Nǔ e e ji gbɔn Yɛsinsɛn ji ɔ,",
+        "Yɛ towe wɛ!",
+        "Yɛ wè lɛ huzu ɖokpo!"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "A nɔ mɔ yɛ gbɛtɔ tɔn à?",
+            "É ca kan xa nu towe!",
+            "Aleluya, Aklúnɔ Jezu!",
+            "Mɔ wɛ a na nɔ sɔ alɔ ɛ gbɔn!"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Ma nɔ nɔ te kpɔn jlo towe o!",
+            "Kɛntɔ́ sin nuwiwa wɛ",
+            "Hùn hwiɖée, bo na ali Yɛ towe,",
+            "Nɔ suxo ylɔ nyikɔ tɔn."
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han81.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Refrain : le bloc de 6 lignes (« Nu e gosin Mawu gɔn ɔ nɔví… ») n'apparaît qu'après le couplet 1 ; il correspond au refrain français du n°81 (« Ce qui est né de Dieu, ô frère… »)."
+      ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 102,
+      "reference": "Han 102",
+      "chant_id": "anc-102",
+      "titre_francais": "Cher Jésus, doux Jésus,",
+      "titre_fongbe": "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
+            "A nɔ zawe húgan hwesivɔ!",
+            "Wanyinanɔ, Hwi ɖokpó",
+            "Wɛ jɛxa wanyiyi ce;",
+            "A nyi dɔkun xɔkwɛ́ hú siká!",
+            "Nyǐ towe nɔ ɖe wǎn ɖagbe",
+            "Wǎn ɖagbe ɖagbe ɖé,",
+            "Hwi wɛ un nɔ sɛn ɖo ayi ce mɛ.",
+            "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
+            "A nyi dɔkun xɔkwɛ́ hú siká!"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han102.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Pas de refrain : le chant français n°102 est un seul bloc de 12 lignes sans refrain, et la 1re ligne ainsi que la 5e se répètent à la fin, comme en fongbe."
+      ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 106,
+      "reference": "Han 106",
+      "chant_id": "anc-106",
+      "titre_francais": "Dieu envoya Jésus-Christ, Alléluia",
+      "titre_fongbe": "Mawu sɛ Jesu klisu do, Aleluya",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Mawu sɛ Jesu klisu do, Aleluya",
+            "Hwlɛn gan zɔ ɔ ko nyi wiwa susu nu Mawu",
+            "Mawu ɖesu huzu gɛtɔ",
+            "(Bonu) gbɔnji tɔn ɔ mi na nɔ gbɛ",
+            "Enɛ wutu un nɔ ylɔ ɛ",
+            "Bo nɔ ze gbɛ ce ni"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "E ka ɛ ɖὀ ta mǐtɔn mɛ, Aleluya",
+            "Mɛ ɖokpo ku nu (mɛ) gege, susu nu Mawu",
+            "Nukun ɖokpo yi kɔ glɔ",
+            "Bona na sinsɛn gege",
+            "Enɛ wutu un nɔ ylɔ ɛ",
+            "Bo nɔ ze gbɛ ce ni"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "E fɔn sin ku bo wa gbɛ, Aleluya",
+            "Aklunɔ ɖu ɖo ku ji, susu nu Mawu",
+            "Egbe din ɔ é ɖo gbɛ",
+            "Bo nɔ gɔ mǐ bǐ tunflá",
+            "Enɛ wutu un nɔ ylɔ ɛ",
+            "Bo nɔ ze gbɛ ce ni"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Suxo ylɔ ɛ sin ayixa towe mɛ, Kpo nuɖiɖi kpo",
+            "Nɔ ylɔ nyikɔ tɔn kpowun, E na gɔ hwɛ mɛ",
+            "Nu a ylɔ Jezu Klisu ɔ",
+            "É na dyɔ gbɛzan towe",
+            "Mǐ ɖo nɔ yɔlɔ ɛ",
+            "Bo na ze gbɛ mǐtɔn nǐ"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han106.mp3"
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 122,
+      "reference": "Han 122",
+      "chant_id": "anc-122",
+      "titre_francais": "Dans Son Eglise, nous vivons",
+      "titre_fongbe": "Ɖo Agun tɔn mɛ ɔ, mi nɔ zan gbɛ ɖokpo nyinyi nugbo ɔ",
+      "refrain": [
+        "Wanyiyi nɔvi tɔn (vɔɖɔ)",
+        "Ɖo sisa wɛ ɖo Agun lɛɛ mɛ (vɔɖɔ)",
+        "Wanyiyi nɔvi tɔn"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Ɖo Agun tɔn mɛ ɔ, mi nɔ zan gbɛ ɖokpo nyinyi nugbo ɔ",
+            "Mi nɔ ji han lɛɛ, bo nɔ ɖe kunnu, enɛ ɔ wɛ nyi nujɔnu",
+            "Ɖo agbaza mɛ ɔ mi nɔ mɔ vivi susu ɖaxo ɖe tɔn",
+            "Gbɛ e ɖo mi mɛ ɔ ɛɛn hwebinu ɔ nɔ jlo kɔnɖokpɔ"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Enyi mi ɖo kɔnɖokpɔ ganji ɔ, xomɛ nɔ hun mɛ bi",
+            "Mi mɛ bi nɔ jɛ awa ɖo yɛ ɔ gɔ mi tunfla",
+            "Nɔvi sunu kpo nyɔnu kpo bi ɖo nukɔn yi wɛ",
+            "Mi nɔ sɔ gbɛtɔ yɔyɔ ɔ do, Klisu nyi nubi nu mi"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Sisa wanyiyi tɔn nɔ sa sin aga, bo nɔ sa ɖo mɛ bi mɛ",
+            "Sisa e nɛ ɔ e ɖo mi mɛ ɔ nɔ ɖe gbɛ Mawu tɔn xlɛ",
+            "kɔnɖokpɔ ɖo weziza nu ɔ zɔn bɔ mi nyi ɖokpo",
+            "Mi nɔ su kpo nɔvi lɛɛ kpo ɖo Klisu mɛ hwebinu"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han122.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": [
+        "Couplet 3 : la ligne « kɔnɖokpɔ ɖo weziza… » commence par une minuscule ; je l'ai gardée telle quelle.",
+        "Caractères du PDF convertis par déduction (à relire) : ↄ → ɔ"
+      ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 132,
+      "reference": "Han 132",
+      "chant_id": "anc-132",
+      "titre_francais": "Nous sommes rassemblés en tant que Ton corps,",
+      "titre_fongbe": "Mi sɛ ta kple gɛgɛ ɖi agbaza towe",
+      "refrain": [
+        "(A)gbaza ɖokpo ɔ wɛ tǐn ɖo wɛkɛ ɔ mɛ",
+        "Mi nyi xlɛ tɔn ɖ’ayikungban ji",
+        "Toxo ɖokpo mɛ zogbɛn hɛntin ɔ nɔ ɖɔ",
+        "Nu mɛ bi sésé ɖɔ mi nyi ɖokpo"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Mi sɛ ta kple gɛgɛ ɖi agbaza towe",
+            "Mi sukpɔ co mi bi wɛ nyi ɖokpo",
+            "Mi nyi wujɔnu towe bo ma gbɛ towe",
+            "Gbɔn hwi ɖesu ji ɔ mi bi (wɛ) nyi ɖokpo"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Wɔxuxu ɖokpo wɛ nyi xlɛ agbaza towe tɔn",
+            "Enyi finfɛn bɔ mɛ mimɛ lɛ ɖu",
+            "Mi ɖo ɖiɖɔ wɛ gbɔn wɔxuxu ɔ gbla mɛ",
+            "Ɖɔ mi nyi ɖokpo kpo mɛ mimɛ lɛ kpo"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Klisu s’axɔ bo do xɔ mɛ mimɛ lɛ",
+            "Bo nu mi mɛ bi na blo agbaza tɔn",
+            "Wɔxu(xu) kpo vɛɛn kpo ɖe wuntun ɖokpo xlɛ mi",
+            "Bo xlɛ mi ɖɔ mi ɖo na nyi ɖokpo"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Ɖokponyinyi ɔ wɛ zɔn bɔ kɛntɔ j’ayi",
+            "Ɖokponyi(nyi) énɛ ɔ Klisu ɖokpo gée wɛ",
+            "Xlɛ susu nɔ kɔfu wɔxuxu ɖokpo",
+            "Ɖe ɖokponyinyi enɛ ɔ xlɛ gbɛ ɔ bi"
+          ]
+        },
+        {
+          "ordre": 5,
+          "lignes": [
+            "Susu tɛ ɖié yɛ ɔ nɔ ɖe kunnu nu mi",
+            "Ɖɔ hwi wɛ nyi Aklunɔ mitɔn",
+            "Ɖɔkpɔn tɛ ɖié ɖokponyinyi ɔ xɔ akwɛ",
+            "(A)su gigo nɔ (A)gun towe ɖo te kpɔn we"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han132.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": []
+    },
+    {
+      "numero": 133,
+      "langue": "fongbe",
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han133.mp3",
+      "refrain": "Mi wa mi ni ɖu nu, nu bi sɔgbe !",
+      "couplets": [
+        {
+          "numero": 1,
+          "texte": "Mi wá, è ko tɛ távo ɔ́ ;\nMɛ s xovɛ́ sin, bɔ kɔ xú lɛ e;\nƐɛn, mi wá mi ni ɖu nu.\n\nMawu, wɛ ɖo mi ylɔ́ wɛ;\nMɛ e jló ɔ́ bo wa !\nHwlɛngán zɔ́ ɔ́ ko nyi wiwa;\nMɛ e jló ɔ́ ní wa bo yí!"
+        },
+        {
+          "numero": 2,
+          "texte": "Wǎ, hɔn ɖo hunhun nú we;\nÈ sɔ́ tɛnmɛ ɖaxó ɖé ɖ'ayǐ nú we.\nÐò Gǎn mǐtɔn kpá."
+        },
+        {
+          "numero": 3,
+          "texte": "Wǎ din e hwenu kpo ɖo te é.\nAxɔsu ɔ́ ɖo te kpɔ́n we.\nÐó sɔ na ko lín!"
+        },
+        {
+          "numero": 4,
+          "texte": "Jó linkpɔn gbɛ élɔ tɔn lɛ́ɛ dó.\nMi wá, mi j'awǎ, bó ɖu nǔ xá axɔ́sú ɔ́;\nNu gbɛ mavɔmavɔ!"
+        }
+      ]
+    },
+    {
+      "numero": 112,
+      "langue": "fongbe",
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han112.mp3",
+      "refrain": null,
+      "couplets": [
+        {
+          "numero": 1,
+          "texte": "Susu nu Aklunɔ, hwi mɛ e fɔ́n sín kú é!\nSusu nu ɖuɖeji tɔ ɔ́ yi mavɔ mavɔ !\nWɛnsagun ɔ́ jɛ te, bó ɖo wěziza kɔ́n wɛ;\nÉ mlɔ́ awinnya e ɖò yɔdo e è ɖu ɖò jí é jí é síìn.\nHwi wɛ nyí susu, mɛ e fɔ́n sín kú é!\nƉuɖu ɔ́ ní nyí Hwi tɔn káká sɔ́yi!"
+        },
+        {
+          "numero": 2,
+          "texte": "Kpɔ́n É tɔ́n: É wɛ, Jezu wɛ,\nMɛhwlɛ́ngántɔ́ towe, Gǎn towe! O, ma sɔ́ ɖó linkpɔ́n ɖě ó!\nTogun Aklúnɔ tɔn mi, mi j'awǎ;\nBo nɔ jla magbokɔ ɖɔ: Klisu ɖuɖeji!"
+        },
+        {
+          "numero": 3,
+          "texte": "Un ɖo na kpo ɖo xɛsi ɖi wɛ a ? É ɖo gbɛ káká sɔ́yi;\nMɛ e un nɔ sɛn ɔ́, Fífá sín gǎn wɛ.\nÉ wɛ nyí ɖuɖeji ce, é wɛ nyí alɔdó ce ɖaxó ɔ́;\nGbɛ ce kpódó susu ce kpó: éo, un nɔ ɖi xɛsi nú nǔɖé ǎ."
+        }
+      ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 143,
+      "reference": "Han 143",
+      "chant_id": "anc-143",
+      "titre_francais": "Et la Parole a été faite chair,",
+      "titre_fongbe": "E sɔ Mawuxo ɔ do huzu gbɛtɔ",
+      "refrain": [
+        "Aklunɔ ɖo gbɛ ɖo mimɛ",
+        "A ɖo susu wɛ ɖo mimɛ",
+        "A nɔ huzu mi do alɔ towe ji",
+        "Gba Agun ɔ ɖo ayikungban ji"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "E sɔ Mawuxo ɔ do huzu gbɛtɔ",
+            "Bɔ e wa bo wa nɔ mi mɛ",
+            "E gɔ kpo fɛnu kpodo nugbo kpo",
+            "Nɔvi lɛɛ bi mɔ susu tɔn"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han143.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": []
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 154,
+      "reference": "Han 154",
+      "chant_id": "anc-154",
+      "titre_francais": "Je suis un homme, La raison, le sens de l’univers.",
+      "titre_fongbe": "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi",
+            "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi",
+            "Mawu blo mi, nu ma ɖe e xlɛ",
+            "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Klísu ɖo gbɛ ɖo nyɛ mɛ, É wɛ nyí tɔn nu gbɛ ce",
+            "Klísu ɖo gbɛ ɖo nyɛ mɛ, É wɛ nyí tɔn nu gbɛ ce",
+            "Ɖò Yɛ ce mɛ ɔ, é nɔ gɔ́ mì;",
+            "É wɛ nyí tɔn, bo nyi nu e wutu un ɖo gbɛ e"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Agun ɔ Klisu wɛ, bo nɔ ɖe e xlɛ ɖo ayikungbanji",
+            "Agun ɔ Klisu wɛ, bo nɔ ɖe e xlɛ ɖo ayikungbanji",
+            "Bonu jlo tɔn, na nyi wiwa ɔ",
+            "Mawu ze acɛ jo nu gbɛtɔ́ ɖò ayikúngban jí"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Ɛɛn, ɖò Agun ɔ mɛ ɔ, nɔvi lɛ nɔ sɛkplé hwebinu",
+            "Ɛɛn, ɖò Agun ɔ mɛ ɔ, nɔvi lɛ nɔ sɛkplé hwebinu",
+            "Nǔɖuɖu kpó nunu kpó mɛ ɔ,",
+            "Mǐ nɔ ɖó susu wɛ gɛgɛ ɖi agun toxo lɛ́ɛ tɔn"
+          ]
+        },
+        {
+          "ordre": 5,
+          "lignes": [
+            "Nɛ mi na blo (gbɔn)? Mǐ na jla xo tɔn gbɔn gbɛ̀ ɔ bǐ mɛ",
+            "Nɛ mi na blo (gbɔn)? Mǐ na jla xo tɔn gbɔn gbɛ̀ ɔ bǐ mɛ",
+            "Mi (ni) suxo ylɔ ɛ, mi (ni) jla nyi tɔn",
+            "Wɛn ɖagbe élɔ́ ɖo na gba kpé gbɔn gbɛ ɔ́ bǐ mɛ."
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han154.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Pas de refrain : le chant français n°154 n'en a pas non plus ; les deux premières lignes de chaque couplet se répètent, comme en français.",
+        "La lettre « Ð » (eth) de « Ðò Yɛ ce mɛ ɔ » (couplet 2) est convertie en « Ɖ »."
+      ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 157,
+      "reference": "Han 157",
+      "chant_id": "anc-157",
+      "titre_francais": "Oui, nous sommes tous sortis",
+      "titre_fongbe": "Ɛɛn, é ɖe mǐ mɛ bi sín",
+      "refrain": [
+        "Aleluya, aleluya!",
+        "Mǐ mɛ bǐ sɔ́ gbetakɛn",
+        "Bo na gbá nɔtɛn tɔn",
+        "Aleluya, aleluya!",
+        "Ɛɛn, mǐ ɖo gbɛ égbé din ɖo Agun lɛ́ɛ mɛ."
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Ɛɛn, é ɖe mǐ mɛ bi sín",
+            "Ayihihɔn élɔ ɔ mɛ",
+            "Bo kpla mǐ xwe nɔtɛn ɖe,",
+            "Ó Susu nú Mawu!",
+            "Ðò fi ɔ, mǐ nyi ɖokpo,",
+            "Bó ɖo gbɛ̀ ɖò Yɛ ɔ mɛ.",
+            "Aklunɔ nyí gbɛ mǐtɔn",
+            "Égbé din, ɖò Agun lɛ mɛ."
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Mɛ (mɛ) lɛɛ ba wɛ Aklunɔ ɖe,",
+            "Bo na dó wa jlo tɔn,",
+            "Vɔsanúxwlémawutɔ́ lɛ!",
+            "O Susu nú Mawu!",
+            "Mɛ e ɖo gbɛ ɖo Jezu mɛ;",
+            "Bo gɔ́ kpo Yɛ tɔn kpo lɛ e,",
+            "Mɛ énɛ́ lɛ́ɛ wɛ é nɔ zan",
+            "Égbé din, ɖò Agun lɛ mɛ"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Acɛkpikpa Mawu tɔn.",
+            "Lɛkɔ wa Agun tɔn mɛ",
+            "Mi mɔ axɔ́ súɖuɖu tɔn,",
+            "O Susu nú Mawu!",
+            "Nu mǐ se tonu nu Yɛ ɔ",
+            "Agun ɔ nɔ nyi gbigba",
+            "Bɔ gbɛ tɔn nɔ ɖo susu wɛ",
+            "Égbé din, ɖò Agun lɛ mɛ"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Un ɖo na sɔ nyɛɖée jo",
+            "Ɖi vɔ̌ sánú gbɛɖe ɖɔhun",
+            "Bɔ Mawu na huzu mi",
+            "O Susu nú Mawu!",
+            "Aklunɔ ko kpé xa mǐ",
+            "Bo sɔ mǐ jo nu Agun tɔn",
+            "Susu tɛ ɖye, yɛyi tɛ dye",
+            "Bɔ mǐ huzu Agun ɔ tɔn"
+          ]
+        },
+        {
+          "ordre": 5,
+          "lignes": [
+            "Mawu vɔ nu lɛ jlaɖo",
+            "Bo jɛ kpɔ xa gbɛtɔ́",
+            "Bo ɖo nɔtɛn tɔn gba wɛ",
+            "O Susu nú Mawu!",
+            "Mi ji han bo kpa Aklunɔ",
+            "Agun tɔn na nyi gbigba!",
+            "Mi ko ɖu ɖo Kɛntɔ́ ji",
+            "Égbé din, ɖò Agun lɛ mɛ"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han157.mp3"
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 504,
+      "reference": "Han 504",
+      "chant_id": "anc-504",
+      "titre_francais": "J’ai erré loin, oui, loin de Dieu,",
+      "titre_fongbe": "Un flu, bo sɛ yi zɔ nu we",
+      "refrain": [
+        "Un lɛkɔ wa, un lɛkɔ wa",
+        "Un lɛkɔ wa bi xwǐ",
+        "Hun wanyiyi wa towe lɛɛ nu mi",
+        "(A)klunɔ un lɛkɔ wa"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Un flu, bo sɛ yi zɔ nu we",
+            "Din ɔ un lɛkɔ wa",
+            "Hwɛ mɛ jijɛ ɖo fi bi",
+            "(A)klunɔ, un lɛkɔ wa"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Un gu hwenu, gege ɖo gbe",
+            "Din ɔ un lɛkɔ wa",
+            "Un jɛ aluwɛ mɛ, bo gbɔ bo ɖyɔ",
+            "(A)klunɔ un lɛkɔ wa"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Hwɛhuhu kpo zɔ sɛyi nu we kpo cikɔ",
+            "Din ɔ un lɛkɔ wa",
+            "Hwi kpo xó towé kpo, wɛ un ɖì nu na",
+            "(A)klunɔ un lɛkɔ wa"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Un ba gan kpo, bɔ ayi ce gbado",
+            "Din ɔ un lɛkɔ wa",
+            "Na mi nukunɖiɖo, kpo hlɔnhlɔn kpo",
+            "(A)klunɔ un lɛkɔ wa"
+          ]
+        },
+        {
+          "ordre": 5,
+          "lignes": [
+            "Nukunɖiɖo ce, ’wajijɛ ce",
+            "Din ɔ un lɛkɔ wa",
+            "Jezu hwi wɛ kú, do ta ce mɛ",
+            "(A)klunɔ un lɛkɔ wa"
+          ]
+        },
+        {
+          "ordre": 6,
+          "lignes": [
+            "Un tunwun ɖɔ un ɖó, hudó hun ɔ tɔn",
+            "Din ɔ un lɛkɔ wa",
+            "Ɖi lawe ɖɔhun ɔ, é nɔ lɛ mi we",
+            "(A)klunɔ un lɛkɔ wa"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han504.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": [
+        "Caractères du PDF convertis par déduction (à relire) : ὶ → ì"
+      ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 566,
+      "reference": "Han 566",
+      "chant_id": "anc-566",
+      "titre_francais": "Le Seigneur de gloire paraîtra,",
+      "titre_fongbe": "Aklunɔ susunɔ ɔ na wa bo na jɛte sín jixwe",
+      "refrain": [
+        "Aklunɔ na wá ɖo susu mɛ",
+        "Mi (ni) ɖó mima ɖo ɖuɖeji ɔ mɛ",
+        "Aklunɔ na wá ɖo susu mɛ",
+        "Aleluya é na ɖyɔ mi bi xwǐ"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Aklunɔ susunɔ ɔ na wa bo na jɛte sín jixwe",
+            "mɛ e d’amlɔ ɖo nuɖiɖi mɛ lɛ na fɔn",
+            "Aklunɔ susunɔ ɔ na wa bo na sɔ mɛ e ɖo gbɛ lɛɛ",
+            "bɔ ɖo kɔndokpɔ mɛ ɔ mi bi xwǐ na ɖyɔ"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Aklunɔ susunɔ ɔ na wá, mi ɖo te kpɔn azan enɛ ɔ",
+            "E na sunsun ɖasin lɛɛ kpo avi lɛɛ kpo",
+            "Aklunɔ susunɔ ɔ na wa bo na ɖu axɔsu",
+            "E na su kun do nu kú kpo wuvɛ lɛɛ kpo"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Aklunɔ, sunvi zanzan tɔn na slɔ zaanɖe din",
+            "Mi (ni) nɔ wunzɛn bo na mɔ ajɔ ɔ yi",
+            "Weziza hwɛjijɔnɔ na zawe gbɔn gbɛ ɔ bi mɛ",
+            "(Bɔ) gbɔn eyɛ mɛ (ɔ) Ayikungban na nyi vivɔjɔ"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Aklunɔ susunɔ ɔ na wa, mi bi ni nɔ acéji",
+            "Mi (ni) nɔ wunzɛn bo hɛn zogbɛn (lɛɛ) ɖo tita",
+            "Mi (ni) nɔ gbeji bo ma ɖi gankwɛ e ɖo asi nu mi lɛɛ o",
+            "Mi ni wa azɔ ɖee e zɔn mi lɛɛ"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han566.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": [
+        "Plusieurs lignes commencent par une minuscule dans le PDF ; je les ai gardées telles quelles (strophes de 4 lignes)."
+      ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 573,
+      "reference": "Han 573",
+      "chant_id": "anc-573",
+      "titre_francais": "La joie me remplit,",
+      "titre_fongbe": "Vǐvǐ gɔ́ ayi ce mɛ",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Vǐvǐ gɔ́ ayi ce mɛ",
+            "Ðó Mawu Hwlɛn mi gan",
+            "Vǐvǐ gɔ́ ayi ce mɛ",
+            "Mawu sɔ ayi ce",
+            "Huzu ayi ɖagbe",
+            "Bɔ nyɛ ɖo kpikp’ɛ kpódó ayi yɔyɔ̌ kpó",
+            "Vǐvǐ gɔ́ ayi ce",
+            "Ðó Mawu Hwlɛn mi gan"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Yɛsinsɛn nɔ na gbɛ",
+            "Fífa kpó hlɔnhlɔn kpó",
+            "Yɛsinsɛn nɔ hwlɛn mi",
+            "É tun kan nu mi sin ylando (ce) lɛ si",
+            "Bɔ sinsɛn ɖagbe lɛ ɖo wexo jɛ wɛ",
+            "Yɛsinsɛn nɔ na gbɛ",
+            "Fífa kpó hlɔnhlɔn kpó"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han573.mp3"
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 606,
+      "reference": "Han 606",
+      "chant_id": "anc-606",
+      "titre_francais": "O Jésus, je m’abandonne,",
+      "titre_fongbe": "O Jezu, un jo nyiɖée do,",
+      "refrain": [
+        "Un jo nu bi do",
+        "Un jo nu bi do",
+        "Nu hwlɛngantɔ́ ce Wanyinanɔ,",
+        "Un jo nu bi do"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "O Jezu, un jo nyiɖée do,",
+            "un ze gbɛ ce bi nú we.",
+            "Un yí wǎn nú we,un ba na sɛn we,",
+            "Un jlo na gan jɛ wu we"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "O Jezu, un jó nyiɖée dó",
+            "un ɖe kɔ ɖo nukɔn towe",
+            "Un jó ayihɔn ɔ kpó jlo tɔn (lɛ) kpo do",
+            "Bó ze nyiɖée bǐ nu we!"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "O Jezu, un jó nyiɖée dó",
+            "Towe wɛ un nyi hwe bi nu",
+            "Yɛsinsɛn nɔ ɖe kúnnu ɖɔ",
+            "A ɖu axɔ́ sú ɖo nyɛ mɛ."
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "O Jezu, un jó nyiɖée dó,",
+            "Yì gbɛzan ce, jlo ce nɛ.",
+            "Wǎn yíyí kpó hlɔ̌ nhlɔ́ n kpó ni gɔ mi",
+            "Do nu mi Aklunɔ ce!"
+          ]
+        },
+        {
+          "ordre": 5,
+          "lignes": [
+            "O Jezu, un jó nyiɖée dó,",
+            "Myɔ towe ni ji ɖo nyɛ mɛ",
+            "Hwlɛngán (towe) kpikpe ɔ́ na nu bi mì,",
+            "Susu nú we Alleluya!"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han606.mp3"
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 615,
+      "reference": "Han 615",
+      "chant_id": "anc-615",
+      "titre_francais": "Comme une terre altérée",
+      "titre_fongbe": "Ɖi lee ayikungban e xu ɔ",
+      "refrain": [
+        "Sin fifa ééé,",
+        "Ja kɔn nyi mi bi ji",
+        "Oo sin lɔn mɛ tɔn lɛɛ e mi,",
+        "Mi wa fa kɔ nu mi"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Ɖi lee ayikungban e xu ɔ",
+            "Nɔ ɖo sin ji tɔ ba wɛ ɔ,",
+            "Mi ɖo sin fɛnu ɔ tɔn ylɔ wɛ",
+            "Fɛnu tɔn Emanuwɛ(lu)"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Jɛte, o ji ɖàxo",
+            "Ja hoho do ayi mitɔn mɛ",
+            "Na mɛ e ɖo sin ba wɛ lɛ é",
+            "Fifa yɔyɔ ɖevo"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Ma jo nu xuxu ɖe do",
+            "Ni ma gɔn sinsɛn na o",
+            "Ayixa e xú ganji ɔ",
+            "ɖo na mɔ sin fifa yi"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Ɛn gbetotlo lɛ ni zɔn ama",
+            "Ɖo sin towe ɖagbe lɛ nu",
+            "Bonu fie xu lɛ ni zɔn kpɛɛn",
+            "Bo na sinsɛn yɔyɔ"
+          ]
+        },
+        {
+          "ordre": 5,
+          "lignes": [
+            "Wá; ô ji ɖagbewatɔ",
+            "Yɛ fɛnu kpo fifa kpo (tɔn)",
+            "Kɔn gbɛ e mɔ nɔ xu gbeɖee",
+            "Do mi bi xwǐ mɛɛɛ"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han615.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": [
+        "Caractères du PDF convertis par déduction (à relire) : ԑ → ɛ"
+      ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 625,
+      "reference": "Han 625",
+      "chant_id": "mix-cn-029",
+      "titre_francais": "Miséricorde insondable",
+      "titre_fongbe": "Xomɛ nyinyɔ ma ɖobdogo!",
+      "refrain": [
+        "Jezu, un wá, un wá gɔ̌n towe!",
+        "Lě e un ɖe wɛ un zɔn, un wá gɔ̌n towe!",
+        "Jezu, un wá, un wá gɔ̌n towe!",
+        "Lě e un ɖe wɛ un zɔn, yí mì."
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Xomɛ nyinyɔ ma ɖobdogo!",
+            "Mawu nɔ sɔ́ nǔ bǐ kɛ mɛ a?",
+            "Hwɛhutɔ́ ɖaxó nyɛ ɖɔhun",
+            "Mawu na wɔn hwɛ ce lɛ a?"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Hwenu gěgé nu ɔ, un nɔ nɔ zɔ nii,",
+            "Bɔ é ko sin xomɛ domi",
+            "Un syɛn sú ayixa ce dó fɛ́nú tɔn,",
+            "Bó do winya ɛ ɖo mɛ bǐ mɛ."
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "O Jezu, un jó nu bi nu we",
+            "Kɛnklɛn zlɔn agban ce lɛ mi",
+            "Ylando é nɔ ɖu ɖo ji ce lɛɛ e;",
+            "Jezu ɖeɖɛ gbɛzan ce."
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Aleluya! xokpɔ́n ko vɔ",
+            "Jezu zlɔn agban ce lɛ mi",
+            "Un ɖo ali jí bo xwe sɛ́xwé,",
+            "Bo na (nɔ) jɛ awǎ hwebinu."
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han625.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Lien à confirmer : le n°625 de LES CANTIQUES ANCIENS est « Trois fois Saint le Seigneur… » (autre chant). Le texte fongbe correspond à « Miséricorde insondable » (CHANTS MIXTES CN. 29, aussi GLOIRE A DIEU n°253).",
+        "Refrain : le bloc de 4 lignes « Jezu, un wá… » n'apparaît qu'après le couplet 1 ; il correspond au refrain français (« Jésus, je viens ! Je viens à toi ! »).",
+        "Faute de frappe possible, gardée telle que saisie : « nii » (couplet 2, ligne 1)."
+      ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 789,
+      "reference": "Han 789",
+      "chant_id": "anc-585",
+      "titre_francais": "Quel ami fidèle et tendre",
+      "titre_fongbe": "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
+            "Bɔ mi ɖo ɖo Jezu mɛ",
+            "Hwebinu ɔ é ɖo gbesìsɔ mɛ",
+            "Bo na se ɖɛ gbe mitɔn",
+            "E ka tunwun ayijijɛ mitɔn",
+            "Ahwan funfun hwebinu",
+            "Eɖo gbeji ɖo xo tɔn lɛ́ mɛ",
+            "Bo gɔ kpo wanyiyi kpo"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
+            "Bɔ mi ɖo ɖo Jezu mɛ",
+            "E sɔ gbe na hwlɛn mi gan",
+            "Ɖo linkpɔn mitɔn lɛ mɛ",
+            "Mi ɖɔ linkpɔn mitɔn lɛ n’i",
+            "Bó hun ayixa mitɔn n’i",
+            "Xo tɔn mimɛ lɛ na na mi",
+            "Nyɔna nujɔnu lɛ mi"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
+            "Bɔ mi ɖo ɖo Jezu mɛ",
+            "E ɖo kplɔn kplɔn mi wɛ ɖɔ ji",
+            "Mi ni gan jɛ émi wu",
+            "E mɔ mi ɖo gbeji bɔ mi ɖo",
+            "Gbɛ tɔn mimɛ ba wɛ ɔ",
+            "E nɔ ɖotó ɖɛ mi tɔn lɛ",
+            "Bo nɔ tun kan nu mi bi"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han789.mp3",
+      "source": "Anciennes_traduc.pdf",
+      "a_verifier": [
+        "Numéro « 789 » tel qu'écrit dans le PDF. Le chant français correspondant (Quel ami fidèle et tendre) est le n°585 des CANTIQUES ANCIENS, d'après le texte : à confirmer.",
+        "Caractères du PDF convertis par déduction (à relire) : ὶ → ì"
+      ]
+    },
+    {
+      "livre": "FƆNGBE HAN",
+      "han": 551,
+      "reference": "Han 551",
+      "chant_id": "anc-551",
+      "titre_francais": "Va prêche l’Evangile,",
+      "titre_fongbe": "Yi jla Wɛnɖagbe",
+      "refrain": [
+        "Yi jla Wɛnɖagbe,",
+        "Hwlɛn alindɔ̌n lɛ gán!",
+        "Étɛ wutu a na nɔ do vɛ na?"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Yi jla Wɛnɖagbe,",
+            "Hwlɛn alindɔ̌n lɛ gán!",
+            "Kpɔ́n, gbeɖokó ɔ́,",
+            "Mɛ nabi é nɔ́ kú e",
+            "Ma syɛn ayixa towe ó;",
+            "wɔn dɔkun towe lɛ́ɛ;",
+            "Ɖo hwe bi nu ɔ ɖɔ Mawuxo ɔ ɖo fi bǐ."
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han551.mp3",
+      "source": "saisie manuelle"
     }
-  ],
-  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han69.mp3",
-  "source": "saisie manuelle",
-  "a_verifier": [
-    "Refrains propres à chaque couplet (les deux blocs de 5 lignes sont légèrement différents, comme en français) : ils sont rangés dans le champ « refrain » de chaque couplet, et le refrain commun est null.",
-    "Faute de frappe possible, gardée telle que saisie : « ton » (couplet 2, ligne 4, peut-être « tɔn »).",
-    "Le chant français n°69 de cantiques.json est structuré autrement (1 couplet de 12 lignes + 1 refrain de 10 lignes) : à reprendre quand les traductions seront intégrées."
   ]
-},
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 70,
-   "reference": "Han 70",
-   "chant_id": "anc-070",
-   "titre_francais": "L’Eglise est un jardin splendide",
-   "titre_fongbe": "Agun ɔ́ nyi jikpá ɖagbe ɖé",
-   "refrain": [
-    "Xomɛ hunmi (ɖo) nɔtɛn ɖagbe élɔ́",
-    "Fɛnu Mawu tɔn sukpɔ ɖo fi",
-    "Nǔ ɖebǔ sɔ́ nyɔ hú ɖɔ",
-    "E ni ɖu atín sínsɛ́n gbɛ̀tɔn",
-    "Bo nu sin e nɔ na gbɛ̀ gbigbɔ mɛtɔn e (ǎ)."
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Agun ɔ́ nyi jikpá ɖagbe ɖé",
-      "Bɔ Mawu kplá mǐ wá ɖemɛ",
-      "Bónú mǐ ná do tunwun vitɔn Jezu Klís(u)",
-      "Gbɛ Aklunɔ tɔn gɔ́ fi",
-      "Ɖó nɔví lɛ́ɛ bǐ nyi ɖokpó",
-      "È ɖo gbesisɔ mɛ na fa kɔ nu mi!"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Agun ma nyi azɔmɛxwe",
-      "Abi sinsɛnxɔ (ɖé) ɖò sɛ́xwé",
-      "Loɔ, jikpá ɖé (wɛ) bɔ Mawu nɔ na gbɛ",
-      "Éwɛ́ zɔn é sɛ mi kplé",
-      "Nu mǐ na huzu gle tɔn",
-      "Nu é na nɔ lɛ̀ hwebinu kpo jló tɔn kpo."
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Atín kpɛví é nɔ na gbɛ e",
-      "Ðe ɖo jikpá ɔ tɛntín",
-      "Bo nɔ na sínsɛ́n nu mɛ bǐ ná mɔ ɖu",
-      "Bo ma syɛn ayixa towe ó",
-      "Loɔ, hun hwiɖée nu Aklunɔ",
-      "Nɔ ɖu Jezu hwebinu ɖo e vivi!"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Tɔ ɔ nɔ sà ɖò Agun ɔ mɛ",
-      "Mawu ɖ’alɔ miwu gbɔn Klísu ji",
-      "É nɔ́ fa kɔ nu mǐ (bo) nɔ kɔn mǐ do kpɔ",
-      "Jezu nɔ ɖò sisa wɛ",
-      "Ɖo sinsɛn ɖagbe lɛ tɛntin",
-      "(É) nɔ gɔ́ mǐ, (bo nɔ) hu sìn nu mǐ bɔ mǐ nɔ sù."
-     ]
-    },
-    {
-     "ordre": 5,
-     "lignes": [
-      "Enyi a mɔ nǔ e wútu",
-      "Aklúnɔ kpla we wa fí e ɔ́,",
-      "A ná nɔ kpa susu n'i hwebinu",
-      "Sisa ɖagbe ɖagbe lɛ",
-      "(Nɔ) hun xomɛ nú mɛ wiwe lɛ",
-      "Ðu bó nu nú Mawu ná mɔ nǔ e ba é ɖe é."
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han70.mp3"
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 73,
-   "reference": "Han 73",
-   "chant_id": "anc-073",
-   "titre_francais": "Oh, quelle joie nous sommes dans l’Eglise !",
-   "titre_fongbe": "Awajijɛ wɛ nyi bɔ mi ɖ’Agun mɛ",
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Awajijɛ wɛ nyi bɔ mi ɖ’Agun mɛ",
-      "Nu ɖé ba wɛ mi ɖé mi mɔ loo",
-      "Gigo nu Mawu gbɛ tɔn kplé mi",
-      "Jésu-Klisu wɛ nyi gbɛ mi tɔn (vɔɖɔ)"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Ɖ’ayi ɔ mi ɖo fluflu wɛ",
-      "Bɔ mi ɖo nɔtɛn ɖé ba wɛ",
-      "Mi kó mɔ nɔtɛn enɛ ɔ din",
-      "Ɖo Agun ɖe mi jó lo ɔ mɛ (vɔɖɔ)"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "E kpla mi w’ayi enɛ ji",
-      "Bɔ mi bi mi ɖu Klisu gbɛ",
-      "Fi wɛ Mawu jólo na nɔ",
-      "Fi wɛ mi bi mɔ ɖyɔ ɖé (vɔɖɔ)"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Aléluya è ko sá mi",
-      "Bɔ mi sé Aklunɔ sín gbé",
-      "Gbigbɔ mitɔn mɛ ɔ Mawu ɖɔ",
-      "Agun cé wɛ nyɛ wɛ cyan ye (vɔɖɔ)"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han73.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": [
-    "« (vɔɖɔ) » est conservé tel quel dans le texte (indication du PDF).",
-    "Caractères du PDF convertis par déduction (à relire) : ἐ → ɛ ; ¨ → (supprimé)"
-   ]
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 77,
-   "reference": "Han 77",
-   "chant_id": "anc-077",
-   "titre_francais": "Seigneur, Tu es devenu l’Esprit,",
-   "titre_fongbe": "Aklunɔ a huzu yɛ mimɛ",
-   "refrain": [
-    "Aklunɔ, ami, Aklunɔ ami aleluya",
-    "Aklunɔ, ami, Aklunɔ ami aleluya"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Aklunɔ a huzu yɛ mimɛ",
-      "Yɛ mimɛ e nɔ na gbɛ mi e",
-      "A ɖo gbɛ ɖo yɛ mitɔn mɛ",
-      "Mi ɖo vivi towe ɖu wɛ ma gbo kɔ"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han77.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": []
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 79,
-   "reference": "Han 79",
-   "chant_id": "anc-079",
-   "titre_francais": "Tourne- toi vers l’Esprit",
-   "titre_fongbe": "Lilɛ kpan nukɔn yɛ ɔ",
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Lilɛ kpan nukɔn yɛ ɔ",
-      "Fi e yɛ Jezu tɔn nɔ nɔ e",
-      "Lilɛ kpan nukɔn yɛ ɔ",
-      "A na ji ɖuɖe ji han",
-      "Lilɛ kpan nukɔn yɛ ɔ",
-      "Fi ɖebu ɖe a tiin ɖe ɔ",
-      "Lilɛ kpan nukɔn ɛ",
-      "Lilɛ kpan nukɔn Jezu Klis(u)"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Lilɛ kpan nukɔn yɛ ɔ",
-      "Fi e yɛ Jezu tɔn nɔ nɔ e",
-      "Lilɛ kpan nukɔn yɛ ɔ",
-      "Finɛ wɛ a na mɔ gbɛ ɖe",
-      "Lilɛ kpan nukɔn yɛ ɔ",
-      "Enyɔ nu we kpo e ma nyɔ nu we kpo",
-      "Lilɛ kpan nukɔn ɛ",
-      "Lilɛ kpan nukɔn Jezu Klis(u)"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Lilɛ kpan nukɔn yɛ ɔ",
-      "Fi e yɛ Jezu tɔn nɔ nɔ e",
-      "Lilɛ kpan nukɔn yɛ ɔ",
-      "Suxo ylɔ Aklunɔ nyikɔ",
-      "Klisu nɔ ɖyɔ ӑ",
-      "Bɛ sin ka kaka sɔ yi",
-      "Lilɛ kpan nukɔn ɛ",
-      "Lilɛ kpan nukɔn Jezu Klis(u)"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han79.mp3"
-  },
-  {
-  "livre": "FƆNGBE HAN",
-  "han": 81,
-  "reference": "Han 81",
-  "chant_id": "anc-081",
-  "titre_francais": "As-tu trouvé l’esprit humain ?",
-  "titre_fongbe": "A nɔ mɔ yɛ gbɛtɔ tɔn à?",
-  "refrain": [
-    "Nu e gosin Mawu gɔn ɔ nɔví,",
-    "Yɛ towe wɛ",
-    "Susu nú Mawu, é na gbɛ mi!",
-    "Nǔ e e ji gbɔn Yɛsinsɛn ji ɔ,",
-    "Yɛ towe wɛ!",
-    "Yɛ wè lɛ huzu ɖokpo!"
-  ],
-  "couplets": [
-    {
-      "ordre": 1,
-      "lignes": [
-        "A nɔ mɔ yɛ gbɛtɔ tɔn à?",
-        "É ca kan xa nu towe!",
-        "Aleluya, Aklúnɔ Jezu!",
-        "Mɔ wɛ a na nɔ sɔ alɔ ɛ gbɔn!"
-      ]
-    },
-    {
-      "ordre": 2,
-      "lignes": [
-        "Ma nɔ nɔ te kpɔn jlo towe o!",
-        "Kɛntɔ́ sin nuwiwa wɛ",
-        "Hùn hwiɖée, bo na ali Yɛ towe,",
-        "Nɔ suxo ylɔ nyikɔ tɔn."
-      ]
-    }
-  ],
-  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han81.mp3",
-  "source": "saisie manuelle",
-  "a_verifier": [
-    "Refrain : le bloc de 6 lignes (« Nu e gosin Mawu gɔn ɔ nɔví… ») n'apparaît qu'après le couplet 1 ; il correspond au refrain français du n°81 (« Ce qui est né de Dieu, ô frère… »)."
-  ]
-},{
-  "livre": "FƆNGBE HAN",
-  "han": 102,
-  "reference": "Han 102",
-  "chant_id": "anc-102",
-  "titre_francais": "Cher Jésus, doux Jésus,",
-  "titre_fongbe": "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
-  "refrain": null,
-  "couplets": [
-    {
-      "ordre": 1,
-      "lignes": [
-        "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
-        "A nɔ zawe húgan hwesivɔ!",
-        "Wanyinanɔ, Hwi ɖokpó",
-        "Wɛ jɛxa wanyiyi ce;",
-        "A nyi dɔkun xɔkwɛ́ hú siká!",
-        "Nyǐ towe nɔ ɖe wǎn ɖagbe",
-        "Wǎn ɖagbe ɖagbe ɖé,",
-        "Hwi wɛ un nɔ sɛn ɖo ayi ce mɛ.",
-        "O Jezu, Aklunɔ, nu xɔ akwɛ wɛ nu we",
-        "A nyi dɔkun xɔkwɛ́ hú siká!"
-      ]
-    }
-  ],
-  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han102.mp3",
-  "source": "saisie manuelle",
-  "a_verifier": [
-    "Pas de refrain : le chant français n°102 est un seul bloc de 12 lignes sans refrain, et la 1re ligne ainsi que la 5e se répètent à la fin, comme en fongbe."
-  ]
-},
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 106,
-   "reference": "Han 106",
-   "chant_id": "anc-106",
-   "titre_francais": "Dieu envoya Jésus-Christ, Alléluia",
-   "titre_fongbe": "Mawu sɛ Jesu klisu do, Aleluya",
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Mawu sɛ Jesu klisu do, Aleluya",
-      "Hwlɛn gan zɔ ɔ ko nyi wiwa susu nu Mawu",
-      "Mawu ɖesu huzu gɛtɔ",
-      "(Bonu) gbɔnji tɔn ɔ mi na nɔ gbɛ",
-      "Enɛ wutu un nɔ ylɔ ɛ",
-      "Bo nɔ ze gbɛ ce ni"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "E ka ɛ ɖὀ ta mǐtɔn mɛ, Aleluya",
-      "Mɛ ɖokpo ku nu (mɛ) gege, susu nu Mawu",
-      "Nukun ɖokpo yi kɔ glɔ",
-      "Bona na sinsɛn gege",
-      "Enɛ wutu un nɔ ylɔ ɛ",
-      "Bo nɔ ze gbɛ ce ni"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "E fɔn sin ku bo wa gbɛ, Aleluya",
-      "Aklunɔ ɖu ɖo ku ji, susu nu Mawu",
-      "Egbe din ɔ é ɖo gbɛ",
-      "Bo nɔ gɔ mǐ bǐ tunflá",
-      "Enɛ wutu un nɔ ylɔ ɛ",
-      "Bo nɔ ze gbɛ ce ni"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Suxo ylɔ ɛ sin ayixa towe mɛ, Kpo nuɖiɖi kpo",
-      "Nɔ ylɔ nyikɔ tɔn kpowun, E na gɔ hwɛ mɛ",
-      "Nu a ylɔ Jezu Klisu ɔ",
-      "É na dyɔ gbɛzan towe",
-      "Mǐ ɖo nɔ yɔlɔ ɛ",
-      "Bo na ze gbɛ mǐtɔn nǐ"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han106.mp3"
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 122,
-   "reference": "Han 122",
-   "chant_id": "anc-122",
-   "titre_francais": "Dans Son Eglise, nous vivons",
-   "titre_fongbe": "Ɖo Agun tɔn mɛ ɔ, mi nɔ zan gbɛ ɖokpo nyinyi nugbo ɔ",
-   "refrain": [
-    "Wanyiyi nɔvi tɔn (vɔɖɔ)",
-    "Ɖo sisa wɛ ɖo Agun lɛɛ mɛ (vɔɖɔ)",
-    "Wanyiyi nɔvi tɔn"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Ɖo Agun tɔn mɛ ɔ, mi nɔ zan gbɛ ɖokpo nyinyi nugbo ɔ",
-      "Mi nɔ ji han lɛɛ, bo nɔ ɖe kunnu, enɛ ɔ wɛ nyi nujɔnu",
-      "Ɖo agbaza mɛ ɔ mi nɔ mɔ vivi susu ɖaxo ɖe tɔn",
-      "Gbɛ e ɖo mi mɛ ɔ ɛɛn hwebinu ɔ nɔ jlo kɔnɖokpɔ"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Enyi mi ɖo kɔnɖokpɔ ganji ɔ, xomɛ nɔ hun mɛ bi",
-      "Mi mɛ bi nɔ jɛ awa ɖo yɛ ɔ gɔ mi tunfla",
-      "Nɔvi sunu kpo nyɔnu kpo bi ɖo nukɔn yi wɛ",
-      "Mi nɔ sɔ gbɛtɔ yɔyɔ ɔ do, Klisu nyi nubi nu mi"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Sisa wanyiyi tɔn nɔ sa sin aga, bo nɔ sa ɖo mɛ bi mɛ",
-      "Sisa e nɛ ɔ e ɖo mi mɛ ɔ nɔ ɖe gbɛ Mawu tɔn xlɛ",
-      "kɔnɖokpɔ ɖo weziza nu ɔ zɔn bɔ mi nyi ɖokpo",
-      "Mi nɔ su kpo nɔvi lɛɛ kpo ɖo Klisu mɛ hwebinu"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han122.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": [
-    "Couplet 3 : la ligne « kɔnɖokpɔ ɖo weziza… » commence par une minuscule ; je l'ai gardée telle quelle.",
-    "Caractères du PDF convertis par déduction (à relire) : ↄ → ɔ"
-   ]
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 132,
-   "reference": "Han 132",
-   "chant_id": "anc-132",
-   "titre_francais": "Nous sommes rassemblés en tant que Ton corps,",
-   "titre_fongbe": "Mi sɛ ta kple gɛgɛ ɖi agbaza towe",
-   "refrain": [
-    "(A)gbaza ɖokpo ɔ wɛ tǐn ɖo wɛkɛ ɔ mɛ",
-    "Mi nyi xlɛ tɔn ɖ’ayikungban ji",
-    "Toxo ɖokpo mɛ zogbɛn hɛntin ɔ nɔ ɖɔ",
-    "Nu mɛ bi sésé ɖɔ mi nyi ɖokpo"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Mi sɛ ta kple gɛgɛ ɖi agbaza towe",
-      "Mi sukpɔ co mi bi wɛ nyi ɖokpo",
-      "Mi nyi wujɔnu towe bo ma gbɛ towe",
-      "Gbɔn hwi ɖesu ji ɔ mi bi (wɛ) nyi ɖokpo"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Wɔxuxu ɖokpo wɛ nyi xlɛ agbaza towe tɔn",
-      "Enyi finfɛn bɔ mɛ mimɛ lɛ ɖu",
-      "Mi ɖo ɖiɖɔ wɛ gbɔn wɔxuxu ɔ gbla mɛ",
-      "Ɖɔ mi nyi ɖokpo kpo mɛ mimɛ lɛ kpo"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Klisu s’axɔ bo do xɔ mɛ mimɛ lɛ",
-      "Bo nu mi mɛ bi na blo agbaza tɔn",
-      "Wɔxu(xu) kpo vɛɛn kpo ɖe wuntun ɖokpo xlɛ mi",
-      "Bo xlɛ mi ɖɔ mi ɖo na nyi ɖokpo"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Ɖokponyinyi ɔ wɛ zɔn bɔ kɛntɔ j’ayi",
-      "Ɖokponyi(nyi) énɛ ɔ Klisu ɖokpo gée wɛ",
-      "Xlɛ susu nɔ kɔfu wɔxuxu ɖokpo",
-      "Ɖe ɖokponyinyi enɛ ɔ xlɛ gbɛ ɔ bi"
-     ]
-    },
-    {
-     "ordre": 5,
-     "lignes": [
-      "Susu tɛ ɖié yɛ ɔ nɔ ɖe kunnu nu mi",
-      "Ɖɔ hwi wɛ nyi Aklunɔ mitɔn",
-      "Ɖɔkpɔn tɛ ɖié ɖokponyinyi ɔ xɔ akwɛ",
-      "(A)su gigo nɔ (A)gun towe ɖo te kpɔn we"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han132.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": []
-  },[
-  {
-    "numero": 133,
-    "langue": "fongbe",
-    "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han133.mp3",
-    "refrain": "Mi wa mi ni ɖu nu, nu bi sɔgbe !",
-    "couplets": [
-      {
-        "numero": 1,
-        "texte": "Mi wá, è ko tɛ távo ɔ́ ;\nMɛ s xovɛ́ sin, bɔ kɔ xú lɛ e;\nƐɛn, mi wá mi ni ɖu nu.\n\nMawu, wɛ ɖo mi ylɔ́ wɛ;\nMɛ e jló ɔ́ bo wa !\nHwlɛngán zɔ́ ɔ́ ko nyi wiwa;\nMɛ e jló ɔ́ ní wa bo yí!"
-      },
-      {
-        "numero": 2,
-        "texte": "Wǎ, hɔn ɖo hunhun nú we;\nÈ sɔ́ tɛnmɛ ɖaxó ɖé ɖ'ayǐ nú we.\nÐò Gǎn mǐtɔn kpá."
-      },
-      {
-        "numero": 3,
-        "texte": "Wǎ din e hwenu kpo ɖo te é.\nAxɔsu ɔ́ ɖo te kpɔ́n we.\nÐó sɔ na ko lín!"
-      },
-      {
-        "numero": 4,
-        "texte": "Jó linkpɔn gbɛ élɔ tɔn lɛ́ɛ dó.\nMi wá, mi j'awǎ, bó ɖu nǔ xá axɔ́sú ɔ́;\nNu gbɛ mavɔmavɔ!"
-      }
-    ]
-  },
-  {
-    "numero": 112,
-    "langue": "fongbe",
-    "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han112.mp3",
-    "refrain": null,
-    "couplets": [
-      {
-        "numero": 1,
-        "texte": "Susu nu Aklunɔ, hwi mɛ e fɔ́n sín kú é!\nSusu nu ɖuɖeji tɔ ɔ́ yi mavɔ mavɔ !\nWɛnsagun ɔ́ jɛ te, bó ɖo wěziza kɔ́n wɛ;\nÉ mlɔ́ awinnya e ɖò yɔdo e è ɖu ɖò jí é jí é síìn.\nHwi wɛ nyí susu, mɛ e fɔ́n sín kú é!\nƉuɖu ɔ́ ní nyí Hwi tɔn káká sɔ́yi!"
-      },
-      {
-        "numero": 2,
-        "texte": "Kpɔ́n É tɔ́n: É wɛ, Jezu wɛ,\nMɛhwlɛ́ngántɔ́ towe, Gǎn towe! O, ma sɔ́ ɖó linkpɔ́n ɖě ó!\nTogun Aklúnɔ tɔn mi, mi j'awǎ;\nBo nɔ jla magbokɔ ɖɔ: Klisu ɖuɖeji!"
-      },
-      {
-        "numero": 3,
-        "texte": "Un ɖo na kpo ɖo xɛsi ɖi wɛ a ? É ɖo gbɛ káká sɔ́yi;\nMɛ e un nɔ sɛn ɔ́, Fífá sín gǎn wɛ.\nÉ wɛ nyí ɖuɖeji ce, é wɛ nyí alɔdó ce ɖaxó ɔ́;\nGbɛ ce kpódó susu ce kpó: éo, un nɔ ɖi xɛsi nú nǔɖé ǎ."
-      }
-    ]
-  }
-] },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 143,
-   "reference": "Han 143",
-   "chant_id": "anc-143",
-   "titre_francais": "Et la Parole a été faite chair,",
-   "titre_fongbe": "E sɔ Mawuxo ɔ do huzu gbɛtɔ",
-   "refrain": [
-    "Aklunɔ ɖo gbɛ ɖo mimɛ",
-    "A ɖo susu wɛ ɖo mimɛ",
-    "A nɔ huzu mi do alɔ towe ji",
-    "Gba Agun ɔ ɖo ayikungban ji"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "E sɔ Mawuxo ɔ do huzu gbɛtɔ",
-      "Bɔ e wa bo wa nɔ mi mɛ",
-      "E gɔ kpo fɛnu kpodo nugbo kpo",
-      "Nɔvi lɛɛ bi mɔ susu tɔn"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han143.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": []
-  },{
-  "livre": "FƆNGBE HAN",
-  "han": 154,
-  "reference": "Han 154",
-  "chant_id": "anc-154",
-  "titre_francais": "Je suis un homme, La raison, le sens de l’univers.",
-  "titre_fongbe": "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi",
-  "refrain": null,
-  "couplets": [
-    {
-      "ordre": 1,
-      "lignes": [
-        "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi",
-        "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi",
-        "Mawu blo mi, nu ma ɖe e xlɛ",
-        "Un nyi gbɛtɔ, nyɛ mɛvo ɔ gbɛ ɔ ma na ɖo nyi"
-      ]
-    },
-    {
-      "ordre": 2,
-      "lignes": [
-        "Klísu ɖo gbɛ ɖo nyɛ mɛ, É wɛ nyí tɔn nu gbɛ ce",
-        "Klísu ɖo gbɛ ɖo nyɛ mɛ, É wɛ nyí tɔn nu gbɛ ce",
-        "Ɖò Yɛ ce mɛ ɔ, é nɔ gɔ́ mì;",
-        "É wɛ nyí tɔn, bo nyi nu e wutu un ɖo gbɛ e"
-      ]
-    },
-    {
-      "ordre": 3,
-      "lignes": [
-        "Agun ɔ Klisu wɛ, bo nɔ ɖe e xlɛ ɖo ayikungbanji",
-        "Agun ɔ Klisu wɛ, bo nɔ ɖe e xlɛ ɖo ayikungbanji",
-        "Bonu jlo tɔn, na nyi wiwa ɔ",
-        "Mawu ze acɛ jo nu gbɛtɔ́ ɖò ayikúngban jí"
-      ]
-    },
-    {
-      "ordre": 4,
-      "lignes": [
-        "Ɛɛn, ɖò Agun ɔ mɛ ɔ, nɔvi lɛ nɔ sɛkplé hwebinu",
-        "Ɛɛn, ɖò Agun ɔ mɛ ɔ, nɔvi lɛ nɔ sɛkplé hwebinu",
-        "Nǔɖuɖu kpó nunu kpó mɛ ɔ,",
-        "Mǐ nɔ ɖó susu wɛ gɛgɛ ɖi agun toxo lɛ́ɛ tɔn"
-      ]
-    },
-    {
-      "ordre": 5,
-      "lignes": [
-        "Nɛ mi na blo (gbɔn)? Mǐ na jla xo tɔn gbɔn gbɛ̀ ɔ bǐ mɛ",
-        "Nɛ mi na blo (gbɔn)? Mǐ na jla xo tɔn gbɔn gbɛ̀ ɔ bǐ mɛ",
-        "Mi (ni) suxo ylɔ ɛ, mi (ni) jla nyi tɔn",
-        "Wɛn ɖagbe élɔ́ ɖo na gba kpé gbɔn gbɛ ɔ́ bǐ mɛ."
-      ]
-    }
-  ],
-  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han154.mp3",
-  "source": "saisie manuelle",
-  "a_verifier": [
-    "Pas de refrain : le chant français n°154 n'en a pas non plus ; les deux premières lignes de chaque couplet se répètent, comme en français.",
-    "La lettre « Ð » (eth) de « Ðò Yɛ ce mɛ ɔ » (couplet 2) est convertie en « Ɖ »."
-  ]
-},
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 157,
-   "reference": "Han 157",
-   "chant_id": "anc-157",
-   "titre_francais": "Oui, nous sommes tous sortis",
-   "titre_fongbe": "Ɛɛn, é ɖe mǐ mɛ bi sín",
-   "refrain": [
-    "Aleluya, aleluya!",
-    "Mǐ mɛ bǐ sɔ́ gbetakɛn",
-    "Bo na gbá nɔtɛn tɔn",
-    "Aleluya, aleluya!",
-    "Ɛɛn, mǐ ɖo gbɛ égbé din ɖo Agun lɛ́ɛ mɛ."
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Ɛɛn, é ɖe mǐ mɛ bi sín",
-      "Ayihihɔn élɔ ɔ mɛ",
-      "Bo kpla mǐ xwe nɔtɛn ɖe,",
-      "Ó Susu nú Mawu!",
-      "Ðò fi ɔ, mǐ nyi ɖokpo,",
-      "Bó ɖo gbɛ̀ ɖò Yɛ ɔ mɛ.",
-      "Aklunɔ nyí gbɛ mǐtɔn",
-      "Égbé din, ɖò Agun lɛ mɛ."
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Mɛ (mɛ) lɛɛ ba wɛ Aklunɔ ɖe,",
-      "Bo na dó wa jlo tɔn,",
-      "Vɔsanúxwlémawutɔ́ lɛ!",
-      "O Susu nú Mawu!",
-      "Mɛ e ɖo gbɛ ɖo Jezu mɛ;",
-      "Bo gɔ́ kpo Yɛ tɔn kpo lɛ e,",
-      "Mɛ énɛ́ lɛ́ɛ wɛ é nɔ zan",
-      "Égbé din, ɖò Agun lɛ mɛ"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Acɛkpikpa Mawu tɔn.",
-      "Lɛkɔ wa Agun tɔn mɛ",
-      "Mi mɔ axɔ́ súɖuɖu tɔn,",
-      "O Susu nú Mawu!",
-      "Nu mǐ se tonu nu Yɛ ɔ",
-      "Agun ɔ nɔ nyi gbigba",
-      "Bɔ gbɛ tɔn nɔ ɖo susu wɛ",
-      "Égbé din, ɖò Agun lɛ mɛ"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Un ɖo na sɔ nyɛɖée jo",
-      "Ɖi vɔ̌ sánú gbɛɖe ɖɔhun",
-      "Bɔ Mawu na huzu mi",
-      "O Susu nú Mawu!",
-      "Aklunɔ ko kpé xa mǐ",
-      "Bo sɔ mǐ jo nu Agun tɔn",
-      "Susu tɛ ɖye, yɛyi tɛ dye",
-      "Bɔ mǐ huzu Agun ɔ tɔn"
-     ]
-    },
-    {
-     "ordre": 5,
-     "lignes": [
-      "Mawu vɔ nu lɛ jlaɖo",
-      "Bo jɛ kpɔ xa gbɛtɔ́",
-      "Bo ɖo nɔtɛn tɔn gba wɛ",
-      "O Susu nú Mawu!",
-      "Mi ji han bo kpa Aklunɔ",
-      "Agun tɔn na nyi gbigba!",
-      "Mi ko ɖu ɖo Kɛntɔ́ ji",
-      "Égbé din, ɖò Agun lɛ mɛ"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han157.mp3"
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 504,
-   "reference": "Han 504",
-   "chant_id": "anc-504",
-   "titre_francais": "J’ai erré loin, oui, loin de Dieu,",
-   "titre_fongbe": "Un flu, bo sɛ yi zɔ nu we",
-   "refrain": [
-    "Un lɛkɔ wa, un lɛkɔ wa",
-    "Un lɛkɔ wa bi xwǐ",
-    "Hun wanyiyi wa towe lɛɛ nu mi",
-    "(A)klunɔ un lɛkɔ wa"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Un flu, bo sɛ yi zɔ nu we",
-      "Din ɔ un lɛkɔ wa",
-      "Hwɛ mɛ jijɛ ɖo fi bi",
-      "(A)klunɔ, un lɛkɔ wa"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Un gu hwenu, gege ɖo gbe",
-      "Din ɔ un lɛkɔ wa",
-      "Un jɛ aluwɛ mɛ, bo gbɔ bo ɖyɔ",
-      "(A)klunɔ un lɛkɔ wa"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Hwɛhuhu kpo zɔ sɛyi nu we kpo cikɔ",
-      "Din ɔ un lɛkɔ wa",
-      "Hwi kpo xó towé kpo, wɛ un ɖì nu na",
-      "(A)klunɔ un lɛkɔ wa"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Un ba gan kpo, bɔ ayi ce gbado",
-      "Din ɔ un lɛkɔ wa",
-      "Na mi nukunɖiɖo, kpo hlɔnhlɔn kpo",
-      "(A)klunɔ un lɛkɔ wa"
-     ]
-    },
-    {
-     "ordre": 5,
-     "lignes": [
-      "Nukunɖiɖo ce, ’wajijɛ ce",
-      "Din ɔ un lɛkɔ wa",
-      "Jezu hwi wɛ kú, do ta ce mɛ",
-      "(A)klunɔ un lɛkɔ wa"
-     ]
-    },
-    {
-     "ordre": 6,
-     "lignes": [
-      "Un tunwun ɖɔ un ɖó, hudó hun ɔ tɔn",
-      "Din ɔ un lɛkɔ wa",
-      "Ɖi lawe ɖɔhun ɔ, é nɔ lɛ mi we",
-      "(A)klunɔ un lɛkɔ wa"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han504.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": [
-    "Caractères du PDF convertis par déduction (à relire) : ὶ → ì"
-   ]
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 566,
-   "reference": "Han 566",
-   "chant_id": "anc-566",
-   "titre_francais": "Le Seigneur de gloire paraîtra,",
-   "titre_fongbe": "Aklunɔ susunɔ ɔ na wa bo na jɛte sín jixwe",
-   "refrain": [
-    "Aklunɔ na wá ɖo susu mɛ",
-    "Mi (ni) ɖó mima ɖo ɖuɖeji ɔ mɛ",
-    "Aklunɔ na wá ɖo susu mɛ",
-    "Aleluya é na ɖyɔ mi bi xwǐ"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Aklunɔ susunɔ ɔ na wa bo na jɛte sín jixwe",
-      "mɛ e d’amlɔ ɖo nuɖiɖi mɛ lɛ na fɔn",
-      "Aklunɔ susunɔ ɔ na wa bo na sɔ mɛ e ɖo gbɛ lɛɛ",
-      "bɔ ɖo kɔndokpɔ mɛ ɔ mi bi xwǐ na ɖyɔ"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Aklunɔ susunɔ ɔ na wá, mi ɖo te kpɔn azan enɛ ɔ",
-      "E na sunsun ɖasin lɛɛ kpo avi lɛɛ kpo",
-      "Aklunɔ susunɔ ɔ na wa bo na ɖu axɔsu",
-      "E na su kun do nu kú kpo wuvɛ lɛɛ kpo"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Aklunɔ, sunvi zanzan tɔn na slɔ zaanɖe din",
-      "Mi (ni) nɔ wunzɛn bo na mɔ ajɔ ɔ yi",
-      "Weziza hwɛjijɔnɔ na zawe gbɔn gbɛ ɔ bi mɛ",
-      "(Bɔ) gbɔn eyɛ mɛ (ɔ) Ayikungban na nyi vivɔjɔ"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Aklunɔ susunɔ ɔ na wa, mi bi ni nɔ acéji",
-      "Mi (ni) nɔ wunzɛn bo hɛn zogbɛn (lɛɛ) ɖo tita",
-      "Mi (ni) nɔ gbeji bo ma ɖi gankwɛ e ɖo asi nu mi lɛɛ o",
-      "Mi ni wa azɔ ɖee e zɔn mi lɛɛ"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han566.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": [
-    "Plusieurs lignes commencent par une minuscule dans le PDF ; je les ai gardées telles quelles (strophes de 4 lignes)."
-   ]
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 573,
-   "reference": "Han 573",
-   "chant_id": "anc-573",
-   "titre_francais": "La joie me remplit,",
-   "titre_fongbe": "Vǐvǐ gɔ́ ayi ce mɛ",
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Vǐvǐ gɔ́ ayi ce mɛ",
-      "Ðó Mawu Hwlɛn mi gan",
-      "Vǐvǐ gɔ́ ayi ce mɛ",
-      "Mawu sɔ ayi ce",
-      "Huzu ayi ɖagbe",
-      "Bɔ nyɛ ɖo kpikp’ɛ kpódó ayi yɔyɔ̌ kpó",
-      "Vǐvǐ gɔ́ ayi ce",
-      "Ðó Mawu Hwlɛn mi gan"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Yɛsinsɛn nɔ na gbɛ",
-      "Fífa kpó hlɔnhlɔn kpó",
-      "Yɛsinsɛn nɔ hwlɛn mi",
-      "É tun kan nu mi sin ylando (ce) lɛ si",
-      "Bɔ sinsɛn ɖagbe lɛ ɖo wexo jɛ wɛ",
-      "Yɛsinsɛn nɔ na gbɛ",
-      "Fífa kpó hlɔnhlɔn kpó"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han573.mp3"
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 606,
-   "reference": "Han 606",
-   "chant_id": "anc-606",
-   "titre_francais": "O Jésus, je m’abandonne,",
-   "titre_fongbe": "O Jezu, un jo nyiɖée do,",
-   "refrain": [
-    "Un jo nu bi do",
-    "Un jo nu bi do",
-    "Nu hwlɛngantɔ́ ce Wanyinanɔ,",
-    "Un jo nu bi do"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "O Jezu, un jo nyiɖée do,",
-      "un ze gbɛ ce bi nú we.",
-      "Un yí wǎn nú we,un ba na sɛn we,",
-      "Un jlo na gan jɛ wu we"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "O Jezu, un jó nyiɖée dó",
-      "un ɖe kɔ ɖo nukɔn towe",
-      "Un jó ayihɔn ɔ kpó jlo tɔn (lɛ) kpo do",
-      "Bó ze nyiɖée bǐ nu we!"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "O Jezu, un jó nyiɖée dó",
-      "Towe wɛ un nyi hwe bi nu",
-      "Yɛsinsɛn nɔ ɖe kúnnu ɖɔ",
-      "A ɖu axɔ́ sú ɖo nyɛ mɛ."
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "O Jezu, un jó nyiɖée dó,",
-      "Yì gbɛzan ce, jlo ce nɛ.",
-      "Wǎn yíyí kpó hlɔ̌ nhlɔ́ n kpó ni gɔ mi",
-      "Do nu mi Aklunɔ ce!"
-     ]
-    },
-    {
-     "ordre": 5,
-     "lignes": [
-      "O Jezu, un jó nyiɖée dó,",
-      "Myɔ towe ni ji ɖo nyɛ mɛ",
-      "Hwlɛngán (towe) kpikpe ɔ́ na nu bi mì,",
-      "Susu nú we Alleluya!"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han606.mp3"
-  },
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 615,
-   "reference": "Han 615",
-   "chant_id": "anc-615",
-   "titre_francais": "Comme une terre altérée",
-   "titre_fongbe": "Ɖi lee ayikungban e xu ɔ",
-   "refrain": [
-    "Sin fifa ééé,",
-    "Ja kɔn nyi mi bi ji",
-    "Oo sin lɔn mɛ tɔn lɛɛ e mi,",
-    "Mi wa fa kɔ nu mi"
-   ],
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Ɖi lee ayikungban e xu ɔ",
-      "Nɔ ɖo sin ji tɔ ba wɛ ɔ,",
-      "Mi ɖo sin fɛnu ɔ tɔn ylɔ wɛ",
-      "Fɛnu tɔn Emanuwɛ(lu)"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Jɛte, o ji ɖàxo",
-      "Ja hoho do ayi mitɔn mɛ",
-      "Na mɛ e ɖo sin ba wɛ lɛ é",
-      "Fifa yɔyɔ ɖevo"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Ma jo nu xuxu ɖe do",
-      "Ni ma gɔn sinsɛn na o",
-      "Ayixa e xú ganji ɔ",
-      "ɖo na mɔ sin fifa yi"
-     ]
-    },
-    {
-     "ordre": 4,
-     "lignes": [
-      "Ɛn gbetotlo lɛ ni zɔn ama",
-      "Ɖo sin towe ɖagbe lɛ nu",
-      "Bonu fie xu lɛ ni zɔn kpɛɛn",
-      "Bo na sinsɛn yɔyɔ"
-     ]
-    },
-    {
-     "ordre": 5,
-     "lignes": [
-      "Wá; ô ji ɖagbewatɔ",
-      "Yɛ fɛnu kpo fifa kpo (tɔn)",
-      "Kɔn gbɛ e mɔ nɔ xu gbeɖee",
-      "Do mi bi xwǐ mɛɛɛ"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han615.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": [
-    "Caractères du PDF convertis par déduction (à relire) : ԑ → ɛ"
-   ]
-  },{
-  "livre": "FƆNGBE HAN",
-  "han": 625,
-  "reference": "Han 625",
-  "chant_id": "mix-cn-029",
-  "titre_francais": "Miséricorde insondable",
-  "titre_fongbe": "Xomɛ nyinyɔ ma ɖobdogo!",
-  "refrain": [
-    "Jezu, un wá, un wá gɔ̌n towe!",
-    "Lě e un ɖe wɛ un zɔn, un wá gɔ̌n towe!",
-    "Jezu, un wá, un wá gɔ̌n towe!",
-    "Lě e un ɖe wɛ un zɔn, yí mì."
-  ],
-  "couplets": [
-    {
-      "ordre": 1,
-      "lignes": [
-        "Xomɛ nyinyɔ ma ɖobdogo!",
-        "Mawu nɔ sɔ́ nǔ bǐ kɛ mɛ a?",
-        "Hwɛhutɔ́ ɖaxó nyɛ ɖɔhun",
-        "Mawu na wɔn hwɛ ce lɛ a?"
-      ]
-    },
-    {
-      "ordre": 2,
-      "lignes": [
-        "Hwenu gěgé nu ɔ, un nɔ nɔ zɔ nii,",
-        "Bɔ é ko sin xomɛ domi",
-        "Un syɛn sú ayixa ce dó fɛ́nú tɔn,",
-        "Bó do winya ɛ ɖo mɛ bǐ mɛ."
-      ]
-    },
-    {
-      "ordre": 3,
-      "lignes": [
-        "O Jezu, un jó nu bi nu we",
-        "Kɛnklɛn zlɔn agban ce lɛ mi",
-        "Ylando é nɔ ɖu ɖo ji ce lɛɛ e;",
-        "Jezu ɖeɖɛ gbɛzan ce."
-      ]
-    },
-    {
-      "ordre": 4,
-      "lignes": [
-        "Aleluya! xokpɔ́n ko vɔ",
-        "Jezu zlɔn agban ce lɛ mi",
-        "Un ɖo ali jí bo xwe sɛ́xwé,",
-        "Bo na (nɔ) jɛ awǎ hwebinu."
-      ]
-    }
-  ],
-  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han625.mp3",
-  "source": "saisie manuelle",
-  "a_verifier": [
-    "Lien à confirmer : le n°625 de LES CANTIQUES ANCIENS est « Trois fois Saint le Seigneur… » (autre chant). Le texte fongbe correspond à « Miséricorde insondable » (CHANTS MIXTES CN. 29, aussi GLOIRE A DIEU n°253).",
-    "Refrain : le bloc de 4 lignes « Jezu, un wá… » n'apparaît qu'après le couplet 1 ; il correspond au refrain français (« Jésus, je viens ! Je viens à toi ! »).",
-    "Faute de frappe possible, gardée telle que saisie : « nii » (couplet 2, ligne 1)."
-  ]
-},
-  {
-   "livre": "FƆNGBE HAN",
-   "han": 789,
-   "reference": "Han 789",
-   "chant_id": "anc-585",
-   "titre_francais": "Quel ami fidèle et tendre",
-   "titre_fongbe": "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
-   "refrain": null,
-   "couplets": [
-    {
-     "ordre": 1,
-     "lignes": [
-      "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
-      "Bɔ mi ɖo ɖo Jezu mɛ",
-      "Hwebinu ɔ é ɖo gbesìsɔ mɛ",
-      "Bo na se ɖɛ gbe mitɔn",
-      "E ka tunwun ayijijɛ mitɔn",
-      "Ahwan funfun hwebinu",
-      "Eɖo gbeji ɖo xo tɔn lɛ́ mɛ",
-      "Bo gɔ kpo wanyiyi kpo"
-     ]
-    },
-    {
-     "ordre": 2,
-     "lignes": [
-      "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
-      "Bɔ mi ɖo ɖo Jezu mɛ",
-      "E sɔ gbe na hwlɛn mi gan",
-      "Ɖo linkpɔn mitɔn lɛ mɛ",
-      "Mi ɖɔ linkpɔn mitɔn lɛ n’i",
-      "Bó hun ayixa mitɔn n’i",
-      "Xo tɔn mimɛ lɛ na na mi",
-      "Nyɔna nujɔnu lɛ mi"
-     ]
-    },
-    {
-     "ordre": 3,
-     "lignes": [
-      "Xɔntɔn gbedjinɔtɔ tɛ (ka) ɖie",
-      "Bɔ mi ɖo ɖo Jezu mɛ",
-      "E ɖo kplɔn kplɔn mi wɛ ɖɔ ji",
-      "Mi ni gan jɛ émi wu",
-      "E mɔ mi ɖo gbeji bɔ mi ɖo",
-      "Gbɛ tɔn mimɛ ba wɛ ɔ",
-      "E nɔ ɖotó ɖɛ mi tɔn lɛ",
-      "Bo nɔ tun kan nu mi bi"
-     ]
-    }
-   ],
-   "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han789.mp3",
-   "source": "Anciennes_traduc.pdf",
-   "a_verifier": [
-    "Numéro « 789 » tel qu'écrit dans le PDF. Le chant français correspondant (Quel ami fidèle et tendre) est le n°585 des CANTIQUES ANCIENS, d'après le texte : à confirmer.",
-    "Caractères du PDF convertis par déduction (à relire) : ὶ → ì"
-   ]
-  },
-  {
-    "livre": "FƆNGBE HAN",
-    "han": 551,
-    "reference": "Han 551",
-    "chant_id": "anc-551",
-    "titre_francais": "Va prêche l’Evangile,",
-    "titre_fongbe": "Yi jla Wɛnɖagbe",
-    "refrain": [
-      "Yi jla Wɛnɖagbe,",
-      "Hwlɛn alindɔ̌n lɛ gán!",
-      "Étɛ wutu a na nɔ do vɛ na?"
-    ],
-    "couplets": [
-      {
-        "ordre": 1,
-        "lignes": [
-          "Yi jla Wɛnɖagbe,",
-          "Hwlɛn alindɔ̌n lɛ gán!",
-          "Kpɔ́n, gbeɖokó ɔ́,",
-          "Mɛ nabi é nɔ́ kú e",
-          "Ma syɛn ayixa towe ó;",
-          "wɔn dɔkun towe lɛ́ɛ;",
-          "Ɖo hwe bi nu ɔ ɖɔ Mawuxo ɔ ɖo fi bǐ."
-        ]
-      }
-    ],
-    "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han551.mp3",
-    "source": "saisie manuelle"
-  }
-]
 }
