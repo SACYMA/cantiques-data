@@ -1,6 +1,6 @@
 {
  "description": "Traductions fongbe extraites de Han_Fongbe-Fr.pdf et Anciennes_traduc.pdf (Han N = Cantique N de LES CANTIQUES ANCIENS, sauf indication). Les refrains sont les lignes en gras-italique du PDF.",
-"Version": "1.5",
+"Version": "1.6",
  "livre": "FƆNGBE HAN",
  "traductions": [
   {
@@ -951,7 +951,52 @@
    "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han132.mp3",
    "source": "Anciennes_traduc.pdf",
    "a_verifier": []
+  },[
+  {
+    "numero": 133,
+    "langue": "fongbe",
+    "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han133.mp3",
+    "refrain": "Mi wa mi ni ɖu nu, nu bi sɔgbe !",
+    "couplets": [
+      {
+        "numero": 1,
+        "texte": "Mi wá, è ko tɛ távo ɔ́ ;\nMɛ s xovɛ́ sin, bɔ kɔ xú lɛ e;\nƐɛn, mi wá mi ni ɖu nu.\n\nMawu, wɛ ɖo mi ylɔ́ wɛ;\nMɛ e jló ɔ́ bo wa !\nHwlɛngán zɔ́ ɔ́ ko nyi wiwa;\nMɛ e jló ɔ́ ní wa bo yí!"
+      },
+      {
+        "numero": 2,
+        "texte": "Wǎ, hɔn ɖo hunhun nú we;\nÈ sɔ́ tɛnmɛ ɖaxó ɖé ɖ'ayǐ nú we.\nÐò Gǎn mǐtɔn kpá."
+      },
+      {
+        "numero": 3,
+        "texte": "Wǎ din e hwenu kpo ɖo te é.\nAxɔsu ɔ́ ɖo te kpɔ́n we.\nÐó sɔ na ko lín!"
+      },
+      {
+        "numero": 4,
+        "texte": "Jó linkpɔn gbɛ élɔ tɔn lɛ́ɛ dó.\nMi wá, mi j'awǎ, bó ɖu nǔ xá axɔ́sú ɔ́;\nNu gbɛ mavɔmavɔ!"
+      }
+    ]
   },
+  {
+    "numero": 112,
+    "langue": "fongbe",
+    "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han112.mp3",
+    "refrain": null,
+    "couplets": [
+      {
+        "numero": 1,
+        "texte": "Susu nu Aklunɔ, hwi mɛ e fɔ́n sín kú é!\nSusu nu ɖuɖeji tɔ ɔ́ yi mavɔ mavɔ !\nWɛnsagun ɔ́ jɛ te, bó ɖo wěziza kɔ́n wɛ;\nÉ mlɔ́ awinnya e ɖò yɔdo e è ɖu ɖò jí é jí é síìn.\nHwi wɛ nyí susu, mɛ e fɔ́n sín kú é!\nƉuɖu ɔ́ ní nyí Hwi tɔn káká sɔ́yi!"
+      },
+      {
+        "numero": 2,
+        "texte": "Kpɔ́n É tɔ́n: É wɛ, Jezu wɛ,\nMɛhwlɛ́ngántɔ́ towe, Gǎn towe! O, ma sɔ́ ɖó linkpɔ́n ɖě ó!\nTogun Aklúnɔ tɔn mi, mi j'awǎ;\nBo nɔ jla magbokɔ ɖɔ: Klisu ɖuɖeji!"
+      },
+      {
+        "numero": 3,
+        "texte": "Un ɖo na kpo ɖo xɛsi ɖi wɛ a ? É ɖo gbɛ káká sɔ́yi;\nMɛ e un nɔ sɛn ɔ́, Fífá sín gǎn wɛ.\nÉ wɛ nyí ɖuɖeji ce, é wɛ nyí alɔdó ce ɖaxó ɔ́;\nGbɛ ce kpódó susu ce kpó: éo, un nɔ ɖi xɛsi nú nǔɖé ǎ."
+      }
+    ]
+  }
+] },
   {
    "livre": "FƆNGBE HAN",
    "han": 143,
