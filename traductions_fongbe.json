@@ -1835,10 +1835,10 @@
           ]
         }
       ],
-      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han789.mp3",
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han585.mp3",
       "source": "Anciennes_traduc.pdf",
       "a_verifier": [
-        "Saisi à l'origine comme « Han 789 » ; renuméroté 585 pour correspondre au chant français « Quel ami fidèle et tendre ». Le fichier audio garde son nom d'origine (han789.mp3).",
+        "Saisi à l'origine comme « Han 789 » ; renuméroté 585 pour correspondre au chant français « Quel ami fidèle et tendre ».",
         "Caractères du PDF convertis par déduction (à relire) : ὶ → ì"
       ]
     },
@@ -1964,10 +1964,10 @@
           ]
         }
       ],
-      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han615.mp3",
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han614.mp3",
       "source": "Anciennes_traduc.pdf",
       "a_verifier": [
-        "Saisi à l'origine comme « Han 615 » ; renuméroté 614 pour correspondre au chant français « Comme une terre altérée ». Le fichier audio garde son nom d'origine (han615.mp3).",
+        "Saisi à l'origine comme « Han 615 » ; renuméroté 614 pour correspondre au chant français « Comme une terre altérée ».",
         "Caractères du PDF convertis par déduction (à relire) : ԑ → ɛ"
       ]
     },
@@ -2096,10 +2096,10 @@
           ]
         }
       ],
-      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han465.mp3",
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han638.mp3",
       "source": "saisie manuelle",
       "a_verifier": [
-        "Saisi à l'origine comme « Han 465 » ; renuméroté 638 pour correspondre au chant français « Le grand jour s'est levé ». Le fichier audio garde son nom d'origine (han465.mp3).",
+        "Saisi à l'origine comme « Han 465 » ; renuméroté 638 pour correspondre au chant français « Le grand jour s'est levé ».",
         "Refrain : le bloc de 7 lignes (« Yɛsinsɛn ɖo fi… ») n'était écrit qu'une fois, après le couplet 1 ; il correspond au refrain français (« Le Saint-Esprit est là… »).",
         "La lettre « Ð » (eth) est convertie en « Ɖ »."
       ]
