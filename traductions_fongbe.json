@@ -1,6 +1,6 @@
 {
   "description": "Traductions fongbe extraites de Han_Fongbe-Fr.pdf et Anciennes_traduc.pdf (Han N = Cantique N de LES CANTIQUES ANCIENS, sauf indication). Les refrains sont les lignes en gras-italique du PDF.",
-  "Version": "1.9",
+  "Version": "2.0",
   "livre": "FƆNGBE HAN",
   "traductions": [
     {
@@ -821,6 +821,80 @@
         "Refrain : le bloc de 6 lignes (« Nu e gosin Mawu gɔn ɔ nɔví… ») n'apparaît qu'après le couplet 1 ; il correspond au refrain français du n°81 (« Ce qui est né de Dieu, ô frère… »)."
       ]
     },
+
+
+
+
+
+
+
+{
+  "livre": "FƆNGBE HAN",
+  "han": 83,
+  "reference": "Han 83",
+  "chant_id": "anc-083",
+  "titre_francais": "",
+  "titre_fongbe": "",
+ 
+  "couplets": [
+    {
+      "ordre": 1,
+      "lignes": [
+        "Ðò Yɛ ce mɛ ɔ, un nɔ mɔ Aklunɔ lee é ɖè é",
+        "Azɔ ɖe e é bɛ́ é ɔ, é na wa fó jɛnwɛ",
+        "É nɔ nɔ nyɛ mɛ, bo nyí nǔ bǐ nú mì, Aklúnɔ, yí ayixa ce",
+        "Sɔ huzu nɔtɛn towe",
+        "Nɔ kɔn hwiɖée",
+        "Bó yáwǔ sù ɖo nyɛ mɛ."
+      ]
+    },
+    {
+      "ordre": 2,
+      "lignes": [
+        "Ðò Agun ɔ mɛ ɔ, un nɔ mɔ Aklunɔ lee é ɖè é,",
+        "Un ko flu kaka, dyɔn un wa mɔ we",
+        "Fi wɛ un jlo na nɔ",
+        "Tito towe wɛ Aklunɔ",
+        "Hwɛ wɛ nɔ huzu mi",
+        "Kpo nɔvi ɖělɛ́ɛ kpó",
+        "Ðò Agun towe mɛ",
+        "Un wa mɔ gbɔjɛ lo"
+      ],
+       "refrainP": [
+    "Ɛɛn, Yɛ ce wɛ nyi nǔ taji ɔ",
+    "Hwɛjijɔ biba lɛ ma nɔ na nuɖe",
+    "Agun ɔ wɛ nyí nǔjɔnu ɔ",
+    "Mǐ nɔ do ɖɔ̀ do ɖo wanyiyi ɔ mɛ." ]
+    },
+    {
+      "ordre": 3,
+      "lignes": [
+        "Gbɛ Mawu tɔn kɛɖɛ wɛ nɔ blo bɔ e nɔ su",
+        "Énɛ́ ɔ́ wɛ zɔn Aklúnɔ, mǐ jó mǐɖée nu we,",
+        "Ðokpo nyinyi tɛ́ dye",
+        "(A)gbaza towe ɖe éɖée xlɛ́.",
+        "Xomɛ nɔ hun mɛ bi",
+        "Ɖo mi (nɔ) wa jlo towe",
+        "Ðò Agun lɛ mɛ.",
+        "A na (lɛkɔ) wá zaanɖé din."
+      ]
+    }
+  ],
+  "audioUrl": "",
+  "source": "saisie manuelle",
+  "a_verifier": [
+    ""
+  ]
+}
+
+
+
+
+
+
+
+
+
     {
       "livre": "FƆNGBE HAN",
       "han": 102,
