@@ -833,8 +833,8 @@
   "han": 83,
   "reference": "Han 83",
   "chant_id": "anc-083",
-  "titre_francais": "",
-  "titre_fongbe": "",
+  "titre_francais": "Oui, mon esprit, c’est la clé",
+  "titre_fongbe": "Ɛɛn, Yɛ ce wɛ nyi nǔ taji ɔ",
  
   "couplets": [
     {
@@ -880,20 +880,13 @@
       ]
     }
   ],
-  "audioUrl": "",
+  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han83.mp3",
   "source": "saisie manuelle",
   "a_verifier": [
     ""
   ]
 }
-
-
-
-
-
-
-
-
+,
 
     {
       "livre": "FƆNGBE HAN",
