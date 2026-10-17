@@ -414,7 +414,51 @@
         "Typos possibles, gardées telles que saisies : « biǐ » (couplet 2, ligne 1, peut-être « bǐ ») et « xwii » (couplet 2, ligne 4, peut-être « xwǐ »).",
         "Les guillemets ‘’ ’’ sont convertis en “ ” ; les espaces avant ! ? ; sont supprimées."
       ]
+    }, 
+{
+  "livre": "FƆNGBE HAN",
+  "han": 25,
+  "reference": "Han 25",
+  "chant_id": "anc-025",
+  "titre_francais": "Mangeons et buvons ",
+  "titre_fongbe": "Mi ɖu bo nú Aklúnɔ Jezu",
+  "refrain": [],
+  "couplets": [
+    {
+      "ordre": 1,
+      "lignes": [
+        "Mi ɖu bo nú Aklúnɔ Jezu,",
+        "Mi ɖu bo nú Aklúnɔ Jezu,",
+        "Mi ɖu bo nú Aklúnɔ Jezu,",
+        "Mǐ ná nɔ gbɛ, gbɔn éyɛ mɛ !"
+      ]
     },
+    {
+      "ordre": 2,
+      "lignes": [
+        "Mi gbɛ miɖee bo yi O Jezu,",
+        "Mi gbɛ miɖee bo yi O Jezu,",
+        "Mi gbɛ miɖee bo yi O Jezu,",
+        "Gbɛtɔ́ yɔyɔ̌, gbɛtɔ́ yɔyɔ̌ !"
+      ]
+    },
+    {
+      "ordre": 3,
+      "lignes": [
+        "Mi ma vlɛ Klísu ó, amɔ́, mǐ ní ɖu i;",
+        "Mi ma vlɛ Klísu ó, amɔ́, mǐ ní ɖu i",
+        "Mi ma vlɛ Klísu ó, amɔ́, mǐ ní ɖu i",
+        "É na na mi, nu e ba wɛ mi ɖe e !"
+      ]
+    }
+  ],
+  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han25.mp3",
+  "source": "saisie manuelle",
+  "a_verifier": [
+    "Le titre français reste à confirmer.",
+    "Vérifier si les répétitions des couplets correspondent exactement à la version originale."
+  ]
+},
     {
       "livre": "FƆNGBE HAN",
       "han": 28,
