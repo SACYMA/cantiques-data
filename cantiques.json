@@ -483,9 +483,7 @@
           "numero": 8
         }
       ],
-      "refrain": [
-        "Dis : ‘‘Seigneur Jésus’’, goûte et"
-      ],
+      "refrain": null,
       "couplets": [
         {
           "ordre": 1,
@@ -493,7 +491,7 @@
             "Notre Dieu est vivant chante Alléluia",
             "Jésus vit en nous, chante Alléluia !",
             "Nous goûtons sa vie, Il est notre pain,",
-            "vois !",
+            "Dis : ‘‘Seigneur Jésus’’, goûte et vois !",
             "Nous nous rassemblons,",
             "Il n’y a rien de mieux",
             "Car en esprit nous sommes une famille,",
