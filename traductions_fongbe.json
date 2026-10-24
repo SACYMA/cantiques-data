@@ -459,7 +459,69 @@
     "Vérifier si les répétitions des couplets correspondent exactement à la version originale."
   ]
 },
+    
+{
+  "livre": "FƆNGBE HAN",
+  "han": 27,
+  "reference": "Han 27",
+  "chant_id": "anc-027",
+  "titre_francais": "",
+  "titre_fongbe": "Yɛn na nɔ kpa ɛ ɖo gbɛhwenu ce bi",
+  "refrain": [
+    "E nɔ na nuɖuɖu Yɛ mitɔn",
+    "Jezu Klisu nyi gbɛ mitɔn",
+    "Mi suxo ylɔ nyikɔtɔn ɔ é nɔ gɔ mi",
+    "Suxo ylɔ Aklunɔ nyikɔ",
+    "Dɔkun ɖe ɖo Klosu mɛ",
+    "Eyɛ mɛ wɛ mi nɔ mɔ nu lɛ bi ɖe"
+  ],
+  "couplets": [
     {
+      "ordre": 1,
+      "lignes": [
+        "Yɛn na nɔ kpa ɛ ɖo gbɛhwenu ce bi,",
+        "Ðo Jezu ɖo yɛn mɛ",
+        "Bo nyi nubi nu mi",
+        "E wɛ nɔ na gbɛ mi",
+        "Yɛn na nɔ kpa ɛ ɖo gbɛhwenu ce bi,",
+        "Ðo Jezu ɖo yɛn mɛ",
+        "Hwebinu wɛ un nɔ nɔ nu i"
+      ]
+    },
+    {
+      "ordre": 2,
+      "lignes": [
+        "Dyɔn un ɖo gbɛ gbɔn gbɛ tɔn ji",
+        "E (nɔ) na nuɖuɖu mi",
+        "Sisɛn tɔn wɛ un nɔ ɖu",
+        "Gbɛ ɖo Mawuvi ɔ mɛ",
+        "Dyɔn un ɖo gbɛ gbɔn gbɛ tɔn ji",
+        "Bo nɔ zun zɔnlin xa ɛ",
+        "E wɛ (nɔ) na bɔ un nɔ ɖu"
+      ]
+    },
+    {
+      "ordre": 3,
+      "lignes": [
+        "Ðo Yɛ ce mɛ ɔ sisa gbɛ tɔn ɔ",
+        "Nɔ sa bo nɔ gɔ mi",
+        "Ðo Agun ɔ bi mɛ ɔ",
+        "Nu ɖe ma nɔ ɖo e te",
+        "Ðo Yɛ ce mɛ ɔ sisa gbɛ tɔn ɔ",
+        "Nɔ gɔ mi hwebinu",
+        "nyikɔ tɔn (nɔ) nyi Jezu"
+      ]
+    }
+  ],
+  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han27.mp3",
+  "source": "saisie manuelle",
+  "a_verifier": [
+    "Le titre français n'a pas été fourni.",
+    "Vérifier la graphie de certaines paroles si nécessaire."
+  ]
+},
+
+{
       "livre": "FƆNGBE HAN",
       "han": 28,
       "reference": "Han 28",
