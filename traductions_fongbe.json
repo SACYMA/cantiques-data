@@ -994,7 +994,60 @@
 }
 ,
 
+{
+  "livre": "FƆNGBE HAN",
+  "han": 84,
+  "reference": "Han 84",
+  "chant_id": "anc-084",
+  "titre_francais": "",
+  "titre_fongbe": "Mi ji han nu Aklunɔ ɖo Gbigbɔ mɛ",
+  "refrain": null,
+  "couplets": [
     {
+      "ordre": 1,
+      "lignes": [
+        "Mi ji han nu Aklunɔ ɖo Gbigbɔ mɛ",
+        "Mi ji han sin ayixa mitɔn mɛ",
+        "Mi ji han Jezu Klisu Aleluya",
+        "Mi kpo é kpo wɛ nyi Gbigbɔ ɖokpo"
+      ]
+    },
+    {
+      "ordre": 2,
+      "lignes": [
+        "Xwe gege wɛ mi ze do ba we na",
+        "Bɔ mi flu ɖo linlin mitɔn mɛ",
+        "Mi ba we gbɔn sinsɛn lɛɛ bi mɛ",
+        "Mi bawe kakaa bo ba we kpo"
+      ]
+    },
+    {
+      "ordre": 3,
+      "lignes": [
+        "Dyɔ mi lɛkɔ kpanta Gbigbɔ ɔ",
+        "Bɔ lee e nɔ ɖu Jezu gbɔ ɔ mi kplɔn",
+        "Bo jo hlɔnhlɔn e mi nɔ zan lɛ do",
+        "Bo hun miɖe nu Jezu kpowun"
+      ]
+    },
+    {
+      "ordre": 4,
+      "lignes": [
+        "Aleluya gbɛ ɔ ɖo Yɛ ɔ mɛ",
+        "Aleluya é wɛ nɔ kpla mi",
+        "Hwebinu e mi lɛkɔ kpanta Yɛ ɔ",
+        "Jezu Klisu nɔ byɔ mi mɛ"
+      ]
+    }
+  ],
+  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han84.mp3",
+  "source": "saisie manuelle",
+  "a_verifier": [
+    "Le titre français n'a pas été fourni.",
+    "Vérifier si le chant comporte un refrain distinct."
+  ]
+},
+ {
       "livre": "FƆNGBE HAN",
       "han": 102,
       "reference": "Han 102",
