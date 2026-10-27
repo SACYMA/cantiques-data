@@ -632,6 +632,36 @@
       ],
       "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han40.mp3"
     },
+{
+  "livre": "FƆNGBE HAN",
+  "han": 54,
+  "reference": "Han 54",
+  "chant_id": "anc-054",
+  "titre_francais": "",
+  "titre_fongbe": "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
+  "refrain": [],
+  "couplets": [
+    {
+      "ordre": 1,
+      "lignes": [
+        "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
+        "Jezu wɛ ɖo gbɛ ɖo nyɛ mɛ",
+        "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
+        "Jezu wɛ ɖo gbɛ ɖo nyɛ mɛ",
+        "É ɖo gbɛ, é ɖo gbɛ",
+        "Jezu (Klisu) wɛ ɖo gbɛ ɖo nyɛ mɛ",
+        "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
+        "Jezu wɛ ɖo gbɛ ɖo nyɛ mɛ"
+      ]
+    }
+  ],
+  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han54.mp3",
+  "source": "saisie manuelle",
+  "a_verifier": [
+    "Le titre français n'a pas été fourni.",
+    "Vérifier si certaines lignes constituent un refrain distinct."
+  ]
+},
     {
       "livre": "FƆNGBE HAN",
       "han": 69,
