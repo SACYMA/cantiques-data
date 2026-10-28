@@ -32595,60 +32595,6 @@
       "sous_theme": "LUI FAIRE CONFIANCE"
     },
     {
-      "id": "mix-h-137",
-      "titre": "Ma volonté s’est affaiblie",
-      "theme": "L'expérience de Christ",
-      "apparitions": [
-        {
-          "livre": "CHANTS MIXTES",
-          "serie": "H",
-          "numero": 137,
-          "reference": "H. 137"
-        }
-      ],
-      "refrain": null,
-      "couplets": [
-        {
-          "ordre": 1,
-          "lignes": [
-            "Ma volonté s’est affaiblie",
-            "Et mon espoir s’est envolé",
-            "Seul en Ton œuvre je me fie,",
-            "Tu me soutiens et me conduis."
-          ]
-        },
-        {
-          "ordre": 2,
-          "lignes": [
-            "Tous mes efforts ont échoué",
-            "Comme autrefois je suis tombé.",
-            "Mais Ta patience est mon salut :",
-            "Tu veux toujours me pardonner."
-          ]
-        },
-        {
-          "ordre": 3,
-          "lignes": [
-            "Lorsque mon cœur est exalté,",
-            "Je suis si près de trébucher",
-            "Je n’ose rien faire ou penser",
-            "Toi seul Seigneur, Tu peux m’aider."
-          ]
-        },
-        {
-          "ordre": 4,
-          "lignes": [
-            "Toi mon Sauveur et mon soutien",
-            "Je veux ta face rechercher.",
-            "Je suis sans force et défaillant :",
-            "Seule Ta grâce est mon rocher."
-          ]
-        }
-      ],
-      "theme_source": "EXPÉRIMENTER CHRIST",
-      "sous_theme": "LUI FAIRE CONFIANCE"
-    },
-    {
       "id": "mix-h-138",
       "titre": "Quand nous marchons par Christ,",
       "theme": "L'expérience de Christ",
