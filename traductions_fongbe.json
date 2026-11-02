@@ -415,6 +415,61 @@
         "Les guillemets ‘’ ’’ sont convertis en “ ” ; les espaces avant ! ? ; sont supprimées."
       ]
     }, 
+
+
+{
+  "livre": "FƆNGBE HAN",
+  "han": 23,
+  "reference": "Han 23",
+  "titre_francais": "",
+  "titre_fongbe": "",
+  "refrains": [
+    [
+      
+      "Jezu wɛ nyi gbɛ ce égbe din"
+    ],
+    [
+      "Jezu Jezu wɛ nyi gbɛ ce",
+      "Nu e ba wɛ un ɖe lɛ e un ko mɔ bi",
+      "Jezu Jezu wɛ nyi gbɛ ce"
+    ]
+  ],
+  "couplets": [
+    {
+      "ordre": 1,
+      "lignes": [
+        "Xwe mɔkpan wɛ un ko flu na",
+        "Bo ɖo gbɔjɛtɛn ɖe ba wɛ",
+        "Nu nyanya gbɛ élɔ tɔn lɛ",
+        "Bi wɛ gɔ gbɛzan ce mɛ",
+        "Un ka wa mɔ Aklunɔ",
+        "E wa fa kɔ nu mi",
+        "Tɔjɔtɛn ɖe saxwé nyi nyɛ mɛ",
+        "Bo nɔ ɖo sisa (wɛ)",
+        "Bɔ un nɔ nu i"
+      ]
+    },
+    {
+      "ordre": 2,
+      "lignes": [
+        "Ée un ɖɔ Aklunɔ kpɔn é ɔ",
+        "E kpla mi wa Agun ɔ mɛ",
+        "Ðo so ɔ ji ɖo Gbogbɔ mɛ ɔ",
+        "Un mɔ toxo mimɛ ɔ",
+        "(Ɛɛn) Aklunɔ wɛ ba mi mɔ",
+        "Bo kpla mi wa Agun mɛ",
+        "Fi ɔ gbɛ ɔ nɔ ɖo sisa wɛ",
+        "Bo nɔ gɔ gbɛ ce",
+"Bɔ un nɔ nu i"
+      ]
+    }
+  ],"audioUrl": "https://sacyma.github.io/cantiques-data/Audioshan23.mp3",
+  "source": "saisie manuelle",
+  "a_verifier": []
+}
+,
+
+
 {
   "livre": "FƆNGBE HAN",
   "han": 25,
