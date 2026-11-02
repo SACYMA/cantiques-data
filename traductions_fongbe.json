@@ -416,165 +416,153 @@
       ]
     },
     {
-  "livre": "FƆNGBE HAN",
-  "han": 23,
-  "reference": "Han 23",
-  "titre_francais": "",
-  "titre_fongbe": "",
- 
-  "refrain": [
-    [ 
-      "Jezu wɛ nyi gbɛ ce égbe din"
-    ],
-    [
-      "Jezu Jezu wɛ nyi gbɛ ce",
-      "Nu e ba wɛ un ɖe lɛ e un ko mɔ bi",
-      "Jezu Jezu wɛ nyi gbɛ ce"
-    ]
-  ],
-  "couplets": [
+      "livre": "FƆNGBE HAN",
+      "han": 23,
+      "reference": "Han 23",
+      "titre_francais": "",
+      "titre_fongbe": "",
+      "refrain": [
+        "Jezu wɛ nyi gbɛ ce égbe din"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Xwe mɔkpan wɛ un ko flu na",
+            "Bo ɖo gbɔjɛtɛn ɖe ba wɛ",
+            "Nu nyanya gbɛ élɔ tɔn lɛ",
+            "Bi wɛ gɔ gbɛzan ce mɛ",
+            "Un ka wa mɔ Aklunɔ",
+            "E wa fa kɔ nu mi",
+            "Tɔjɔtɛn ɖe saxwé nyi nyɛ mɛ",
+            "Bo nɔ ɖo sisa (wɛ)",
+            "Bɔ un nɔ nu i"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Ée un ɖɔ Aklunɔ kpɔn é ɔ",
+            "E kpla mi wa Agun ɔ mɛ",
+            "Ðo so ɔ ji ɖo Gbogbɔ mɛ ɔ",
+            "Un mɔ toxo mimɛ ɔ",
+            "(Ɛɛn) Aklunɔ wɛ ba mi mɔ",
+            "Bo kpla mi wa Agun mɛ",
+            "Fi ɔ gbɛ ɔ nɔ ɖo sisa wɛ",
+            "Bo nɔ gɔ gbɛ ce",
+            "Bɔ un nɔ nu i"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han23.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": []
+    },
     {
-      "ordre": 1,
-      "lignes": [
-        "Xwe mɔkpan wɛ un ko flu na",
-        "Bo ɖo gbɔjɛtɛn ɖe ba wɛ",
-        "Nu nyanya gbɛ élɔ tɔn lɛ",
-        "Bi wɛ gɔ gbɛzan ce mɛ",
-        "Un ka wa mɔ Aklunɔ",
-        "E wa fa kɔ nu mi",
-        "Tɔjɔtɛn ɖe saxwé nyi nyɛ mɛ",
-        "Bo nɔ ɖo sisa (wɛ)",
-        "Bɔ un nɔ nu i"
+      "livre": "FƆNGBE HAN",
+      "han": 25,
+      "reference": "Han 25",
+      "chant_id": "anc-025",
+      "titre_francais": "Mangeons et buvons ",
+      "titre_fongbe": "Mi ɖu bo nú Aklúnɔ Jezu",
+      "refrain": [],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Mi ɖu bo nú Aklúnɔ Jezu,",
+            "Mi ɖu bo nú Aklúnɔ Jezu,",
+            "Mi ɖu bo nú Aklúnɔ Jezu,",
+            "Mǐ ná nɔ gbɛ, gbɔn éyɛ mɛ !"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Mi gbɛ miɖee bo yi O Jezu,",
+            "Mi gbɛ miɖee bo yi O Jezu,",
+            "Mi gbɛ miɖee bo yi O Jezu,",
+            "Gbɛtɔ́ yɔyɔ̌, gbɛtɔ́ yɔyɔ̌ !"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Mi ma vlɛ Klísu ó, amɔ́, mǐ ní ɖu i;",
+            "Mi ma vlɛ Klísu ó, amɔ́, mǐ ní ɖu i",
+            "Mi ma vlɛ Klísu ó, amɔ́, mǐ ní ɖu i",
+            "É na na mi, nu e ba wɛ mi ɖe e !"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han25.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Le titre français reste à confirmer.",
+        "Vérifier si les répétitions des couplets correspondent exactement à la version originale."
       ]
     },
     {
-      "ordre": 2,
-      "lignes": [
-        "Ée un ɖɔ Aklunɔ kpɔn é ɔ",
-        "E kpla mi wa Agun ɔ mɛ",
-        "Ðo so ɔ ji ɖo Gbogbɔ mɛ ɔ",
-        "Un mɔ toxo mimɛ ɔ",
-        "(Ɛɛn) Aklunɔ wɛ ba mi mɔ",
-        "Bo kpla mi wa Agun mɛ",
-        "Fi ɔ gbɛ ɔ nɔ ɖo sisa wɛ",
-        "Bo nɔ gɔ gbɛ ce",
-"Bɔ un nɔ nu i"
-      ]
-    }
-  ],"audioUrl": "https://sacyma.github.io/cantiques-data/Audioshan23.mp3",
-  "source": "saisie manuelle",
-  "a_verifier": []
-}
-,
-
-
-{
-  "livre": "FƆNGBE HAN",
-  "han": 25,
-  "reference": "Han 25",
-  "chant_id": "anc-025",
-  "titre_francais": "Mangeons et buvons ",
-  "titre_fongbe": "Mi ɖu bo nú Aklúnɔ Jezu",
-  "refrain": [],
-  "couplets": [
-    {
-      "ordre": 1,
-      "lignes": [
-        "Mi ɖu bo nú Aklúnɔ Jezu,",
-        "Mi ɖu bo nú Aklúnɔ Jezu,",
-        "Mi ɖu bo nú Aklúnɔ Jezu,",
-        "Mǐ ná nɔ gbɛ, gbɔn éyɛ mɛ !"
-      ]
-    },
-    {
-      "ordre": 2,
-      "lignes": [
-        "Mi gbɛ miɖee bo yi O Jezu,",
-        "Mi gbɛ miɖee bo yi O Jezu,",
-        "Mi gbɛ miɖee bo yi O Jezu,",
-        "Gbɛtɔ́ yɔyɔ̌, gbɛtɔ́ yɔyɔ̌ !"
-      ]
-    },
-    {
-      "ordre": 3,
-      "lignes": [
-        "Mi ma vlɛ Klísu ó, amɔ́, mǐ ní ɖu i;",
-        "Mi ma vlɛ Klísu ó, amɔ́, mǐ ní ɖu i",
-        "Mi ma vlɛ Klísu ó, amɔ́, mǐ ní ɖu i",
-        "É na na mi, nu e ba wɛ mi ɖe e !"
-      ]
-    }
-  ],
-  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han25.mp3",
-  "source": "saisie manuelle",
-  "a_verifier": [
-    "Le titre français reste à confirmer.",
-    "Vérifier si les répétitions des couplets correspondent exactement à la version originale."
-  ]
-},
-    
-{
-  "livre": "FƆNGBE HAN",
-  "han": 27,
-  "reference": "Han 27",
-  "chant_id": "anc-027",
-  "titre_francais": "",
-  "titre_fongbe": "Yɛn na nɔ kpa ɛ ɖo gbɛhwenu ce bi",
-  "refrain": [
-    "E nɔ na nuɖuɖu Yɛ mitɔn",
-    "Jezu Klisu nyi gbɛ mitɔn",
-    "Mi suxo ylɔ nyikɔtɔn ɔ é nɔ gɔ mi",
-    "Suxo ylɔ Aklunɔ nyikɔ",
-    "Dɔkun ɖe ɖo Klisu mɛ",
-    "Eyɛ mɛ wɛ mi nɔ mɔ nu lɛ bi ɖe"
-  ],
-  "couplets": [
-    {
-      "ordre": 1,
-      "lignes": [
-        "Yɛn na nɔ kpa ɛ ɖo gbɛhwenu ce bi,",
-        "Ðo Jezu ɖo yɛn mɛ",
-        "Bo nyi nubi nu mi",
-        "E wɛ nɔ na gbɛ mi",
-        "Yɛn na nɔ kpa ɛ ɖo gbɛhwenu ce bi,",
-        "Ðo Jezu ɖo yɛn mɛ",
-        "Hwebinu wɛ un nɔ nɔ nu i"
+      "livre": "FƆNGBE HAN",
+      "han": 27,
+      "reference": "Han 27",
+      "chant_id": "anc-027",
+      "titre_francais": "",
+      "titre_fongbe": "Yɛn na nɔ kpa ɛ ɖo gbɛhwenu ce bi",
+      "refrain": [
+        "E nɔ na nuɖuɖu Yɛ mitɔn",
+        "Jezu Klisu nyi gbɛ mitɔn",
+        "Mi suxo ylɔ nyikɔtɔn ɔ é nɔ gɔ mi",
+        "Suxo ylɔ Aklunɔ nyikɔ",
+        "Dɔkun ɖe ɖo Klisu mɛ",
+        "Eyɛ mɛ wɛ mi nɔ mɔ nu lɛ bi ɖe"
+      ],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Yɛn na nɔ kpa ɛ ɖo gbɛhwenu ce bi,",
+            "Ðo Jezu ɖo yɛn mɛ",
+            "Bo nyi nubi nu mi",
+            "E wɛ nɔ na gbɛ mi",
+            "Yɛn na nɔ kpa ɛ ɖo gbɛhwenu ce bi,",
+            "Ðo Jezu ɖo yɛn mɛ",
+            "Hwebinu wɛ un nɔ nɔ nu i"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Dyɔn un ɖo gbɛ gbɔn gbɛ tɔn ji",
+            "E (nɔ) na nuɖuɖu mi",
+            "Sisɛn tɔn wɛ un nɔ ɖu",
+            "Gbɛ ɖo Mawuvi ɔ mɛ",
+            "Dyɔn un ɖo gbɛ gbɔn gbɛ tɔn ji",
+            "Bo nɔ zun zɔnlin xa ɛ",
+            "E wɛ (nɔ) na bɔ un nɔ ɖu"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Ðo Yɛ ce mɛ ɔ sisa gbɛ tɔn ɔ",
+            "Nɔ sa bo nɔ gɔ mi",
+            "Ðo Agun ɔ bi mɛ ɔ",
+            "Nu ɖe ma nɔ ɖo e te",
+            "Ðo Yɛ ce mɛ ɔ sisa gbɛ tɔn ɔ",
+            "Nɔ gɔ mi hwebinu",
+            "nyikɔ tɔn (nɔ) nyi Jezu"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han27.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Le titre français n'a pas été fourni.",
+        "Vérifier la graphie de certaines paroles si nécessaire."
       ]
     },
     {
-      "ordre": 2,
-      "lignes": [
-        "Dyɔn un ɖo gbɛ gbɔn gbɛ tɔn ji",
-        "E (nɔ) na nuɖuɖu mi",
-        "Sisɛn tɔn wɛ un nɔ ɖu",
-        "Gbɛ ɖo Mawuvi ɔ mɛ",
-        "Dyɔn un ɖo gbɛ gbɔn gbɛ tɔn ji",
-        "Bo nɔ zun zɔnlin xa ɛ",
-        "E wɛ (nɔ) na bɔ un nɔ ɖu"
-      ]
-    },
-    {
-      "ordre": 3,
-      "lignes": [
-        "Ðo Yɛ ce mɛ ɔ sisa gbɛ tɔn ɔ",
-        "Nɔ sa bo nɔ gɔ mi",
-        "Ðo Agun ɔ bi mɛ ɔ",
-        "Nu ɖe ma nɔ ɖo e te",
-        "Ðo Yɛ ce mɛ ɔ sisa gbɛ tɔn ɔ",
-        "Nɔ gɔ mi hwebinu",
-        "nyikɔ tɔn (nɔ) nyi Jezu"
-      ]
-    }
-  ],
-  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han27.mp3",
-  "source": "saisie manuelle",
-  "a_verifier": [
-    "Le titre français n'a pas été fourni.",
-    "Vérifier la graphie de certaines paroles si nécessaire."
-  ]
-},
-
-{
       "livre": "FƆNGBE HAN",
       "han": 28,
       "reference": "Han 28",
@@ -685,36 +673,36 @@
       ],
       "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han40.mp3"
     },
-{
-  "livre": "FƆNGBE HAN",
-  "han": 54,
-  "reference": "Han 54",
-  "chant_id": "anc-054",
-  "titre_francais": "",
-  "titre_fongbe": "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
-  "refrain": [],
-  "couplets": [
     {
-      "ordre": 1,
-      "lignes": [
-        "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
-        "Jezu wɛ ɖo gbɛ ɖo nyɛ mɛ",
-        "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
-        "Jezu wɛ ɖo gbɛ ɖo nyɛ mɛ",
-        "É ɖo gbɛ, é ɖo gbɛ",
-        "Jezu (Klisu) wɛ ɖo gbɛ ɖo nyɛ mɛ",
-        "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
-        "Jezu wɛ ɖo gbɛ ɖo nyɛ mɛ"
+      "livre": "FƆNGBE HAN",
+      "han": 54,
+      "reference": "Han 54",
+      "chant_id": "anc-054",
+      "titre_francais": "",
+      "titre_fongbe": "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
+      "refrain": [],
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
+            "Jezu wɛ ɖo gbɛ ɖo nyɛ mɛ",
+            "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
+            "Jezu wɛ ɖo gbɛ ɖo nyɛ mɛ",
+            "É ɖo gbɛ, é ɖo gbɛ",
+            "Jezu (Klisu) wɛ ɖo gbɛ ɖo nyɛ mɛ",
+            "Nyɛ ɖesu wɛ sɔ ɖo gbɛ a",
+            "Jezu wɛ ɖo gbɛ ɖo nyɛ mɛ"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han54.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Le titre français n'a pas été fourni.",
+        "Vérifier si certaines lignes constituent un refrain distinct."
       ]
-    }
-  ],
-  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han54.mp3",
-  "source": "saisie manuelle",
-  "a_verifier": [
-    "Le titre français n'a pas été fourni.",
-    "Vérifier si certaines lignes constituent un refrain distinct."
-  ]
-},
+    },
     {
       "livre": "FƆNGBE HAN",
       "han": 69,
@@ -1010,127 +998,118 @@
         "Refrain : le bloc de 6 lignes (« Nu e gosin Mawu gɔn ɔ nɔví… ») n'apparaît qu'après le couplet 1 ; il correspond au refrain français du n°81 (« Ce qui est né de Dieu, ô frère… »)."
       ]
     },
-
-
-
-
-
-
-
-{
-  "livre": "FƆNGBE HAN",
-  "han": 83,
-  "reference": "Han 83",
-  "chant_id": "anc-083",
-  "titre_francais": "Oui, mon esprit, c’est la clé",
-  "titre_fongbe": "Ɛɛn, Yɛ ce wɛ nyi nǔ taji ɔ",
- 
-  "couplets": [
     {
-      "ordre": 1,
-      "lignes": [
-        "Ðò Yɛ ce mɛ ɔ, un nɔ mɔ Aklunɔ lee é ɖè é",
-        "Azɔ ɖe e é bɛ́ é ɔ, é na wa fó jɛnwɛ",
-        "É nɔ nɔ nyɛ mɛ, bo nyí nǔ bǐ nú mì, Aklúnɔ, yí ayixa ce",
-        "Sɔ huzu nɔtɛn towe",
-        "Nɔ kɔn hwiɖée",
-        "Bó yáwǔ sù ɖo nyɛ mɛ."
-      ]
-    },
-    {
-      "ordre": 2,
-      "lignes": [
-        "Ðò Agun ɔ mɛ ɔ, un nɔ mɔ Aklunɔ lee é ɖè é,",
-        "Un ko flu kaka, dyɔn un wa mɔ we",
-        "Fi wɛ un jlo na nɔ",
-        "Tito towe wɛ Aklunɔ",
-        "Hwɛ wɛ nɔ huzu mi",
-        "Kpo nɔvi ɖělɛ́ɛ kpó",
-        "Ðò Agun towe mɛ",
-        "Un wa mɔ gbɔjɛ lo"
+      "livre": "FƆNGBE HAN",
+      "han": 83,
+      "reference": "Han 83",
+      "chant_id": "anc-083",
+      "titre_francais": "Oui, mon esprit, c’est la clé",
+      "titre_fongbe": "Ɛɛn, Yɛ ce wɛ nyi nǔ taji ɔ",
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Ðò Yɛ ce mɛ ɔ, un nɔ mɔ Aklunɔ lee é ɖè é",
+            "Azɔ ɖe e é bɛ́ é ɔ, é na wa fó jɛnwɛ",
+            "É nɔ nɔ nyɛ mɛ, bo nyí nǔ bǐ nú mì, Aklúnɔ, yí ayixa ce",
+            "Sɔ huzu nɔtɛn towe",
+            "Nɔ kɔn hwiɖée",
+            "Bó yáwǔ sù ɖo nyɛ mɛ."
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Ðò Agun ɔ mɛ ɔ, un nɔ mɔ Aklunɔ lee é ɖè é,",
+            "Un ko flu kaka, dyɔn un wa mɔ we",
+            "Fi wɛ un jlo na nɔ",
+            "Tito towe wɛ Aklunɔ",
+            "Hwɛ wɛ nɔ huzu mi",
+            "Kpo nɔvi ɖělɛ́ɛ kpó",
+            "Ðò Agun towe mɛ",
+            "Un wa mɔ gbɔjɛ lo"
+          ],
+          "refrainP": [
+            "Ɛɛn, Yɛ ce wɛ nyi nǔ taji ɔ",
+            "Hwɛjijɔ biba lɛ ma nɔ na nuɖe",
+            "Agun ɔ wɛ nyí nǔjɔnu ɔ",
+            "Mǐ nɔ do ɖɔ̀ do ɖo wanyiyi ɔ mɛ."
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Gbɛ Mawu tɔn kɛɖɛ wɛ nɔ blo bɔ e nɔ su",
+            "Énɛ́ ɔ́ wɛ zɔn Aklúnɔ, mǐ jó mǐɖée nu we,",
+            "Ðokpo nyinyi tɛ́ dye",
+            "(A)gbaza towe ɖe éɖée xlɛ́.",
+            "Xomɛ nɔ hun mɛ bi",
+            "Ɖo mi nɔ wa jlo towe",
+            "Ðò Agun lɛ mɛ.",
+            "A na (lɛkɔ) wá zaanɖé din."
+          ]
+        }
       ],
-       "refrainP": [
-    "Ɛɛn, Yɛ ce wɛ nyi nǔ taji ɔ",
-    "Hwɛjijɔ biba lɛ ma nɔ na nuɖe",
-    "Agun ɔ wɛ nyí nǔjɔnu ɔ",
-    "Mǐ nɔ do ɖɔ̀ do ɖo wanyiyi ɔ mɛ." ]
-    },
-    {
-      "ordre": 3,
-      "lignes": [
-        "Gbɛ Mawu tɔn kɛɖɛ wɛ nɔ blo bɔ e nɔ su",
-        "Énɛ́ ɔ́ wɛ zɔn Aklúnɔ, mǐ jó mǐɖée nu we,",
-        "Ðokpo nyinyi tɛ́ dye",
-        "(A)gbaza towe ɖe éɖée xlɛ́.",
-        "Xomɛ nɔ hun mɛ bi",
-        "Ɖo mi nɔ wa jlo towe",
-        "Ðò Agun lɛ mɛ.",
-        "A na (lɛkɔ) wá zaanɖé din."
-      ]
-    }
-  ],
-  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han83.mp3",
-  "source": "saisie manuelle",
-  "a_verifier": [
-    ""
-  ]
-}
-,
-
-{
-  "livre": "FƆNGBE HAN",
-  "han": 84,
-  "reference": "Han 84",
-  "chant_id": "anc-084",
-  "titre_francais": "",
-  "titre_fongbe": "Mi ji han nu Aklunɔ ɖo Gbigbɔ mɛ",
-  "refrain": null,
-  "couplets": [
-    {
-      "ordre": 1,
-      "lignes": [
-        "Mi ji han nu Aklunɔ ɖo Gbigbɔ mɛ",
-        "Mi ji han sin ayixa mitɔn mɛ",
-        "Mi ji han Jezu Klisu Aleluya",
-        "Mi kpo é kpo wɛ nyi Gbigbɔ ɖokpo"
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han83.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": [
+        ""
       ]
     },
     {
-      "ordre": 2,
-      "lignes": [
-        "Xwe gege wɛ mi ze do ba we na",
-        "Bɔ mi flu ɖo linlin mitɔn mɛ",
-        "Mi ba we gbɔn sinsɛn lɛɛ bi mɛ",
-        "Mi bawe kakaa bo ba we kpo"
+      "livre": "FƆNGBE HAN",
+      "han": 84,
+      "reference": "Han 84",
+      "chant_id": "anc-084",
+      "titre_francais": "",
+      "titre_fongbe": "Mi ji han nu Aklunɔ ɖo Gbigbɔ mɛ",
+      "refrain": null,
+      "couplets": [
+        {
+          "ordre": 1,
+          "lignes": [
+            "Mi ji han nu Aklunɔ ɖo Gbigbɔ mɛ",
+            "Mi ji han sin ayixa mitɔn mɛ",
+            "Mi ji han Jezu Klisu Aleluya",
+            "Mi kpo é kpo wɛ nyi Gbigbɔ ɖokpo"
+          ]
+        },
+        {
+          "ordre": 2,
+          "lignes": [
+            "Xwe gege wɛ mi ze do ba we na",
+            "Bɔ mi flu ɖo linlin mitɔn mɛ",
+            "Mi ba we gbɔn sinsɛn lɛɛ bi mɛ",
+            "Mi bawe kakaa bo ba we kpo"
+          ]
+        },
+        {
+          "ordre": 3,
+          "lignes": [
+            "Dyɔ mi lɛkɔ kpanta Gbigbɔ ɔ",
+            "Bɔ lee e nɔ ɖu Jezu gbɔ ɔ mi kplɔn",
+            "Bo jo hlɔnhlɔn e mi nɔ zan lɛ do",
+            "Bo hun miɖe nu Jezu kpowun"
+          ]
+        },
+        {
+          "ordre": 4,
+          "lignes": [
+            "Aleluya gbɛ ɔ ɖo Yɛ ɔ mɛ",
+            "Aleluya é wɛ nɔ kpla mi",
+            "Hwebinu e mi lɛkɔ kpanta Yɛ ɔ",
+            "Jezu Klisu nɔ byɔ mi mɛ"
+          ]
+        }
+      ],
+      "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han84.mp3",
+      "source": "saisie manuelle",
+      "a_verifier": [
+        "Le titre français n'a pas été fourni.",
+        "Vérifier si le chant comporte un refrain distinct."
       ]
     },
     {
-      "ordre": 3,
-      "lignes": [
-        "Dyɔ mi lɛkɔ kpanta Gbigbɔ ɔ",
-        "Bɔ lee e nɔ ɖu Jezu gbɔ ɔ mi kplɔn",
-        "Bo jo hlɔnhlɔn e mi nɔ zan lɛ do",
-        "Bo hun miɖe nu Jezu kpowun"
-      ]
-    },
-    {
-      "ordre": 4,
-      "lignes": [
-        "Aleluya gbɛ ɔ ɖo Yɛ ɔ mɛ",
-        "Aleluya é wɛ nɔ kpla mi",
-        "Hwebinu e mi lɛkɔ kpanta Yɛ ɔ",
-        "Jezu Klisu nɔ byɔ mi mɛ"
-      ]
-    }
-  ],
-  "audioUrl": "https://sacyma.github.io/cantiques-data/Audios/han84.mp3",
-  "source": "saisie manuelle",
-  "a_verifier": [
-    "Le titre français n'a pas été fourni.",
-    "Vérifier si le chant comporte un refrain distinct."
-  ]
-},
- {
       "livre": "FƆNGBE HAN",
       "han": 102,
       "reference": "Han 102",
@@ -1210,7 +1189,7 @@
             "Nɔ ylɔ nyikɔ tɔn kpowun, E na gɔ hwɛ mɛ",
             "Nu a ylɔ Jezu Klisu ɔ",
             "É na dyɔ gbɛzan towe",
-            "Mǐ ɖo nɔ yɔlɔ ɛ",
+            "Mǐ ɖo nɔ ylɔ ɛ",
             "Bo na ze gbɛ mǐtɔn nǐ"
           ]
         }
